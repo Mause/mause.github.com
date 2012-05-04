@@ -1,21 +1,20 @@
 ---
 layout: default
-title: Portfolio
+title: Blog
 ---
 
 <section class="content">
-  <h2>Portfolio</h2>
-
-  <p>Check out my images below!</p>
-  </section>
+  <h2>Blog</h2>
+</section>
 
   <ul class="entries">
     {% for post in site.posts %}
 
     <li>
       <a href="{{ post.url }}">
-        <img src="{{ post.image }}" />
-        <h3>{{ post.title }}</h3>
+        <!--<img src="{{ post.image }}" />-->
+		<h1>{{  post.title }}</h1>
+        <h5>{{ post.preview }}</h5>
       </a>
     </li>
 
