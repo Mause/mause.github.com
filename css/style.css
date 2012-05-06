@@ -1,3 +1,6 @@
+.inset { text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F,
+        0 0 0.2em #87F;}
+
 body {
   font: 16px/1.5 verdana, helvetica-neue, helvetica, arial, san-serif;
   background: black;
@@ -5,6 +8,7 @@ body {
   padding: 0;
   margin: 0;
 }
+html, body { height: 100% } 
 ul {
   margin: 0;
   padding: 0;
@@ -21,6 +25,7 @@ a:hover {
 
 #main {
   width: 960px;
+  height: 100%;
   margin: 0 auto;
   background: rgba(255, 255, 255, 0.4);
 }
@@ -71,4 +76,10 @@ ul.entries a:hover {
 footer {
   font-size: 0.65em;
   text-align: center;
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  background: rgba(255, 255, 255, 0.4);
+  bottom: 20px;
+  margin: 0 auto;
 }
