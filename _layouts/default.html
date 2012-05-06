@@ -3,13 +3,13 @@
     <head>
       <meta charset=utf-8 />
       <title> {% if page.title %} {{ page.title }} | {% endif %} Lord_DeathMatch / Mause </title>
-      <link rel="stylesheet" href="/css/style.css" />
+      <link rel="stylesheet" href="css/style.css" />
     </head>
     <body>
       <div id="main">
 		
         <header>
-          <h1>Lord_DeathMatch / Mause</h1>
+          <h1 class="inset">Lord_DeathMatch / Mause</h1>
 
         <nav role="navigation">
           <ul>
@@ -24,14 +24,18 @@
 
         {{ content }}
 
-        <footer>
-          <p>&copy; Dominic May 2012 | All Rights Reserved. </p>
-        </footer>
+
 		<a href="http://github.com/Mause">
 			<img style="position: absolute; top: 0; right: 0; border: 0;"
 				 src="https://a248.e.akamai.net/camo.github.com/e6bef7a091f5f3138b8cd40bc3e114258dd68ddf/687474703a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67"
 				 alt="Fork me on GitHub"></a>
-
+        <div class="clearfooter"></div>
       </div>
+      <footer>
+        <div id="footer">
+            <p>&copy; Dominic May 2012 | All Rights Reserved. </p>
+        </div>  
+      </footer>
+      <div id="spacer" style="height: 20px;"></div>
       </body>
     </html>
