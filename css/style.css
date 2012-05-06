@@ -1,5 +1,6 @@
 .inset { text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F,
-        0 0 0.2em #87F;}
+        0 0 0.2em #87F;
+        color: navy;}
 
 body {
   font: 16px/1.5 verdana, helvetica-neue, helvetica, arial, san-serif;
