@@ -21,13 +21,19 @@
 	<link rel="stylesheet" href="stylesheets/base.css">
 	<link rel="stylesheet" href="stylesheets/skeleton.css">
 	<link rel="stylesheet" href="stylesheets/layout.css">
-    <style>.inset { text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F,
-        0 0 0.2em #87F;
-        color: navy;} div
-{
-text-align:justify;
-text-justify:inter-word;
-} body { background: url(img/bgnoise_lg.png); }</style>
+    <style>
+    	.inset {
+    		text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F;
+        	color: navy;
+       	}
+       	div {
+			text-align:justify;
+			text-justify:inter-word;
+		}
+		body {
+			background: url(img/bgnoise_lg.png);
+		}
+	</style>
 
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -36,10 +42,11 @@ text-justify:inter-word;
 	<!-- Favicons
 	================================================== -->
 	<link rel="shortcut icon" href="images/favicon.ico">
+	<!--
 	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-
+	-->
 	<script type="text/javascript">
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-31158292-1']);
@@ -59,8 +66,6 @@ text-justify:inter-word;
 	<!-- Primary Page Layout
 	================================================== -->
 
-	<!-- Delete everything in this .container and get started on your own site! -->
-
 	<div class="container">
 		<div class="sixteen columns">
 			<h1 class="remove-bottom inset" style="margin-top: 40px">Lord_DeathMatch / Mause</h1>
@@ -74,19 +79,11 @@ text-justify:inter-word;
 		<div class="one-half column">
 			<h3>About me</h3>
             <p>
-                I've lived on dairys farms all my life, hate the heat of the city.
-                I have what some people refer to as stage fright; though i'm not sure if that is really an apt description, considering what it entails.
-                I am sometimes simply afraid of raising my voice to be heard, admittedly.
-                Regardless, i am currently fifteen years old and attending school at the local senior high school;
-                i am taking, this year:
-                English 2A/B, Math 2C/D, Computer Science 2A/B, Biology 2A/B, <span title="This subject is a joke, an utter waste of time for me">Certificate 2 Business Managment,</span> and Food Science <span title="?">1C/D</span>.
+                I am currently <span id="age">fifteen</span> years old, am sometimes afraid of raising my voice to be heard, and am attending school at the local senior high school; i am taking, this year:
+                English 2A/B, Math 2C/D, Computer Science 2A/B, Biology 2A/B, <span title="This subject is a joke, an utter waste of time for me">Certificate 2 Business Managment,</span> and Food Science <span title="?">1C/D</span>. I've lived on dairys farms all my life, defy the stereotype of being good at math as a "nerd".
+                I have stage fright to a point, though by that i mean i hate speaking to people i don't know/am unfamiliar with. A simple handshake usually clears that right up though :)
             </p>
 		</div>
-		<!--<div class="one-third column">
-			<h3>Contact Me</h3>
-			<p>If you need to contact me, its probably best that you use the following address:<br><a href="mailto:jack.thatch@gmail.com">jack.thatch@gmail.com</a></p>
-		</div>-->
-
 	</div><!-- container -->
 
 
@@ -94,7 +91,12 @@ text-justify:inter-word;
 	<!-- JS
 	================================================== -->
 	<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
-	<script src="javascripts/tabs.js"></script>
+	<script type="text/javascript" src="javascripts/tabs.js"></script>
+	<script type="text/javascript" src="javascripts/toword.js"></script>
+	<script type="text/javascript">
+		var my_age=toWords(Math.floor(((new Date().getTime())-(new Date(1996,8,7).getTime()))/31536E6));
+		if (my_age[my_age.length-1]===' ')my_age=my_age.substring(0,my_age.length-1);$('#age').html(my_age)
+	</script>
 
 <!-- End Document
 ================================================== -->
