@@ -101,8 +101,9 @@
 		<script type="text/javascript" src="javascripts/tabs.js"></script>
 		<script type="text/javascript" src="javascripts/toword.js"></script>
 		<script type="text/javascript">
-			var my_age=toWords(Math.floor(((new Date().getTime())-(new Date(1996,8,7).getTime()))/31536E6));
-			if (my_age[my_age.length-1]===' ')my_age=my_age.substring(0,my_age.length-1);$('#age').html(my_age)
+			function calc_age(year,month,day){
+				my_age=toWords(Math.floor(((new Date())-(new Date(year,(month-1),day)))/31536E6));if(my_age[my_age.length-1]===' ')my_age=my_age.substring(0,my_age.length-1);return my_age;}
+			$('#age').html(calc_age(1996,8,7))
 		</script>
 
 		<!-- End Document
