@@ -76,7 +76,12 @@
 			<div class="column">
 				<h3>Project ByTeMoRe</h3>
 				<p>
-	                Project ByTeMoRe was born from an idea i had some years ago, out of frustration. My problem was that i am both a music lover and a game player. Unfortunately, most games do not like being minimised; most react badly, taking quite some time to display again once restored. I wanted to be able to manipulate the song that was playing when i was gaming, and because of said reason, i could not easily. My primary computer at the time was 
+	                Project ByTeMoRe was born from an idea i had some years ago, out of frustration. My problem was that i am both a music lover and a game player. Unfortunately, most games do not like being minimized; most react badly, taking quite some time to display again once restored. I wanted to be able to manipulate the song that was playing when i was gaming, and because of said reason, i could not easily. My primary computer at the time was a custom built desktop, and as such i had no restrictions on how i might want to modify it. My idea was essentially quite simple. Cut up a spare front panel cover, re-cycle an old floppy disk drive mount, and have a handful of buttons connected to a <a href="http://www.picaxe.com/Hardware/PICAXE-Chips/PICAXE-20X2-microcontroller/">PICAXE 20X2 Microcontroller</a> (64MHz, programmed in a flavor of BASIC). Unfortunately, the design was subject to feature creep, and i was soon planning to add a <a href="http://www.adafruit.com/products/198">screen</a> and a <a href="http://www.ebay.com.au/itm/ws/eBayISAPI.dll?ViewItem&item=160419133461&ssPageName=ADME:L:OU:AU:1123">cheap bluetooth module</a>. Multiple circuit diagrams later, i was ready to begin soldering. And i did. And damn that screen was a <span title="bitch">b*tch</span> to solder. Happy with my work, i powered it up... and nothing happened. After quite some time sweating and swearing, i transplanted the setup to a spare breadboard, 
+
+
+	            </p>
+	            <p>
+	            	TL:DR; I needed a way to control iTunes without touching the computer, so i create a wireless bluetooth remote using a cheap bluetooth module, a micro programmed in BASIC, and a 20x4 screen from Adafruit.
 	            </p>
 			</div>
 		</div><!-- container -->
@@ -87,13 +92,6 @@
 		================================================== -->
 		<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
 		<script type="text/javascript" src="javascripts/tabs.js"></script>
-		<script type="text/javascript" src="javascripts/toword.js"></script>
-		<script type="text/javascript">
-			function calc_age(year,month,day){my_age=toWords(Math.floor(((new Date())-(new Date(year,(month-1),day)))/31535973734.399998));if(my_age[my_age.length-1]===' ')my_age=my_age.substring(0,my_age.length-1);return my_age;}
-
-		$('#age').html(calc_age(1996,8,7))
-		</script>
-
 		<!-- End Document
 		================================================== -->
 	</body>
