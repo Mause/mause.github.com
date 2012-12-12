@@ -1,5 +1,0 @@
-/**
- * @copyright CSSJockey.com
- */
-
-
