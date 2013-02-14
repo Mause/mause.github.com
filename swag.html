@@ -1,19 +1,14 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-    
+
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>
             SWAG Loader
         </title>
         <!-- Code within Head Tag -->
-        <script type="text/javascript" src="js/jquery-1.7.2.min.js">
-        </script>
-        <script type="text/javascript" src="js/jquery.slabtext.min.js">
-        </script>
-        <script type="text/javascript">
-        // $('#loading-bar-wrapper').
-        </script>
+        <script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+        <script type="text/javascript" src="js/jquery.slabtext.min.js"></script>
         <!-- Code within Head Tag -->
         <style type="text/css">
             .loading-bar {
@@ -22,11 +17,10 @@
                 border: 1px solid rgba(0, 0, 0, 0.1);
                 text-transform: uppercase;
                 padding:10px;
-                width: 600px; 
+                width: 600px;
                 text-align: center;
                 text-shadow:1px 1px white;
                 font-size:18px;
-                /*cursor:pointer;*/ 
                 -webkit-transition:all 0.8s;
                 -ms-transition:all 0.8s;
                 -moz-transition:all 0.8s;
@@ -94,7 +88,7 @@
             .loading-bar { width: 0px; }
         </style>
     </head>
-    
+
     <body style="background-color: black;">
         <header>
             <div class="header">
@@ -118,7 +112,6 @@
             max_width = 98.15;
             number = 0;
             function runner() {
-                // console.log('Yep');
                 number = getRandomInt(number, max_width);
                 console.log(number);
                 $('.loading-bar').animate({
@@ -128,7 +121,7 @@
                     setTimeout(runner, Math.random());
                 } else {
                     console.log('Done');
-                    $(".header").html("<span class='slabtext' style='color:white;'><h1>S.W.A.G. LOADED</h1></span>").slabText();                    
+                    $(".header").html("<span class='slabtext' style='color:white;'><h1>S.W.A.G. LOADED</h1></span>").slabText();
                 }
             }
             $(window).ready(runner)
