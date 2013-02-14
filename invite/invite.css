@@ -1,0 +1,38 @@
+/* dimension ratio; 5x8 */
+.middle {
+  top: 45%;
+  left: 50%;
+  width: 500px;
+  margin-left: -250px;
+  height: 312.5px;
+  margin-top: -156.25px;
+  position: relative;
+}
+.outer_border {
+  width: 500px;
+  height: 312.5px;
+  border: solid 5px #c7b346;
+}
+.inner_border {
+  height: 302.5px;
+  width: 490px;
+  border: solid 5px #9e262f;
+  background-image: url('gold_leaf_texture_02_by_NegativeFeedback_clean.jpg');
+}
+.actual_content {
+  margin: 10px;
+  height: 282.5px;
+  border: solid 1px black;
+  background-color: rgba(185, 182, 182, 0.44);
+}
+.actual_content header {
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 'Merienda', cursive;
+}
+.actual_content .promo {
+  padding: 5px;
+  font-family: 'Romanesco', cursive;
+  font-size: 25px;
+  float: none;
+}

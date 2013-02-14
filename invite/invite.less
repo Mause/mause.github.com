@@ -1,0 +1,68 @@
+// colours constants
+@gold: #C7B346;
+@light_gold: #C7B346;
+@red: #9e262f;
+// @red: #D12E18;
+
+/* dimension ratio; 5x8 */
+@height_to_width_ratio: 5/8;
+@width: 500px;
+@height: @height_to_width_ratio * @width;
+
+body {
+    // background-color: black;
+}
+
+.middle {
+    top: 45%;
+    left: 50%;
+    width: @width;
+    margin-left: (@width / 2) - @width;
+    height: @height;
+    margin-top: (@height / 2) - @height;
+    position: relative;
+}
+
+.outer_border {
+    width: @width;
+    height: @height;
+    .colour_border(@gold)
+}
+
+.inner_border {
+    height: @height - (5 * 2);
+    width: @width - (5 * 2);
+    .colour_border(@red);
+    background-image: url('gold_leaf_texture_02_by_NegativeFeedback_clean.jpg');
+}
+
+.actual_content {
+    margin: 10px;
+    height: @height - 10 - 10 - 10;
+    .colour_border(black, 1px);
+    background-color: rgba(185, 182, 182, 0.44);
+
+    header {
+        font-size:  50px;
+        font-weight: bold;
+        font-family: 'Merienda', cursive;
+    }
+    .promo {
+        padding: 5px;
+        font-family: 'Romanesco', cursive;
+        font-size: 25px;
+        float: none;
+    }
+}
+
+// functions
+.colour_border(@colour, @thickness: 5px) {
+    border: solid @thickness @colour;
+}
+
+
+.border-radius (@radius) {
+  -webkit-border-radius: @radius;
+  -moz-border-radius: @radius;
+  border-radius: @radius;
+}
