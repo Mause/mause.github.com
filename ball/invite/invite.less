@@ -1,3 +1,7 @@
+// imports
+// @import "prefixer.less";
+
+
 // colours constants
 @gold: #C7B346;
 @light_gold: #C7B346;
@@ -26,15 +30,26 @@ body {
 .outer_border {
     width: @width;
     height: @height;
-    .colour_border(@gold)
+    .colour_border(@gold);
+
+    border-left: 9px solid transparent;
+    border-right: 9px solid transparent;
+    // -moz-border-image: url('jag.png') 30 30 round; /* Old firefox */
+    // -webkit-border-image: url('jag.png') 30 30 round; /* Safari */
+    // -o-border-image: url('jag.png') 30 30 round; /* Opera */
+    border-image: url('jag.png') 9 9 repeat;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-right-width: 9px;
+    border-left-width: 9px;
 }
 
 .inner_border {
     height: @height - (5 * 2);
     width: @width - (5 * 2);
     .colour_border(@red);
-    // background-image: url('gold_leaf_texture_02_by_NegativeFeedback_clean.jpg');
-    background-image: url('gold_leaf_texture_03_by_NegativeFeedback.jpg');
+    background-color: yellow;
+    // background-image: url('gold_leaf_texture_03_by_NegativeFeedback.jpg');
 }
 
 .actual_content {
@@ -48,6 +63,7 @@ body {
         font-weight: bold;
         font-family: 'Merienda', cursive;
     }
+
     .promo {
         padding: 5px;
         font-family: 'Romanesco', cursive;
@@ -58,7 +74,8 @@ body {
 
 // functions
 .colour_border(@colour, @thickness: 5px) {
-    border: solid @thickness @colour;
+    border-top: solid @thickness @colour;
+    border-bottom: solid @thickness @colour;
 }
 
 

@@ -11,18 +11,28 @@
 .outer_border {
   width: 500px;
   height: 312.5px;
-  border: solid 5px #c7b346;
+  border-top: solid 5px #c7b346;
+  border-bottom: solid 5px #c7b346;
+  border-left: 9px solid transparent;
+  border-right: 9px solid transparent;
+  border-image: url('jag.png') 9 9 repeat;
+  border-top-width: 0;
+  border-bottom-width: 0;
+  border-right-width: 9px;
+  border-left-width: 9px;
 }
 .inner_border {
   height: 302.5px;
   width: 490px;
-  border: solid 5px #9e262f;
-  background-image: url('gold_leaf_texture_03_by_NegativeFeedback.jpg');
+  border-top: solid 5px #9e262f;
+  border-bottom: solid 5px #9e262f;
+  background-color: yellow;
 }
 .actual_content {
   margin: 10px;
   height: 282.5px;
-  border: solid 1px black;
+  border-top: solid 1px black;
+  border-bottom: solid 1px black;
   background-color: rgba(185, 182, 182, 0.44);
 }
 .actual_content header {
