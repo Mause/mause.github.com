@@ -22,7 +22,7 @@
 		<link rel="stylesheet" href="stylesheets/base.css">
 		<link rel="stylesheet" href="stylesheets/skeleton.css">
 		<link rel="stylesheet" href="stylesheets/layout.css">
-		<link rel="stylesheet" href="stylesheets/custom.css">
+		<!-- <link rel="stylesheet" href="stylesheets/custom.css"> -->
 	    <style>
 	       	div {
 				text-align: justify;
@@ -97,9 +97,21 @@
 		<script type="text/javascript" src="javascripts/tabs.js"></script>
 		<script type="text/javascript" src="javascripts/toword.js"></script>
 		<script type="text/javascript">
-			function calc_age(year,month,day){my_age=toWords(Math.floor(((new Date())-(new Date(year,(month-1),day)))/31535973734.399998));if(my_age[my_age.length-1]===' ')my_age=my_age.substring(0,my_age.length-1);return my_age;}
+			function calc_age(year,month,day){
+				"use strict";
+				var cur_date = new Date();
+				var seconds_in_year = 31535973734.399998;
 
-		$('#age').html(calc_age(1996,8,7))
+				var birth_date = new Date(year, (month-1), day);
+				var date_difference = (cur_date-birth_date);
+				var years_difference = Math.floor(date_difference/seconds_in_year);
+
+				var my_age = toWords(years_difference);
+				if(my_age[my_age.length-1] === ' ')
+					my_age = my_age.substring(0, my_age.length-1);
+				return my_age;
+			}
+			$('#age').html(calc_age(1996,8,7))
 		</script>
 
 		<!-- End Document
