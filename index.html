@@ -60,25 +60,22 @@
         ================================================== -->
 
         <div class="container">
-            <div class="three columns sidebar">
-                <nav>
-                    <ul>
-                        <li><a href="https://github.com/Mause">GitHub</a></li>
-                        <li><a href="https://twitter.com/Lord_DeathMatch">Twitter</a></li>
-                        <li><a href="/blogs" title="Yep, more than one">Blogs</a></li>
-                        <li><a href="mailto:me+site@mause.me">Email</a></li>
-                    </ul>
-                </nav>
-                &nbsp;
-            </div>
-            <div class="twelve columns content">
-                <div class="twelve columns">
+            <div class="sixteen columns content">
+                <div class="sixteen columns">
                     <!-- <img src="http://www.gravatar.com/avatar/5730cd5627b5cbed1c4b7b5f89fa9bd2.png?s=150" class="avatar one-half" alt="mug-shot"></img> -->
                     <div class="title_text">
                         <strong>
                             <h1 class="remove-bottom inset" style="margin-top: 40px">Lord_DeathMatch&nbsp;/&nbsp;Mause</h1>
                         </strong>
                         <h5>AKA, <a href="https://plus.google.com/110662837269852479292?rel=author">Dominic May</a></h5>
+                        <!-- <div class="three columns sidebar"> -->
+                        <hr />
+                        <div class="my_nav">
+                            <a href="https://github.com/Mause">GitHub</a>&nbsp;
+                            <a href="https://twitter.com/Lord_DeathMatch">Twitter</a>&nbsp;
+                            <a href="/blogs" title="Yep, more than one">Blogs</a>&nbsp;
+                            <a href="mailto:me+site@mause.me">Email</a>&nbsp;
+                        </div>
                     </div>
                     <hr />
                 </div>
@@ -103,32 +100,32 @@
             </div><!-- content -->
         </div><!-- container -->
 
-        <div class="resize"></div>
+        <!-- <div class="resize"></div> -->
 
 
         <!-- JS
         ================================================== -->
-        <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+        <!-- // <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script> -->
 
         <script>
-            $('.hidden-code').click(function(e) {
-                e.preventDefault();
-                $(this).children('.gist').slideToggle();
-            })
+            // $('.hidden-code').click(function(e) {
+            //     e.preventDefault();
+            //     $(this).children('.gist').slideToggle();
+            // })
 
-            var originalText;
-            $('.example-grid').children().hover(
-                function() {
-                    originalText = $(this).text();
-                    $(this).html($(this).width()+'px');
-                },
-                function() {
-                    $(this).html(originalText);
-            });
+            // var originalText;
+            // $('.example-grid').children().hover(
+            //     function() {
+            //         originalText = $(this).text();
+            //         $(this).html($(this).width()+'px');
+            //     },
+            //     function() {
+            //         $(this).html(originalText);
+            // });
         </script>
 
 
-        <script type="text/javascript" src="javascripts/tabs.js"></script>
+        <!-- // <script type="text/javascript" src="javascripts/tabs.js"></script> -->
         <script type="text/javascript" src="javascripts/toword.js"></script>
         <script type="text/javascript">
             function calc_age(year,month,day){
@@ -145,7 +142,7 @@
                     my_age = my_age.substring(0, my_age.length-1);
                 return my_age;
             }
-            $('#age').html(calc_age(1996,8,7))
+            document.getElementById('age').innerHTML = calc_age(1996,8,7);
         </script>
 
         <!-- End Document
