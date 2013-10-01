@@ -1,10 +1,44 @@
-/*.sidebar {
-    margin-top: 50px;
-}
-*/
 .my_nav {
+    float: left;
     position: inherit;
     width: auto;
-    margin-top: -20px;
+    margin-top: -23px;
     margin-left: 10px;
+}
+
+.avatar {
+    -moz-border-radius: 40px 40px 40px 40px;
+    -webkit-border-radius: 40px 40px 40px 40px;
+    border-radius: 40px 40px 40px 40px;
+}
+
+.avatar-box {
+    float: left;
+    padding-right: 10px;
+
+    border-right: solid #DDD 1px;
+    clear: both;
+    padding-bottom: 0;
+}
+
+.header {
+    margin-top: 10px;
+}
+
+.title_text {
+    float: left;
+    position: relative;
+    margin-bottom: 5px;
+}
+
+.title-box {
+    margin-left: 10px;
+}
+
+.title-text-inner {
+    margin-left: 10px;
+}
+
+.full-width {
+    width: 112.3%;
 }
