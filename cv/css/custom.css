@@ -1,0 +1,6 @@
+@media print {
+    .well {
+        border: none;
+        margin-bottom: -40px;
+    }
+}
