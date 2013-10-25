@@ -5,3 +5,4 @@ User-agent: *
 Disallow: secret.html
 Disallow: /ball*
 Disallow: /bytemore*
+Disallow: /cv*
