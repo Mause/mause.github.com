@@ -1,9 +1,13 @@
+div {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 .my_nav {
     float: left;
-    position: inherit;
     width: auto;
-    margin-top: -23px;
-    margin-left: 10px;
+    margin-top: -25px;
+    margin-left: 7px;
 }
 
 .avatar {
@@ -13,33 +17,14 @@
 }
 
 .avatar-box {
-    float: left;
-    padding-right: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
 
-    border-right: solid #DDD 1px;
     clear: both;
     padding-bottom: 0;
 }
 
-.header {
-    margin-top: 10px;
-    width: 420px;
-}
-
 .title_text {
-    float: left;
-    position: relative;
-    margin-bottom: 5px;
-}
-
-.title-box {
-    margin-left: 10px;
-}
-
-.title-text-inner {
-    margin-left: 10px;
-}
-
-.full-width {
-    width: 112.3%;
+    text-align: center;
 }
