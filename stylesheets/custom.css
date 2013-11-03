@@ -37,3 +37,9 @@ nav {
 .title-text-inner {
     text-align: center;
 }
+
+.highlight {
+    border: 1px solid #ECE6E6;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
