@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Dominic May
 ---
 
 ## Prelude

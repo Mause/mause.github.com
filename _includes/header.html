@@ -8,10 +8,16 @@
         <!-- Basic Page Needs
       ================================================== -->
         <meta charset="utf-8">
-        <title> {{page.title}} </title>
+        <title>
+            {% if page.title %}
+                {{page.title}} -
+            {% endif %}
+            Dominic May
+        </title>
         <meta name="description" content="Hub for LDM/Mause">
         <meta name="author" content="Dominic May">
         <meta name="google-site-verification" content="slVCq4bEyOL6CZj-_4MGN0OfASbkl9g5fky10iTmIHg" />
+        <meta name="description" content="dominic may,dominic,may,lord_deathmatch,mause,mause-me">
 
         <!-- Mobile Specific Metas
         ================================================== -->
@@ -74,7 +80,7 @@
                         <a href="https://twitter.com/Lord_DeathMatch">Twitter</a>&nbsp;
                         <a href="/cv" title="Curriculum Vitae">CV</a>&nbsp;
                         <a href="/projects" title="Projects">Projects</a>&nbsp;
-                        <a href="/blogs" title="Yep, more than one">Blogs</a>&nbsp;
+                        <a href="/blog">Blog</a>&nbsp;
                         <a href="mailto:me@mause.me">Email</a>&nbsp;
                     </nav>
                     <hr>
