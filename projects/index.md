@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dominic May - Projects
+title: Projects
 ---
 
 ## Projects
