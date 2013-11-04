@@ -3,6 +3,23 @@ layout: post
 title: Linux Security &amp; Permissions
 ---
 
+#### Updated 4/11/2013
+
+Whilst revisiting this post during a move back to the Jekyll blogging engine,
+I realized I had probably overcomplicted this solution; a simple shell script would have sufficed.
+
+Said shell script;
+
+{% highlight sh %}
+    #!/bin/bash
+
+    chown www-data:www-data /var/www/docs;
+    chmod go+rx -R /var/www/docs;
+    chmod go+rw -R /var/www/builds;
+{% endhighlight %}
+
+#### Original
+
 I suppose geek's are supposed to find ways of doing things in different ways, but I don't really classify myself as a geek.
 
 The problem was that, due to security concerns, the buildbot I run/manage for the DCPUToolchain was running as a user with normal privileges  A problem then arose that, for some reason, apache could not access the files that the buildbot was creating. A quick `chmod`/`chown` command fixed it; but these commands can only be run under root. One solution was simply to run the server under root, but, again, security concerns.
