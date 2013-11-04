@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Languages; A Comparision
+published: false
 ---
 
 When I try to write code in C, I feel like I’m in a steel cage.
