@@ -12,6 +12,14 @@ nav {
     text-align: center;
 }
 
+.page_timestamp {
+    margin-top: -20px;
+    margin-left: 7px;
+    margin-bottom: 10px;
+
+    font-size: 10px;
+}
+
 .avatar {
     margin-right: auto;
     margin-left: auto;

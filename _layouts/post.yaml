@@ -1,6 +1,7 @@
 {% include header.html %}
 
 <h2>{{page.title}}</h2>
+<div class="page_timestamp">Posted on {{page.date}}</div>
 
 {{content}}
 
