@@ -6,7 +6,7 @@ title: Linux Security &amp; Permissions
 #### Updated 4/11/2013
 
 Whilst revisiting this post during a move back to the Jekyll blogging engine,
-I realized I had probably overcomplicted this solution; a simple shell script would have sufficed.
+I realized I had probably overcomplicated this solution; a simple shell script would have sufficed.
 
 Said shell script;
 
