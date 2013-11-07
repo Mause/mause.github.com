@@ -11,4 +11,4 @@ A simple handshake usually clears that right up though.
 
 ## Code
 
-Regardless, I do have some skill of the aforementioned; you could look at some of the code I have written and/or contributed over on [GitHub](http://github.com/Mause), or look at some [projects](/projects) I have attempted in the past.
+All things considered, I am moderately skilled with computers; if you wish, you could look at some of the code I have written and/or contributed over on [GitHub](http://github.com/Mause), or look at some [projects](/projects) I have attempted in the past.
