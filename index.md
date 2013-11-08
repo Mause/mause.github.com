@@ -6,6 +6,7 @@ layout: clean_page
 
 <style>
     .sidebar {
+        width: 300px !important;
         margin-right: auto !important;
         margin-left: auto !important;
         float: initial !important;
