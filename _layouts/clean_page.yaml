@@ -1,0 +1,5 @@
+{% include clean_header.html %}
+
+{{content}}
+
+{% include clean_footer.html %}
