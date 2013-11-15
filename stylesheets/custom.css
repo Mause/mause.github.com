@@ -58,3 +58,20 @@ nav {
     margin-top: -25px;
     margin-bottom: -6px;
 }
+
+/*
+vertical-align super is the default in chrome, but Skeleton seems to override it :(
+this is for the footnotes btw
+*/
+sup {
+    vertical-align: super;
+    font-size: 10px;
+}
+
+.footnotes {
+    font-size: 12px;
+}
+
+.footnotes li {
+    margin-bottom: -18px;
+}
