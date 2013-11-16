@@ -9,6 +9,8 @@ Much of the code I have written is in Python, as is it both my language of choic
 
 For much of these projects, more information is available on the linked GitHub pages, where appropriate.
 
+---
+
 #### [DoSH:](https://github.com/Mause/DoSH)
 A stupid shell written in C for the [DCPU16 platform](http://dcpu.com/)
 
