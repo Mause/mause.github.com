@@ -31,4 +31,8 @@ This was originally written for my year 12 ball of 2013, where the traditional m
 
 #### [Tumblr Ember:](https://github.com/Mause/tumblr-ember)
 Essentially an experiment to see how much I had learnt from building Table Select Web.
-Atomic blog viewing is possible, but viewing a users dashboard is not due to limitations in Tumblr API authentication system, and that I wanted to keep the app purely client side.
+Standalone blog viewing is possible, but viewing a users dashboard is not due to limitations in Tumblr API authentication system, and that I wanted to keep the app purely client side.
+
+#### [Micheal Nikulinsky's Art:](http://www.michealnikulinsky.com/)
+Thus far my single commission work, though the comissioner never got around to actually providing any art to be displayed on the site.
+Front end ain't pretty, but the backend uses the Google data API to pull image URL's from Google Web Albums.
