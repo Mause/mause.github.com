@@ -15,7 +15,7 @@ A stupid shell written in C for the [DCPU16 platform](http://dcpu.com/)
 #### [Project ByTeMoRe:](bytemore)
 A microcontroller based multimedia controller
 
-#### [dcputoolchain-module-sites:](http://github.com/Mause/dcputoolchain-module-site)
+#### [dcputoolchain-module-site:](http://github.com/Mause/dcputoolchain-module-site)
 A basic proxy for the [GitHub API](http://developer.github.com/), with some basic search functionality bolted on top.
 
 #### [Tyrian:](https://github.com/Mause/tyrian)
