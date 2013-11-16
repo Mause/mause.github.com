@@ -66,6 +66,7 @@ this is for the footnotes btw
 sup {
     vertical-align: super;
     font-size: 10px;
+    margin-left: 1px;
 }
 
 .footnotes {
