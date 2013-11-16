@@ -1,3 +1,5 @@
+name: Dominic May
+
 source:      .
 destination: ./_site
 plugins:     ./_plugins
@@ -6,8 +8,8 @@ include:     ['.htaccess']
 exclude:     []
 keep_files:  ['.git','.svn']
 gems:        []
-timezone:    nil
-encoding:    nil
+timezone:    GMT+8
+# encoding:    nil
 
 future:      true
 show_drafts: nil
