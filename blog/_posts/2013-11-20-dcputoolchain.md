@@ -17,15 +17,16 @@ He decided to entitled his project DCPUToolchain, after the DCPU16.
 
 As best as I can tell, as this was before I was involved with the project, work began on the toolchain on <date datetime="2012-04-05T03:20:49-07:00">fifth of April 2012</date>, with my first contact with the project shortly before they migrated from his own version control system[^2] to GitHub.
 
-Said first contact, was via an issue they had filed on the repository on GitHub about setting up a Buildbot[^1] for the project.
+Said first contact, was via an issue[^3] they had filed on the repository on GitHub about setting up a Buildbot[^1] for the project.
+This issue is still live, though appears to be missing some context that I may have to track down in some IRC logs.
 
 Though there are a few definitions
 
 For those unfamiliar with the concepts, high performance software must be compiled to take full advantage of the hardware upon which it is running.
-
 
 ---
 
 
  * [^1]: Buildbot: An automated system that whenever an updated version of code is
  * [^2]: Version Control System/VCS: A system that allows developers to
+ * [^3]: https://github.com/DCPUTeam/DCPUToolchain/issues/69
