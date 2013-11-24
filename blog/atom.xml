@@ -7,7 +7,7 @@ layout: nil
     <link href="http://example.com/"/>
     <link type="application/atom+xml" rel="self" href="http://example.com/atom.xml"/>
     <updated>{{ site.time | date_to_xmlschema }}</updated>
-    <id>http://example.com/</id>
+    <id>http://mause.me/blog</id>
     <author>
         <name>Dominic May</name>
         <email>me@mause.me</email>
@@ -15,7 +15,7 @@ layout: nil
 
     {% for post in site.posts %}
         <entry>
-            <id>http://mause.me/blog/{{ post.id }}</id>
+            <id>http://mause.me{{ post.id }}</id>
                 <link type="text/html" rel="alternate" href="http://example.com{{ post.url }}"/>
                 <title>{{ post.title }}</title>
                 <published>{{ post.date | date_to_xmlschema }}</published>
