@@ -3,6 +3,9 @@ layout: page
 title: Blog
 ---
 
+<link rel="alternate" type="application/rss+xml" title="RSS"
+      href="http://mause.me/blog/atom.xml">
+
 ## Blog
 
 <ul>
