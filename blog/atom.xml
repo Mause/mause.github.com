@@ -3,7 +3,7 @@ layout: nil
 ---
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Your Website</title>
+  <title>Dominic May</title>
     <link href="http://mause.me/"/>
     <link type="application/atom+xml" rel="self" href="http://mause.me/blog/atom.xml"/>
     <updated>{{ site.time | date_to_xmlschema }}</updated>
@@ -15,16 +15,16 @@ layout: nil
 
     {% for post in site.posts %}
         <entry>
-            <id>http://mause.me{{ post.id | uri_escape }}</id>
-                <link type="text/html" rel="alternate" href="http://mause.me{{ post.url }}"/>
-                <title>{{ post.title }}</title>
-                <published>{{ post.date | date_to_xmlschema }}</published>
-                <updated>{{ post.date | date_to_xmlschema }}</updated>
-                <author>
-                    <name>Dominic May</name>
-                    <uri>http://mause.me</uri>
-                </author>
-                <content type="html">{{ post.content | xml_escape }}</content>
+            <id>http://mause.me{{ post.id | cgi_escape }}</id>
+            <link type="text/html" rel="alternate" href="http://mause.me{{ post.url }}"/>
+            <title>{{ post.title }}</title>
+            <published>{{ post.date | date_to_xmlschema }}</published>
+            <updated>{{ post.date | date_to_xmlschema }}</updated>
+            <author>
+                <name>Dominic May</name>
+                <uri>http://mause.me</uri>
+            </author>
+            <content type="html">{{ post.content | xml_escape }}</content>
         </entry>
     {% endfor %}
 </feed>
