@@ -23,6 +23,12 @@ A basic proxy for the [GitHub API](http://developer.github.com/), with some basi
 #### [Tyrian:](https://github.com/Mause/tyrian) <small>Python, LISP</small>
 A moderately simple and largely incomplete implementation of [LISP](http://en.wikipedia.org/wiki/Lisp_(programming_language)) in Python, compiling into Python Bytecode. The writeup and documentation for the project can be found here at the [tyrian subdomain](http://tyrian.mause.me/).
 
+#### [Mausembler:](https://github.com/Mause/mausemblr) <small>Python</small>
+A failed attempt at writing an assembler for the [DCPU16 platform](http://dcpu.com). See below for another attempt in C++, Jupiter
+
+#### [Jupiter:](https://github.com/Mause/jupiter) <small>C++</small>
+My second (or third, depending on who's asking) attempt at an assembler, still a work in progress, so we shall see how I go
+
 #### [tf-idf:](https://github.com/Mause/tf-idf) <small>Python</small>
 Originally written for the my [NCSS Summer School](www.ncss.edu.au/summer_school/index.html) project, the underlying search engine algorithm for the project.
 Named after the algorithm which was used, so quite unoriginal :P
