@@ -11,30 +11,42 @@ For much of these projects, more information is available on the linked GitHub p
 
 ---
 
-#### [DoSH:](https://github.com/Mause/DoSH)
+#### [DoSH:](https://github.com/Mause/DoSH) <small>C</small>
 A stupid shell written in C for the [DCPU16 platform](http://dcpu.com/)
 
-#### [Project ByTeMoRe:](bytemore)
+#### [Project ByTeMoRe:](bytemore) <small>BASIC, Python</small>
 A microcontroller based multimedia controller
 
-#### [dcputoolchain-module-site:](http://github.com/Mause/dcputoolchain-module-site)
+#### [dcputoolchain-module-site:](http://github.com/Mause/dcputoolchain-module-site) <small>Python</small>
 A basic proxy for the [GitHub API](http://developer.github.com/), with some basic search functionality bolted on top.
 
-#### [Tyrian:](https://github.com/Mause/tyrian)
+#### [Tyrian:](https://github.com/Mause/tyrian) <small>Python, LISP</small>
 A moderately simple and largely incomplete implementation of [LISP](http://en.wikipedia.org/wiki/Lisp_(programming_language)) in Python, compiling into Python Bytecode. The writeup and documentation for the project can be found here at the [tyrian subdomain](http://tyrian.mause.me/).
 
-#### [tf-idf:](https://github.com/Mause/tf-idf)
+#### [tf-idf:](https://github.com/Mause/tf-idf) <small>Python</small>
 Originally written for the my [NCSS Summer School](www.ncss.edu.au/summer_school/index.html) project, the underlying search engine algorithm for the project.
 Named after the algorithm which was used, so quite unoriginal :P
 
-#### [Table Select Web:](https://github.com/Mause/table_select_web)
+#### [Table Select Web:](https://github.com/Mause/table_select_web) - <small>Python, Javascript</small>
 A table selection webapp, originally written in ad-hoc jQuery. Hosted on [Heroku](http://ball.mause.me)
 This was originally written for my year 12 ball of 2013, where the traditional method had been to pin a sheet of paper on an accessable wall at school, and allow some people to pick where they would sit, and for other people to screw around and mess everyones seating up.
 
-#### [Tumblr Ember:](https://github.com/Mause/tumblr-ember)
+#### [Tumblr Ember:](https://github.com/Mause/tumblr-ember) - <small>Javascript</small>
 Essentially an experiment to see how much I had learnt from building Table Select Web.
 Standalone blog viewing is possible, but viewing a users dashboard is not due to limitations in Tumblr API authentication system, and that I wanted to keep the app purely client side.
 
-#### [Micheal Nikulinsky's Art:](http://www.michealnikulinsky.com/)
+#### [Micheal Nikulinsky's Art:](http://www.michealnikulinsky.com/) <small>Python</small>
 Thus far my single commission work, though the comissioner never got around to actually providing any art to be displayed on the site.
 Front end ain't pretty, but the backend uses the Google data API to pull image URL's from Google Web Albums.
+
+
+<style>
+    small {
+        font-size: 60%;
+        color: #665A5A;
+        border: 1px solid #E7E0E0;
+        border-radius: 5px;
+        padding: 1px;
+    }
+</style>
+
