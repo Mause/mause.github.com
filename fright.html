@@ -1,0 +1,15 @@
+<script>
+    function frighten(){
+        var BASE = 'https://www.google.com/maps/preview/search/';
+
+        function callback(pos){
+            var cds = pos.coords;
+            window.location = BASE + cds.latitude + ',' + cds.longitude;
+        }
+
+        navigator.geolocation.getCurrentPosition(callback)
+    }
+</script>
+
+
+<button onclick="javascript:frighten()">Click me</button>
