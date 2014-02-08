@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Me
+sitemap:
+    priority: 0.5
+    lastmod: 2014-02-08T17:40:00-08:00
 ---
 
 ## Me

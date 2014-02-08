@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Linux Security &amp; Permissions
+title: Linux Security & Permissions
+sitemap:
+    priority: 0.25
+    lastmod: 2014-02-08T17:40:00-08:00
 ---
 
 #### Updated 4/11/2013
