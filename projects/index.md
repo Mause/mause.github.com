@@ -4,6 +4,7 @@ title: Projects
 sitemap:
     priority: 1
     lastmod: 2014-02-08T17:40:00-08:00
+extra_css: css/projects_index.css
 ---
 
 ## Projects
@@ -47,15 +48,3 @@ Standalone blog viewing is possible, but viewing a users dashboard is not due to
 #### [Micheal Nikulinsky's Art:](http://www.michealnikulinsky.com/) <small>Python</small>
 Thus far my single commission work, though the comissioner never got around to actually providing any art to be displayed on the site.
 Front end ain't pretty, but the backend uses the Google data API to pull image URL's from Google Web Albums.
-
-
-<style>
-    small {
-        font-size: 60%;
-        color: #665A5A;
-        border: 1px solid #E7E0E0;
-        border-radius: 5px;
-        padding: 1px;
-    }
-</style>
-
