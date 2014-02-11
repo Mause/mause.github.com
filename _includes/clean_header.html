@@ -32,6 +32,18 @@
         <link rel="stylesheet" href="/stylesheets/docs.css">
         <link rel="stylesheet" href="/stylesheets/custom.css">
 
+        {% if page.centre_sidebar != nil and page.centre_sidebar == true %}
+            <style>
+                .sidebar {
+                    width: 300px !important;
+                    margin-right: auto !important;
+                    margin-left: auto !important;
+                    float: initial !important;
+                    display: block !important;
+                }
+            </style>
+        {% endif %}
+
         <!--[if lt IE 9]>
             <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
