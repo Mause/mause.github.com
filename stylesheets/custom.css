@@ -77,6 +77,13 @@ sup {
     margin-bottom: -18px;
 }
 
+code {
+    background-color: #EBE6E6;
+    border: solid #CFC8C8 1px;
+    border-radius: 2px;
+    padding: 2px;
+}
+
 .blog-post > ul {
     list-style: disc;
 }
