@@ -76,3 +76,7 @@ sup {
 .footnotes li {
     margin-bottom: -18px;
 }
+
+.blog-post > ul {
+    list-style: disc;
+}

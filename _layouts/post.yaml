@@ -3,6 +3,8 @@
 <h2>{{page.title}}</h2>
 <div class="page_timestamp">Posted on {{page.date}}</div>
 
-{{content}}
+<div class="blog-post">
+    {{content}}
+</div>
 
 {% include footer.html %}
