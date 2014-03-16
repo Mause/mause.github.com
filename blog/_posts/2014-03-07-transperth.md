@@ -13,6 +13,7 @@ I think I have now figured it out, in part;
 ## Train times API
 
 Example; <http://livetimes.transperth.wa.gov.au/LiveTimes.asmx/GetSercoTimesForStation?stationname=Perth%20Underground%20Stn>
+Python interface; <https://github.com/Mause/pytransperth/blob/master/transperth/livetimes.py>
 
 I found a JSON string in `com.jeppesen.transperth.vm.TrainTimesVm` that gave a [list of the lines and station names](https://gist.github.com/Mause/3a01216b8611bb2fb6ea) that the API would accept. The example above shows the corresponding URL for the `Perth Underground Stn`.
 
