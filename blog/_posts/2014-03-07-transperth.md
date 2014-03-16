@@ -47,6 +47,8 @@ Using `apktool`, I managed to extract an XML file from the `.apk` that contains 
 
 You can insert these into some of the above URLs, along with a an `ApiKey` query parameter, to make use of the endpoint.
 
+I also found some documentation; <http://journeyplanner.silverrailtech.com/JourneyPlanner/Help/html/R_Project_Journey_Planner_Interface_Specification.htm>
+
 ## Misc
 
 #### 7:02PM 8/3/2014 ####
