@@ -12,23 +12,7 @@ However, trawling through the source code, it would seem that yes, yes, it does.
 
 It seems the following are possible, where elipses indicate the inclusion of every argument of the above example;
 
-{% highlight python %}
-files = {
-  'unique_filename': 'file_data',
-  'unique_filename': ('filename', 'file_data'),
-  'unique_filename': ('filename', 'file_data', 'custom file content type'),
-  'unique_filename': (
-    'filename',
-    'file_data',
-    'custom file content type',
-    <custom headers in tuple or dict>
-  )
-}
-
-...
-
-request.post(<url>, files=files)
-{% endhighlight %}
+{% gist 9688766 %}
 
 Albeit good that these different forms are supported, ideally all forms should be documented, not just the first.
 
