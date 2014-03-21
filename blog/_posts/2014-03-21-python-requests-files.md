@@ -1,4 +1,10 @@
-## `requests.post(files=?)`
+---
+layout: post
+title: Post files with requests
+published: true
+---
+
+### AKA `requests.post(files=?)`
 
 Today I was attempting to `POST` some data to [Docverter's API](http://docverter.com)  with Python's `requests` library, and ran into a problem. Although `requests.post` supports a `files` keyword argument, it does not seem to support custom, per file,  `Content-Type` headers.
 
