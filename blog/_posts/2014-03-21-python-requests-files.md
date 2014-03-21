@@ -16,4 +16,4 @@ It seems the following are possible, where elipses indicate the inclusion of eve
 
 Albeit good that these different forms are supported, ideally all forms should be documented, not just the first.
 
-N.B; now that I know what to look for, the `Content-Type` form is also mentioned in a [Stackoverflow answer](http://stackoverflow.com/questions/20244757/content-type-in-for-individual-files-in-python-requests)
+N.B; now that I know what to look for, the `Content-Type` form is also mentioned in a [Stackoverflow answer](http://stackoverflow.com/questions/20244757/content-type-in-for-individual-files-in-python-requests), and in the [`urllib3` documentation](http://urllib3.readthedocs.org/en/latest/helpers.html#urllib3.request.RequestMethods.request_encode_body) (though it fails to mention the custom headers)
