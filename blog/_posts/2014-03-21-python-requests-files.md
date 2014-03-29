@@ -6,11 +6,11 @@ published: true
 
 AKA `requests.post(files=?)`
 
-Today I was attempting to `POST` some data to [Docverter's API](http://docverter.com)  with Python's `requests` library, and ran into a problem. Although `requests.post` supports a `files` keyword argument, it does not seem to support custom, per file,  `Content-Type` headers.
+Today I was attempting to `POST` some data to [Docverter's API](http://docverter.com)  with the python [requests](http://docs.python-requests.org/en/latest/) library, and ran into a problem. Although [`requests.post`](http://docs.python-requests.org/en/latest/api/#requests.post) supports a `files` keyword argument, it does not seem to support custom, per file,  `Content-Type` headers.
 
-However, trawling through the source code, it would seem that yes, yes, it does. It's just not documented. It was initially added in a [commit](https://github.com/abarnert/requests/commit/20b10aed1bbe277745a74953b6dc73290bfa82fa) over a year ago, but alas, the commit did not include documentation.
+However, trawling through the source code, it would seem that yes, yes, it does. It's just not documented. It was initially added in a [commit](https://github.com/abarnert/requests/commit/20b10aed1bbe277745a74953b6dc73290bfa82fa) over <span title="relatively speaking">a year ago</span>, but alas, the commit did not include documentation.
 
-It seems the following are possible, where elipses indicate the inclusion of every argument of the above example;
+It seems the following are possible, where ellipses indicate the inclusion of every argument of the above example;
 
 {% gist 9688766 %}
 
