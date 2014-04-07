@@ -1,6 +1,10 @@
-## Parsing lists with [Lemon](http://www.hwaci.com/sw/lemon/)
+---
+layout: post
+title: Parsing lists with Lemon
+published: true
+---
 
-I was parsing some lists of, erm, labels today in Lemon (with Ragel as the lexer), and couldn't quickly (read lazily) find a grammar for parsing lists, so voila;
+I was parsing some lists of, erm, labels today in [Lemon](http://www.hwaci.com/sw/lemon/) (with [Ragel](http://www.complang.org/ragel/) as the lexer), and couldn't quickly (read lazily) find a grammar for parsing lists, so voila;
 
 ```lemon
 list(A) ::= LIST_ITEM(B). { A=B; }
