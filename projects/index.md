@@ -34,8 +34,7 @@ A failed attempt at writing an assembler for the [DCPU16 platform](http://dcpu.c
 My second (or third, depending on who's asking) attempt at an assembler, still a work in progress, so we shall see how I go
 
 #### [tf-idf:](https://github.com/Mause/tf-idf) <small>Python</small>
-Originally written for my [NCSS Summer School](http://www.ncss.edu.au/summer_school/index.html) project, the underlying search engine algorithm for the project.
-Named after the algorithm which was used, so quite unoriginal :P
+Search engine algorithm for my [NCSS Summer School](http://www.ncss.edu.au/summer_school/index.html) project. Named after the algorithm which was used, so quite unoriginal :P
 
 #### [Table Select Web:](https://github.com/Mause/table_select_web) <small>Python, Javascript</small>
 A table selection webapp, originally written in ad-hoc jQuery. Hosted on [Heroku](http://ball.mause.me)
