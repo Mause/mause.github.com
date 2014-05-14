@@ -6,6 +6,10 @@ published: false
 
 I figured it might be useful to hook up a notification service for when materials were updated on blackboard, the learning management system used by Curtin, the university which i attend. This is a summary of my findings.
 
+I have reverse engineered the android app, though I have noticed that it is against Blackboard's EULA.
+I am not sure what to do from here.
+
+
 Firstly 
 
  * [SAM Spec](https://service.blackboardconnect.com/SAM/V2/SAMService.asmx)
