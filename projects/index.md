@@ -16,7 +16,7 @@ For much of these projects, more information is available on the linked GitHub p
 ---
 
 #### [PyTransperth:](https://github.com/Mause/transperth) <small>Python</small>
-A scraper project to pull data from [transperths](https://transperth.wa.gov.au) various web-facing services.
+A scraper project to pull data from [transperths](https://transperth.wa.gov.au) various web-facing services. Docs available on [read the docs](http://transperth.rtfd.org).
 
 #### [PyALP:](https://github.com/Mause/PyALP) <small>Python (Django), HTML, CSS, Javascript</small>
 An idiotic attempt at porting the '04 era PHP application for managing lan parties ALP, primarily for use at [RFLAN](http://rflan.org/).
