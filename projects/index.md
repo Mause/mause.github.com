@@ -15,6 +15,9 @@ For much of these projects, more information is available on the linked GitHub p
 
 ---
 
+#### [PyALP:](https://github.com/Mause/PyALP) <small>Python (Django), HTML, CSS, Javascript</small>
+An idiotic attempt at porting the '04 era PHP application for managing lan parties ALP, primarily for use at [RFLAN](http://rflan.org/).
+
 #### [DoSH:](https://github.com/Mause/DoSH) <small>C</small>
 A stupid shell written in C for the [DCPU16 platform](http://dcpu.com/)
 
