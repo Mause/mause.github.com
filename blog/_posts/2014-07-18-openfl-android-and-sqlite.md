@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OpenFL, Android and Sqlite3
-published: false
+published: true
 ---
 
 I've been working on a little toy app for Android written in a language entitled Haxe.
@@ -19,6 +19,4 @@ The first problem was that the Sqlite3 library couldn't seem to load the databas
 
 The second was non-obvious; it involved the Sqlite3 library itself. For whatever reason, the supporting haxe side couldn't extract the required functions from the Sqlite3. I tried a number of solutions, but the one that worked was to tell Haxe to statically link the Sqlite3 library to the app library;
 
-```haxe
-import hxcpp.StaticSqlite;
-```
+`import hxcpp.StaticSqlite;`
