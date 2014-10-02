@@ -1,7 +1,7 @@
 ---
 layout: post
 title: C string startswith
-published: false
+published: true
 ---
 
 Just a nice snippet of code I found useful;
