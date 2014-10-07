@@ -4,6 +4,8 @@ title: Transperth
 published: true
 ---
 
+### This project is sorta in limbo, thanks to the new transperth website being significantly more difficult to scrape.
+
 Those people who live, or have lived in <a href="http://en.wikipedia.org/wiki/Perth">Perth</a> are likely familiar with the government organisation that provides the public transportation facilities, <a href="http://www.transperth.wa.gov.au">Transperth</a>.
 
 Put simply, I wished to create a more or less simply to use API library in Python to pull data out of their system. I originally thought that this would primarily involve scraping their website, as I had trouble figuring out the location of the API the mobile app used.
