@@ -3,6 +3,6 @@
 
 User-agent: *
 Disallow: secret.html
-Disallow: /ball*
+Disallow: /bio*
 Disallow: /bytemore*
 Disallow: /cv*
