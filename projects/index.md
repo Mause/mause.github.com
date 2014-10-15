@@ -18,6 +18,9 @@ For much of these projects, more information is available on the linked GitHub p
 
 ---
 
+#### [Sea Lang:](https://github.com/Mause/sea_lang) <small>C</small>
+A simple flex+bison attempt at a toy language. Some internals are inspired by the CPython interpreter's internals.
+
 #### [PyTransperth:](https://github.com/Mause/pytransperth) <small>Python</small>
 A scraper project to pull data from [transperths](https://transperth.wa.gov.au) various web-facing services. Docs available on [read the docs](http://transperth.rtfd.org).
 
