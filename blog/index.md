@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+extra_css: css/blog_index.css
 ---
 
 <link rel="alternate" type="application/rss+xml" title="RSS"
@@ -11,7 +12,9 @@ title: Blog
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+        <div class="title"><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></div>
+        <div class="date">{{ post.date | date: "%-d %B %Y" }}</div>
+        <br/>
     </li>
   {% endfor %}
 </ul>
