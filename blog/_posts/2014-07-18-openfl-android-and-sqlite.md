@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenFL, Android and Sqlite3
+title: OpenFL, Android and SQLite3
 published: true
 ---
 
@@ -13,10 +13,10 @@ As I finalised my second attempt, I realized I was being stupid. I should just b
 
 This seemed all good in practice; a simple python script to load the JSON file into an appropriate database, which I could then add as an asset to the app. I would then connect to the database from the Android app. For performance reasons I kept an in memory cache.
 
-It didn't take me long to realise that Sqlite3 support on the android target was a tad broken. Or at least, without help or documentation.
+It didn't take me long to realise that SQLite3 support on the android target was a tad broken. Or at least, without help or documentation.
 
-The first problem was that the Sqlite3 library couldn't seem to load the database. A quick Google pointed out that the database needed to be on a writable filesystem; this was easy enough, just copy it over on app startup to the devices SD card.
+The first problem was that the SQLite3 library couldn't seem to load the database. A quick Google pointed out that the database needed to be on a writable filesystem; this was easy enough, just copy it over on app startup to the devices SD card.
 
-The second was non-obvious; it involved the Sqlite3 library itself. For whatever reason, the supporting haxe side couldn't extract the required functions from the Sqlite3. I tried a number of solutions, but the one that worked was to tell Haxe to statically link the Sqlite3 library to the app library;
+The second was non-obvious; it involved the SQLite3 library itself. For whatever reason, the supporting haxe side couldn't extract the required functions from the SQLite3. I tried a number of solutions, but the one that worked was to tell Haxe to statically link the SQLite3 library to the app library;
 
 `import hxcpp.StaticSqlite;`
