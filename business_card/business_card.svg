@@ -1,0 +1,92 @@
+<svg version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="590" height="880"
+    >
+
+    <!--
+    Bleed Area: 88mm x 59mm
+    Make sure that your background extends to fill the bleed to avoid your Business Cards having white edges when trimmed.
+    -->
+    <!-- <rect height="880" width="590" fill="red" /> -->
+
+    <svg version="1.1"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        width="100%" height="100%"
+        >
+        <!--
+        Trim: 84mm x 55mm
+        This is where we aim to cut your cards.
+         -->
+        <!-- <rect x="20" y="20" height="840" width="550" fill="green" /> -->
+
+        <!-- Safe Area: 80mm x 51mm -->
+        <!-- <rect x="40" y="40" width="510" height="800" fill="white" stroke="black" /> -->
+
+        <clipPath id="round-corners">
+            <rect
+                x="40" y="40"
+                width="510" height="510"
+                rx="11" ry="11"
+            />
+                <!-- rx="6" ry="6" -->
+        </clipPath>
+
+        <image
+            x="40" y="40"
+            width="510" height="510"
+            clip-path="url(#round-corners)"
+            xlink:href="../img/your face - lomofied - square.png"
+        />
+            <!-- xlink:href="../img/avatar-256.png" -->
+
+        <!-- header -->
+        <text
+            x="50%"
+            y="600"
+            font-family="Georgia"
+            font-size="50"
+            text-anchor="middle">
+                Dominic May
+        </text>
+
+        <style>
+            .icon {
+                font-family: Fontawesome !important;
+            }
+            .item {
+                font-size: 25px;
+                font-family: "Georgia";
+            }
+            .space-above {
+                margin-top: 10px;
+            }
+        </style>
+
+        <text x="50%" y="650"  text-anchor="middle" font-size="25">
+            <tspan class="icon"></tspan>
+            <tspan font-family="Georgia">me@mause.me</tspan>
+        </text>
+
+        <text x="50%" y="692"  text-anchor="middle" font-size="25">
+            <tspan class="icon"></tspan>
+            <tspan font-family="Georgia">http://mause.me</tspan>
+        </text>
+
+        <text x="50%" y="734"  text-anchor="middle" font-size="25">
+            <tspan class="icon"></tspan>
+            <tspan font-family="Georgia">0416041357</tspan>
+        </text>
+
+        <text x="50%" y="776"  text-anchor="middle" font-size="25">
+            <tspan class="icon"></tspan>
+            <tspan font-family="Georgia">Lord_DeathMatch</tspan>
+        </text>
+
+        <text x="50%" y="818"  text-anchor="middle" font-size="25">
+            <tspan class="icon"></tspan>
+            <tspan font-family="Georgia">Mause</tspan>
+        </text>
+    </svg>
+</svg>
