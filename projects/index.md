@@ -1,9 +1,6 @@
 ---
 layout: page
 title: Projects
-sitemap:
-    priority: 1
-    lastmod: 2014-02-08T17:40:00-08:00
 extra_css: css/projects_index.css
 ---
 
