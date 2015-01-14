@@ -26,4 +26,4 @@ There are also a number of others; for the singles collection, a few for the rel
 
 Difficult to obtain, seeing as [Gorillaz.com](http://gorillaz.com) is deteriorating with age, and that you must access the website with IE to make the website let you download it. This is as it was part of a promotional partnership for IE9.
 
-The [theme](https://dl.dropboxusercontent.com/u/17607607/Gorillaz/IE9Gorill.theme) contains a number of sound effects for actions and errors, and a number of backgrounds.
+The [theme](https://dl.dropboxusercontent.com/u/17607607/Gorillaz/Gorillaz.themepack) contains a number of sound effects for actions and errors, and a number of backgrounds.
