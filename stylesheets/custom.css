@@ -100,7 +100,7 @@ code, tt {
     padding: 2px;
 }
 
-.blog-post > table {
+.blog-post > table, .blog-post > div.highlight {
     margin-top: 10px;
     margin-bottom: 10px;
 }
