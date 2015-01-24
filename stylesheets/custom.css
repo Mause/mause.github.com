@@ -90,9 +90,14 @@ code, tt {
     padding: 0;
 }
 
-div.highlight > pre > code {
+.blog-post > div.highlight > pre > code {
     width: 100%;
     padding: 10px;
+}
+
+.blog-post > td {
+    border: 1px solid black;
+    padding: 2px;
 }
 
 .blog-post > ul {
