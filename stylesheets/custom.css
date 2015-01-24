@@ -95,7 +95,7 @@ code, tt {
     padding: 10px;
 }
 
-.blog-post > td {
+.blog-post > table > tbody > tr > td {
     border: 1px solid black;
     padding: 2px;
 }
