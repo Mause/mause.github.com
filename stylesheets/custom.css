@@ -100,6 +100,11 @@ code, tt {
     padding: 2px;
 }
 
+.blog-post > table {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 .blog-post > ul {
     list-style: disc;
     text-align: left;
