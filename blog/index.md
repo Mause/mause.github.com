@@ -4,8 +4,7 @@ title: Blog
 extra_css: css/blog_index.css
 ---
 
-<link rel="alternate" type="application/rss+xml" title="RSS"
-      href="http://mause.me/blog/atom.xml">
+{% feed_meta %}
 
 ## Blog
 

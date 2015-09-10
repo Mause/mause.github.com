@@ -7,7 +7,7 @@ layouts:     ./_layouts
 include:     ['.htaccess']
 exclude:     []
 keep_files:  ['.git','.svn']
-gems:        []
+gems:        ['jekyll-feed']
 timezone:    GMT+8
 
 future:      true
