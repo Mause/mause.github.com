@@ -15,12 +15,10 @@ show_drafts: nil
 limit_posts: 0
 highlighter: pygments
 
-relative_permalinks: true
-
 permalink:     date
 paginate_path: 'page:num'
 
-markdown:      redcarpet
+markdown:      kramdown
 markdown_ext:  markdown,mkd,mkdn,md
 textile_ext:   textile
 
@@ -40,12 +38,6 @@ maruku:
   png_dir:    images/latex
   png_url:    /images/latex
 
-rdiscount:
-  extensions: []
-
-redcarpet:
-  extensions: []
-
 kramdown:
   auto_ids: true
   footnote_nr: 1
@@ -61,6 +53,3 @@ kramdown:
     coderay_tab_width: 4
     coderay_bold_every: 10
     coderay_css: style
-
-redcloth:
-  hard_breaks: true
