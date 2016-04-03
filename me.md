@@ -11,8 +11,7 @@ I am now proudly attending the Curtin University of Technology at their Bentley 
 As someone who is half swiss, I do not speak very much swiss-german at all. According to some, I defy the stereotype of being good at math as a "nerd".
 English is also not my strength, though most people don't seem to guess this speaking to me.
 Spelling and grammar and all that hullabaloo is fine however.
-I hate speaking to people I do not know/am unfamiliar with; stage fright, to a point.
-A simple handshake usually clears that right up though.
+I used to hate speaking to people I did not know/was unfamiliar with; stage fright, to a point, but am now more-or-less over that. Still hate speaking to people on the phone though :P
 
 <small title="This is of course presuming I eventually get an employer; I am currently unemployed">
     Any views portrayed on this website, unless stated otherwise, are my own opinions, not my employers
