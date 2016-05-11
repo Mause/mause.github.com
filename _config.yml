@@ -2,8 +2,8 @@ name: Dominic May
 
 source:      .
 destination: ./_site
-plugins:     ./_plugins
-layouts:     ./_layouts
+plugins_dir: ./_plugins
+layouts_dir: ./_layouts
 include:     ['.htaccess']
 exclude:     []
 keep_files:  ['.git','.svn']
@@ -31,20 +31,13 @@ baseurl:     /
 url:         http://localhost:4000
 lsi:         false
 
-maruku:
-  use_tex:    false
-  use_divs:   false
-  png_engine: blahtex
-  png_dir:    images/latex
-  png_url:    /images/latex
-
 kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
   smart_quotes: [lsquo,rsquo,ldquo,rdquo]
-  use_coderay: false
+  enable_coderay: false
 
   coderay:
     coderay_wrap: div
