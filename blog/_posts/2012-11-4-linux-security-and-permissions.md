@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Linux Security and Permissions
+published: true
 ---
 
 #### Updated 4/11/2013
