@@ -1,4 +1,6 @@
 name: Dominic May
+author: Dominic May
+logo: /img/avatar-256.png
 
 source:      .
 destination: ./_site
