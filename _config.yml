@@ -5,11 +5,6 @@ logo: /img/avatar-256.png
 twitter:
   username: Lord_DeathMatch
 
-data:
-  authors:
-    Dominic May:
-      twitter: Lord_DeathMatch
-
 source:      .
 destination: ./_site
 plugins_dir: ./_plugins
