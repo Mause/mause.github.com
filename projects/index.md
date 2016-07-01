@@ -21,6 +21,10 @@ For much of these projects, more information is available on the linked GitHub p
 
 {% comment %} projects are defined in _data/projects.yml {% endcomment %}
 
+<!--
+{{site.data}}
+-->
+
 {% for project in site.data.projects %}
 #### [{{project.name}}:]({{project.link}}) <small>{{project.languages}}</small>
 {{project.description}}
