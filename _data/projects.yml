@@ -1,3 +1,10 @@
+-   name: autobit
+    link: https://github.com.com/Mause/autobit
+    languages: Python
+    description: >
+        A libary for easy automation of the bittorrent client via its web
+        clients api
+
 -   name: Genda
     link: https://github.com/Mause/Genda
     languages: Python
