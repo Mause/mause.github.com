@@ -15,7 +15,7 @@ During the Object Oriented Program Design course I learnt some basic Java.
 I have dabbled in some basic Go, Clojure, and Haskell.
 Future goals are to learn more about functional programming languages, and to be comfortable in at least one.
 
-For much of these projects, more information is available on the linked GitHub pages, where appropriate.
+For much of these projects, more information is available on the linked GitHub pages, where applicable.
 
 ---
 
