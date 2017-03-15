@@ -41,7 +41,7 @@
 .link_near_title_template:hover   {color: white; text-decoration: none; }
 
 .sidebar_wood {
-	background: url('http://dl.dropbox.com/u/17607607/for_tumblr/sidebar_wood.jpg');
+	background: url('http://mause.me/tumblr/sidebar_wood.jpg');
 	 /*no-repeat center center fixed;*/
 
 	height: 10000px;
@@ -69,7 +69,7 @@
 }
 
 body {
-	background: url('http://dl.dropbox.com/u/17607607/for_tumblr/case_back_middle_wood.jpg') no-repeat center center fixed;
+	background: url('http://mause.me/tumblr/case_back_middle_wood.jpg') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -105,7 +105,7 @@ a:hover { color: #fd469f; }
 header {
 	display: block;
 	height: 200px;
-	background-image:url('http://dl.dropbox.com/u/17607607/for_tumblr/bg_sidebar_260.jpg');
+	background-image:url('http://mause.me/tumblr/bg_sidebar_260.jpg');
 	z-index: 1;
 	position: relative;
 }
@@ -214,7 +214,7 @@ input#keywords.text {
 
 footer {
 	display: block;
-    background-image:url('http://dl.dropbox.com/u/17607607/for_tumblr/bg_sidebar_260_tesselate.jpg');
+    background-image:url('http://mause.me/tumblr/bg_sidebar_260_tesselate.jpg');
 	font: arial;
 	background-repeat: repeat;
 	/* this is the value you want to change. probably */
@@ -272,7 +272,7 @@ footer div.col2 {
 	margin: auto;
 	min-height: 65px;
 	position: relative;
-	/*background-image: url('http://dl.dropbox.com/u/17607607/for_tumblr/post_middle.jpg');*/
+	/*background-image: url('http://mause.me/tumblr/post_middle.jpg');*/
 	/*background-repeat: repeat-x;*/
 	padding-top: 25px;
 	padding-bottom: 27px;
@@ -336,11 +336,11 @@ footer div.col2 {
 }
 
 /*.post.odd .top {
-	background-image: url('http://dl.dropbox.com/u/17607607/for_tumblr/post_top_new.jpg');
+	background-image: url('http://mause.me/tumblr/post_top_new.jpg');
 }
 */
 /*.post.even .top {
-	background-image: url('http://dl.dropbox.com/u/17607607/for_tumblr/post_top_new.jpg');
+	background-image: url('http://mause.me/tumblr/post_top_new.jpg');
 }
 */
 .post .content {
@@ -354,7 +354,7 @@ footer div.col2 {
 	position: absolute;
 	left: 0;
 	bottom: 0;
-	/*background-image: url('http://dl.dropbox.com/u/17607607/for_tumblr/post_bottom_new.jpg');*/
+	/*background-image: url('http://mause.me/tumblr/post_bottom_new.jpg');*/
 	background-repeat: no-repeat;
 	display: block;
 	height: 27px;
