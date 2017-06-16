@@ -1,0 +1,19 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.js"></script>
+<script src="https://unpkg.com/moment-precise-range-plugin@1.2.3/moment-precise-range.js"></script>
+<h1 id="content"/>
+<script>
+    (function() {
+        var today = moment(),
+            then = moment('20170421', 'YYYYMMDD'),
+            diff = then.preciseDiff(today, 'days');
+        document.getElementById('content').innerText = (
+            ['months', 'days'].map(function(key) {
+                var text = diff[key] + ' ' + key;
+                if (diff[key] === 1) {
+                    text = text.substring(0, text.length - 1);
+                }
+                return text;
+            }).join(', ')
+        );
+    })();
+</script>
