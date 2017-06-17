@@ -5,14 +5,15 @@
     (function() {
         var today = moment(),
             then = moment('20170421', 'YYYYMMDD'),
-            diff = then.preciseDiff(today, true);
+            diff = then.preciseDiff(today, true),
+            weeks = -then.diff(today, 'weeks');
         document.getElementById('content').innerText = (
             ['year', 'month', 'day']
             .filter(key => diff[key+'s'] != 0)
             .map(function(key) {
                 var val = diff[key+'s'];
                 return val + ' ' + key + (val === 1 ? '' : 's')
-            }).join(', ')
+            }).join(', ') + ` (${weeks} weeks)`
         );
     })();
 </script>
