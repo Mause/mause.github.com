@@ -11,6 +11,8 @@ I have been a Gorillaz fan for many a year, and have acquired some digital mater
 
 I am unsure exactly many episodes exist; the earlier I am aware of is the five for Plastic Beach.
 
+The following were acquired via various means. Some were found on forums, others were found by delving deep inside the g-player flash application and extracting the urls for the original audio files.
+
 The first four are roughly half an hour long, 
 
  * [Episode 1](https://dl.dropboxusercontent.com/u/17607607/Gorillaz/Pirate%20Radio/01%20Episode%201.mp3)
@@ -21,6 +23,8 @@ The first four are roughly half an hour long,
 And [episode 5](https://dl.dropboxusercontent.com/u/17607607/Gorillaz/Pirate%20Radio/05%20Episode%205%20Full.mp3), with an extended one and a half hour version available (which is the one linked) if you progress far enough in the game on the website at the time. This one talks primarily about the album produced during their Plastic Beach tour; The Fall.
 
 There are also a number of others; for the singles collection, a few for the release of the converse shoes and associated song, Do Ya Thing.
+
+I am unsure if single audio files for them are available; playlist versions are available on Spotify.
 
 ## Windows Theme
 
