@@ -19,9 +19,14 @@ For much of these projects, more information is available on the linked GitHub p
 
 ---
 
-{% comment %} projects are defined in _data/projects.yml {% endcomment %}
+{% comment %}
+projects are defined in _data/projects.yml
+
+we cannot indent these as we normally would, as the markdown processor would then consider them to be code/quote blocks
+{% endcomment %}
 
 {% for project in site.data.projects %}
 #### [{{project.name}}:]({{project.link}}) <small>{{project.languages}}</small>
 {{project.description}}
 {% endfor %}
+
