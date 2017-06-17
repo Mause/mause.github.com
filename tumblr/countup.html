@@ -5,7 +5,7 @@
     (function() {
         var today = moment(),
             then = moment('20170421', 'YYYYMMDD'),
-            diff = then.preciseDiff(today, 'days');
+            diff = then.preciseDiff(today, true);
         document.getElementById('content').innerText = (
             ['year', 'month', 'day']
             .filter(key => diff[key+'s'] != 0)
