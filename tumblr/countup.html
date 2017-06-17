@@ -7,7 +7,7 @@
             then = moment('20170421', 'YYYYMMDD'),
             diff = then.preciseDiff(today, 'days');
         document.getElementById('content').innerText = (
-            ['months', 'days'].map(function(key) {
+            ['years', 'months', 'days'].map(function(key) {
                 var text = diff[key] + ' ' + key;
                 if (diff[key] === 1) {
                     text = text.substring(0, text.length - 1);
