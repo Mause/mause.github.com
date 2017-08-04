@@ -1,5 +1,6 @@
 ---
 title: PyConAu 2017 Schedule
+published: true
 ---
 
 ## Thursday
@@ -16,3 +17,5 @@ title: PyConAu 2017 Schedule
  * Using MicroPython in the wild
  * Oh, I Found a Security Issue
  * Software for the Murchison Widefield Array radio telescope
+ * lunch 
+ * Teaching MicroPython with the BBC micro:bit at NCSS
