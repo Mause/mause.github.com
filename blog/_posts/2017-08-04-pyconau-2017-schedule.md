@@ -1,3 +1,7 @@
+---
+title: PyConAu 2017 Schedule
+---
+
 ## Thursday
  * breakfast 9am
  * free tour 10:30am-2pm
