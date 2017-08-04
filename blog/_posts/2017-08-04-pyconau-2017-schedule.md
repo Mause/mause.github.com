@@ -15,3 +15,4 @@ title: PyConAu 2017 Schedule
  * morning tea
  * Using MicroPython in the wild
  * Oh, I Found a Security Issue
+ * Software for the Murchison Widefield Array radio telescope
