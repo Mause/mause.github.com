@@ -28,4 +28,5 @@ published: true
  * went back to pensione for an hour to recharge
  * walked to meatball bar for dinner, was full
  * walked to Italian section instead, du Guido
- * pumpkin soup with anchovies for appetiser 
+     * pumpkin soup with anchovies for appetiser
+     * squid ink pasta with calamari for main
