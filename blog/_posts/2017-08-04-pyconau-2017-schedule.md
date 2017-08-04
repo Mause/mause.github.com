@@ -24,3 +24,4 @@ published: true
  * afternoon tea
  * Visualising data with Python
  * Remote DNA Sequencing and Analysis; Nanopore sequencing, FPGA boards and a fortunate Epiphany
+ * From PyPI to Production: Shipping Software Responsibly.
