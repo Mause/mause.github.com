@@ -10,3 +10,4 @@
  * Tuning In with SDR & Python
  * morning tea
  * Using MicroPython in the wild
+ * Oh, I Found a Security Issue
