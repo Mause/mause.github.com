@@ -35,9 +35,8 @@ published: true
  * caught the bus back into the city
  
 ## Saturday 
-
  * breakfast at the grain store
-     * English breakfast
+     * English breakfast
      * bircher muesli
  * opening talk
  * Talk: Can they really do that? - You'll be amazed at what skills our future coders will bring to your team
