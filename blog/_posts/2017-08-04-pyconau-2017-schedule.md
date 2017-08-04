@@ -25,3 +25,6 @@ published: true
  * Visualising data with Python
  * Remote DNA Sequencing and Analysis; Nanopore sequencing, FPGA boards and a fortunate Epiphany
  * From PyPI to Production: Shipping Software Responsibly.
+ * went back to pensione for an hour to recharge
+ * walked to meatball bar for dinner, was full
+ * walked to Italian section instead, du Guido 
