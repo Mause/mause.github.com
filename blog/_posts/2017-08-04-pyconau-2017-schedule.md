@@ -30,3 +30,6 @@ published: true
  * walked to Italian section instead, du Guido
      * pumpkin soup with anchovies for appetiser
      * squid ink pasta with calamari for main
+ * went to Brunettis carlton
+     * got coffee and Buruameli el Cafe(???)
+ * caught the bus back into the city
