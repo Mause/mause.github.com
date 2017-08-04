@@ -38,4 +38,6 @@ published: true
 
  * breakfast at the grain store
        * English breakfast
-       * bircher muesli 
+       * bircher muesli
+ * opening talk
+ * Talk: Can they really do that? - You'll be amazed at what skills our future coders will bring to your team
