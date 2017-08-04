@@ -23,3 +23,4 @@ published: true
  * Tracking Land Conversion with the Eye in the Sky
  * afternoon tea
  * Visualising data with Python
+ * Remote DNA Sequencing and Analysis; Nanopore sequencing, FPGA boards and a fortunate Epiphany
