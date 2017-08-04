@@ -12,19 +12,19 @@ published: true
  * Swiss club restaurant 
 
 ## Friday
- * Talk: Tuning In with SDR & Python
+ * Talk: [Tuning In with SDR & Python](http://2017.pycon-au.org/schedule/presentation/66/)
  * **morning tea**
- * Talk: Using MicroPython in the wild
- * Talk: Oh, I Found a Security Issue
- * Talk: Software for the Murchison Widefield Array radio telescope
+ * Talk: [Using MicroPython in the wild](http://2017.pycon-au.org/schedule/presentation/68/)
+ * Talk: [Oh, I Found a Security Issue](http://2017.pycon-au.org/schedule/presentation/53/)
+ * Talk: [Software for the Murchison Widefield Array radio telescope](http://2017.pycon-au.org/schedule/presentation/82/)
  * **lunch**
- * Talk: Teaching MicroPython with the BBC micro:bit at NCSS
- * Talk: Multitenant applications: how and why
- * Talk: Tracking Land Conversion with the Eye in the Sky
+ * Talk: [Teaching MicroPython with the BBC micro:bit at NCSS](http://2017.pycon-au.org/schedule/presentation/65/)
+ * Talk: [Multitenant applications: how and why](http://2017.pycon-au.org/schedule/presentation/30/)
+ * Talk: [Tracking Land Conversion with the Eye in the Sky](http://2017.pycon-au.org/schedule/presentation/58/)
  * **afternoon tea**
- * Talk: Visualising data with Python
- * Talk: Remote DNA Sequencing and Analysis; Nanopore sequencing, FPGA boards and a fortunate Epiphany
- * Talk: From PyPI to Production: Shipping Software Responsibly.
+ * Talk: [Visualising data with Python](http://2017.pycon-au.org/schedule/presentation/1/)
+ * Talk: [Remote DNA Sequencing and Analysis; Nanopore sequencing, FPGA boards and a fortunate Epiphany](http://2017.pycon-au.org/schedule/presentation/73/)
+ * Talk: [From PyPI to Production: Shipping Software Responsibly.](http://2017.pycon-au.org/schedule/presentation/105/)
  * went back to pensione for an hour to recharge
  * walked to meatball bar for dinner, was full
  * walked to Italian section instead, du Guido
