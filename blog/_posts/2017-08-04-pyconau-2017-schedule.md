@@ -27,4 +27,5 @@ published: true
  * From PyPI to Production: Shipping Software Responsibly.
  * went back to pensione for an hour to recharge
  * walked to meatball bar for dinner, was full
- * walked to Italian section instead, du Guido 
+ * walked to Italian section instead, du Guido
+ * pumpkin soup with anchovies for appetiser 
