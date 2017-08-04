@@ -7,6 +7,6 @@
  * Swiss club restaurant 
 
 ## Friday
- * SDR
+ * Tuning In with SDR & Python
  * morning tea
- * what is micropython
+ * Using MicroPython in the wild
