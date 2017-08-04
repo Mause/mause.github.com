@@ -13,15 +13,15 @@ published: true
 
 ## Friday
  * Tuning In with SDR & Python
- * morning tea
+ * **morning tea**
  * Using MicroPython in the wild
  * Oh, I Found a Security Issue
  * Software for the Murchison Widefield Array radio telescope
- * lunch 
+ * **lunch**
  * Teaching MicroPython with the BBC micro:bit at NCSS
  * Multitenant applications: how and why
  * Tracking Land Conversion with the Eye in the Sky
- * afternoon tea
+ * **afternoon tea**
  * Visualising data with Python
  * Remote DNA Sequencing and Analysis; Nanopore sequencing, FPGA boards and a fortunate Epiphany
  * From PyPI to Production: Shipping Software Responsibly.
