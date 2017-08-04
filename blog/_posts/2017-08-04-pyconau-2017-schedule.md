@@ -21,3 +21,5 @@ published: true
  * Teaching MicroPython with the BBC micro:bit at NCSS
  * Multitenant applications: how and why
  * Tracking Land Conversion with the Eye in the Sky
+ * afternoon tea
+ * Visualising data with Python
