@@ -12,19 +12,19 @@ published: true
  * Swiss club restaurant 
 
 ## Friday
- * Tuning In with SDR & Python
+ * Talk: Tuning In with SDR & Python
  * **morning tea**
- * Using MicroPython in the wild
- * Oh, I Found a Security Issue
- * Software for the Murchison Widefield Array radio telescope
+ * Talk: Using MicroPython in the wild
+ * Talk: Oh, I Found a Security Issue
+ * Talk: Software for the Murchison Widefield Array radio telescope
  * **lunch**
- * Teaching MicroPython with the BBC micro:bit at NCSS
- * Multitenant applications: how and why
- * Tracking Land Conversion with the Eye in the Sky
+ * Talk: Teaching MicroPython with the BBC micro:bit at NCSS
+ * Talk: Multitenant applications: how and why
+ * Talk: Tracking Land Conversion with the Eye in the Sky
  * **afternoon tea**
- * Visualising data with Python
- * Remote DNA Sequencing and Analysis; Nanopore sequencing, FPGA boards and a fortunate Epiphany
- * From PyPI to Production: Shipping Software Responsibly.
+ * Talk: Visualising data with Python
+ * Talk: Remote DNA Sequencing and Analysis; Nanopore sequencing, FPGA boards and a fortunate Epiphany
+ * Talk: From PyPI to Production: Shipping Software Responsibly.
  * went back to pensione for an hour to recharge
  * walked to meatball bar for dinner, was full
  * walked to Italian section instead, du Guido
