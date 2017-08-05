@@ -40,3 +40,13 @@ published: true
      * bircher muesli
  * opening talk
  * Talk: Can they really do that? - You'll be amazed at what skills our future coders will bring to your team
+ * **morning tea**
+ * Talk: A Really Gentle Introduction to Asyncio
+ * Talk: Fighting the controls: madness and tragedy for programmers (only first half)
+ * Talk: Harnessing the APIs you didn't know existed
+ * **lunch**
+ * Talk: Call a C API from Python becomes more enjoyable with CFFI
+ * Talk: Mocking: virtual reality for your Python tests
+ * Talk: Front-end integration testing with splinter
+ * **afternoon tea**
+ * Talk: GraphQL: how to make clients enjoy using your API
