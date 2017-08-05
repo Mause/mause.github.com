@@ -59,4 +59,6 @@ published: true
 ## Sunday
  * breakfast at leaps
  * opening remarks
- * 
+ * Talk: How to handle abandoned projects, Take Two
+ * **morning tea**
+ * Talk: Hot reloading Python web-servers at scale
