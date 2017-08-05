@@ -51,5 +51,5 @@ published: true
  * **afternoon tea**
  * Talk: GraphQL: how to make clients enjoy using your API
 
-### Saturday Lightening Talks
+### Saturday Lightning Talks
 
