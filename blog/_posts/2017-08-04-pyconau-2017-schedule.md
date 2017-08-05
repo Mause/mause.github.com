@@ -50,3 +50,6 @@ published: true
  * Talk: Front-end integration testing with splinter
  * **afternoon tea**
  * Talk: GraphQL: how to make clients enjoy using your API
+
+### Saturday Lightening Talks
+
