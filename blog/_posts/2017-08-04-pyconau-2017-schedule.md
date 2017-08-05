@@ -39,16 +39,16 @@ published: true
      * English breakfast
      * bircher muesli
  * opening talk
- * Talk: Can they really do that? - You'll be amazed at what skills our future coders will bring to your team
+ * Talk: [Can they really do that? - You'll be amazed at what skills our future coders will bring to your team](http://2017.pycon-au.org/schedule/presentation/109/)
  * **morning tea**
- * Talk: A Really Gentle Introduction to Asyncio
- * Talk: Fighting the controls: madness and tragedy for programmers (only first half)
- * Talk: Harnessing the APIs you didn't know existed
+ * Talk: [A Really Gentle Introduction to Asyncio](http://2017.pycon-au.org/schedule/presentation/36/)
+ * Talk: [Fighting the controls: madness and tragedy for programmers (only first half)](http://2017.pycon-au.org/schedule/presentation/11/)
+ * Talk: [Harnessing the APIs you didn't know existed](http://2017.pycon-au.org/schedule/presentation/22/)
  * **lunch**
- * Talk: Call a C API from Python becomes more enjoyable with CFFI
- * Talk: Mocking: virtual reality for your Python tests
- * Talk: Front-end integration testing with splinter
+ * Talk: [Call a C API from Python becomes more enjoyable with CFFI](http://2017.pycon-au.org/schedule/presentation/40/)
+ * Talk: [Mocking: virtual reality for your Python tests](http://2017.pycon-au.org/schedule/presentation/43/)
+ * Talk: [Front-end integration testing with splinter](http://2017.pycon-au.org/schedule/presentation/42/)
  * **afternoon tea**
- * Talk: GraphQL: how to make clients enjoy using your API
+ * Talk: [GraphQL: how to make clients enjoy using your API](http://2017.pycon-au.org/schedule/presentation/81/)
 
 ### Saturday Lightning Talks
