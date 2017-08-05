@@ -7,9 +7,9 @@ published: true
  * breakfast 9am
  * free tour 10:30am-2pm
  * walmas 2pm-4:50pm
- * Pensione to drop off meat 
+ * Pensione to drop off meat
  * Eureka tower
- * Swiss club restaurant 
+ * Swiss club restaurant
 
 ## Friday
  * Talk: [Tuning In with SDR & Python](http://2017.pycon-au.org/schedule/presentation/66/)
@@ -35,4 +35,20 @@ published: true
  * caught the bus back into the city
 
 ## Saturday
- *
+ * breakfast at the grain store
+     * English breakfast
+     * bircher muesli
+ * opening talk
+ * Talk: Can they really do that? - You'll be amazed at what skills our future coders will bring to your team
+ * **morning tea**
+ * Talk: A Really Gentle Introduction to Asyncio
+ * Talk: Fighting the controls: madness and tragedy for programmers (only first half)
+ * Talk: Harnessing the APIs you didn't know existed
+ * **lunch**
+ * Talk: Call a C API from Python becomes more enjoyable with CFFI
+ * Talk: Mocking: virtual reality for your Python tests
+ * Talk: Front-end integration testing with splinter
+ * **afternoon tea**
+ * Talk: GraphQL: how to make clients enjoy using your API
+
+### Saturday Lightning Talks
