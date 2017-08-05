@@ -50,5 +50,13 @@ published: true
  * Talk: [Front-end integration testing with splinter](http://2017.pycon-au.org/schedule/presentation/42/)
  * **afternoon tea**
  * Talk: [GraphQL: how to make clients enjoy using your API](http://2017.pycon-au.org/schedule/presentation/81/)
-
-### Saturday Lightning Talks
+ * **lightning talks**
+ * Pensione briefly to recharge
+ * I love dumplings with 21 NCSS peeps
+ * Dessert Time with Vivian, Alex, Evan, and Kelly(?) 
+ * walked with them back to theirs, walked home 
+ 
+## Sunday
+ * breakfast at leaps
+ * opening remarks
+ * 
