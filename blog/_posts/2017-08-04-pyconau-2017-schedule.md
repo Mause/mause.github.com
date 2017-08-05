@@ -3,6 +3,10 @@ title: PyConAu 2017 Schedule
 published: true
 ---
 
+## Wednesday
+ * Schnitz
+ * Doughnut Time
+
 ## Thursday
  * breakfast 9am
  * free tour 10:30am-2pm
