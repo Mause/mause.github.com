@@ -54,7 +54,8 @@ published: true
  * Pensione briefly to recharge
  * I love dumplings with 21 NCSS peeps
  * Dessert Time with Vivian, Alex, Evan, and Kelly(?) 
- * walked with them back to theirs, walked home 
+ * walked with them back to theirs
+ * walked back to the pensione 
  
 ## Sunday
  * breakfast at leaps
