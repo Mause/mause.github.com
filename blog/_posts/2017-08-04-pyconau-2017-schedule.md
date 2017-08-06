@@ -69,6 +69,6 @@ published: true
  * Talk: Code Reviews Using Art Critique Principles
  * Talk: Improving Your Documentation: A talk for developers who want to write stuff good
  * Talk: Don't Look Back in Anger: Wildman Whitehouse and the Great Failure of 1858
- * **afternoon tea **
+ * **afternoon tea**
  * **lightning talks**
  * **closing remarks**
