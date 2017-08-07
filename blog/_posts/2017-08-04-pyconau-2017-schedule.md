@@ -54,9 +54,25 @@ published: true
  * Talk: [Front-end integration testing with splinter](http://2017.pycon-au.org/schedule/presentation/42/)
  * **afternoon tea**
  * Talk: [GraphQL: how to make clients enjoy using your API](http://2017.pycon-au.org/schedule/presentation/81/)
-
-### Saturday Lightning Talks
-
+ * **lightning talks**
+ * Pensione briefly to recharge
+ * I love dumplings with 21 NCSS peeps
+ * Dessert Time with Vivian, Alex, Evan, and Kelly(?)
+ * walked with them back to theirs
+ * walked back to the pensione
 
 ## Sunday
- * Talk:
+ * breakfast at leaps
+ * opening remarks
+ * Talk: How to handle abandoned projects, Take Two
+ * **morning tea**
+ * Talk: Hot reloading Python web-servers at scale
+ * Talk: State Machines
+ * Talk: Lightflow - A lightweight, distributed workflow system
+ * **lunch**
+ * Talk: Code Reviews Using Art Critique Principles
+ * Talk: Improving Your Documentation: A talk for developers who want to write stuff good
+ * Talk: Don't Look Back in Anger: Wildman Whitehouse and the Great Failure of 1858
+ * **afternoon tea**
+ * **lightning talks**
+ * **closing remarks**
