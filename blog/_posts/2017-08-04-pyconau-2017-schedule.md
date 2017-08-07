@@ -76,3 +76,6 @@ published: true
  * **afternoon tea**
  * **lightning talks**
  * **closing remarks**
+
+## Monday
+ * breakfast at Grain Store with Daniele
