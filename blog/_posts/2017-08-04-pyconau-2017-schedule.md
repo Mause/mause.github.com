@@ -64,15 +64,15 @@ published: true
 ## Sunday
  * breakfast at leaps
  * opening remarks
- * Talk: How to handle abandoned projects, Take Two
+ * Talk: [How to handle abandoned projects, Take Two](http://2017.pycon-au.org/schedule/presentation/108/)
  * **morning tea**
- * Talk: Hot reloading Python web-servers at scale
- * Talk: State Machines
- * Talk: Lightflow - A lightweight, distributed workflow system
+ * Talk: [Hot reloading Python web-servers at scale](http://2017.pycon-au.org/schedule/presentation/26/)
+ * Talk: [State Machines](http://2017.pycon-au.org/schedule/presentation/33/)
+ * Talk: [Lightflow - A lightweight, distributed workflow system](http://2017.pycon-au.org/schedule/presentation/90/)
  * **lunch**
- * Talk: Code Reviews Using Art Critique Principles
- * Talk: Improving Your Documentation: A talk for developers who want to write stuff good
- * Talk: Don't Look Back in Anger: Wildman Whitehouse and the Great Failure of 1858
+ * Talk: [Code Reviews Using Art Critique Principles](http://2017.pycon-au.org/schedule/presentation/74/)
+ * Talk: [Improving Your Documentation: A talk for developers who want to write stuff good](http://2017.pycon-au.org/schedule/presentation/10/)
+ * Talk: [Don't Look Back in Anger: Wildman Whitehouse and the Great Failure of 1858](http://2017.pycon-au.org/schedule/presentation/13/)
  * **afternoon tea**
  * **lightning talks**
  * **closing remarks**
