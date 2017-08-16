@@ -4,13 +4,13 @@ published: true
 ---
 
 ## Wednesday
- * Schnitz
- * Doughnut Time
+ * Schnitz for dinner
+ * Doughnut Time for dessert
 
 ## Thursday
- * breakfast 9am
+ * breakfast at the foyer restaurant of Pensione 9am
  * free tour 10:30am-2pm
- * walmas 2pm-4:50pm
+ * Walma's 2pm-4:50pm
  * Pensione to drop off meat
  * Eureka tower
  * Swiss club restaurant
@@ -29,13 +29,14 @@ published: true
  * Talk: [Visualising data with Python](http://2017.pycon-au.org/schedule/presentation/1/)
  * Talk: [Remote DNA Sequencing and Analysis; Nanopore sequencing, FPGA boards and a fortunate Epiphany](http://2017.pycon-au.org/schedule/presentation/73/)
  * Talk: [From PyPI to Production: Shipping Software Responsibly.](http://2017.pycon-au.org/schedule/presentation/105/)
- * went back to pensione for an hour to recharge
+ * went back to Pensione for an hour to recharge (myself and my phone)
  * walked to meatball bar for dinner, was full
  * walked to Italian section instead, du Guido
      * pumpkin soup with anchovies for appetiser
      * squid ink pasta with calamari for main
- * went to Brunettis carlton
-     * got coffee and Buruameli el Cafe(???)
+ * went to Brunettis carlton for dessert
+     * coffee
+     * Burumeli el Cafe
  * caught the bus back into the city
 
 ## Saturday
