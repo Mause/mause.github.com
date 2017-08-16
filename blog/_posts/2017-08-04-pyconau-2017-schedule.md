@@ -76,6 +76,18 @@ published: true
  * **afternoon tea**
  * **lightning talks**
  * **closing remarks**
+ * dinner at SPQR Pizza
 
 ## Monday
  * breakfast at Grain Store with Daniele
+ * lunch at sprints
+ * dinner at Royal Melbourne Hotel with Jerome
+
+## Tuesday
+ * ran late, skipped breakfast
+ * lunch at The Bond Store
+ * dinner at CHINCHIN with Sirani
+
+## Wedneday
+ * breakfast at steampunk themed cafe at Airport
+ * flight home
