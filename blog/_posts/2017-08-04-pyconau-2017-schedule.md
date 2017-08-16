@@ -1,5 +1,5 @@
 ---
-title: PyConAu 2017 Schedule
+title: PyCon Au 2017 Schedule
 published: true
 ---
 
@@ -30,11 +30,11 @@ published: true
  * Talk: [Remote DNA Sequencing and Analysis; Nanopore sequencing, FPGA boards and a fortunate Epiphany](http://2017.pycon-au.org/schedule/presentation/73/)
  * Talk: [From PyPI to Production: Shipping Software Responsibly.](http://2017.pycon-au.org/schedule/presentation/105/)
  * went back to Pensione for an hour to recharge (myself and my phone)
- * walked to meatball bar for dinner, was full
- * walked to Italian section instead, du Guido
+ * walked to The Meatball & Wine Bar for dinner, was full
+ * walked to Italian section instead, Da Guido La Pasta
      * pumpkin soup with anchovies for appetiser
      * squid ink pasta with calamari for main
- * went to Brunettis carlton for dessert
+ * went to Brunetti's Carlton for dessert
      * coffee
      * Burumeli el Cafe
  * caught the bus back into the city
