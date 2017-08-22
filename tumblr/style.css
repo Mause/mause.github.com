@@ -398,7 +398,7 @@ footer div.col2 {
 	height: 40px;
 	width: 540px;
 	margin-top: -2px;
-	background-image: url(http://dl.dropbox.com/u/17607607/for_tumblr/reblog_simple.png);
+	background-image: url(https://mause.me/tumblr/reblog_simple.png);
 	background-repeat: no-repeat;
 	overflow: hidden;
 	/*bottom: 0px;*/
@@ -533,7 +533,7 @@ div.caption.photoset_cap,
 div.caption.video_cap {
 	display: block;
 	/*background-image: url(http://static.tumblr.com/4cradrm/VOBknlgom/caption_extra.jpg);*/
-	background-image: url(http://dl.dropbox.com/u/17607607/for_tumblr/caption_bar.jpg);
+	background-image: url(https://mause.me/tumblr/caption_bar.jpg);
 	background-position: left top;
 	background-repeat: no-repeat;
 	position: relative;
@@ -552,7 +552,7 @@ div.caption.photo_cap {
 	left: 0;
 	bottom: 0;
 	/*background-image: url(http://static.tumblr.com/4cradrm/zq7knlgl1/black_trans.png);*/
-	background-image: url(http://dl.dropbox.com/u/17607607/for_tumblr/caption_bar.jpg);
+	background-image: url(https://mause.me/tumblr/caption_bar.jpg);
 	padding: 10px;
 	padding-bottom: 55px;
 	border-top: 1px solid #111;
