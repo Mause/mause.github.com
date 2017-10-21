@@ -18,9 +18,9 @@
                 return `${val} ${key}` + (val === 1 ? '' : 's');
             }).join(', ') + (
                 ` (` +
-                `${weeks} weeks, ` +
+                `${weeks} weeks`/*, ` +
                 `${quarters} quarters, & ` +
-                `${fulls} fulls` +
+                `${fulls} fulls`*/ +
                 `)`
             )
         );
