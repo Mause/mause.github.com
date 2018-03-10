@@ -28,7 +28,7 @@ resume(1) - a series of happenings
      - Kitchen Hand, 2010 - 2014
      - Owners Lynn &amp; Trevor Mann; 08-97555604
  * Bankwest
-      - Software Engineer Intern
+      - Junior IT Specialist
       - The Denovo Project (Customer Transformation)
       - November 21st 2016 - Ongoing
 
