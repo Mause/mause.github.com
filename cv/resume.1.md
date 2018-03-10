@@ -31,6 +31,11 @@ resume(1) - a series of happenings
       - Junior IT Specialist
       - The Denovo Project (Customer Transformation)
       - November 21st 2016 - Ongoing
+ * DKB Solutions
+      - frontend and backend development work
+      - React & Relay frontend
+      - Express and graphql backend, with postgres database
+      - AWS hosted, making use of many services
 
 ## SKILLS &AMP; QUALIFICATIONS
 ### QUALIFICATIONS
