@@ -6,6 +6,7 @@
         var today = moment(),
             then = moment('20170421', 'YYYYMMDD'),
             diff = then.preciseDiff(today, true),
+            months = -then.diff(today, 'months'),
             weeks = -then.diff(today, 'weeks'),
             days = -then.diff(today, 'days'),
             quarters = parseInt(days / 2), // every second day?
@@ -18,7 +19,8 @@
                 return `${val} ${key}` + (val === 1 ? '' : 's');
             }).join(', ') + (
                 ` (` +
-                `${weeks} weeks`/*, ` +
+                `${weeks} weeks/` +
+                `${months} months`/*, ` +
                 `${quarters} quarters, & ` +
                 `${fulls} fulls`*/ +
                 `)`
