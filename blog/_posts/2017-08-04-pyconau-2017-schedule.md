@@ -58,7 +58,7 @@ published: true
  * **lightning talks**
  * Pensione briefly to recharge
  * I love dumplings with 21 NCSS peeps
- * Dessert Time with Vivian, Alex, Evan, and Kelly(?)
+ * Dessert Time with Vivian, Alex, Evan, and Kelly
  * walked with them back to theirs
  * walked back to the pensione
 
