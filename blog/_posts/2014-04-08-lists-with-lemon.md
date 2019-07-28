@@ -8,6 +8,6 @@ I was parsing some lists of, erm, labels today in [Lemon](http://www.hwaci.com/s
 
 {% gist 10024721 %}
 
-with the pseudocode replaced with code appropriate for your host language, and with `list` being the uppermost rule, and with `COMMA` being whatever delimiter you desire :)
+with the pseudocode replaced with code appropriate for your host language, and with <pre><code>list</code></pre> being the uppermost rule, and with <pre><code>COMMA</code></pre> being whatever delimiter you desire :)
 
 Enjoy!
