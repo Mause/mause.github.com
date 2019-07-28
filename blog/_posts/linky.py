@@ -3,6 +3,7 @@ import requests
 
 schedule = requests.get(
     # 'https://2017.pycon-au.org/schedule/conference.json'
+    # 'https://2018.pycon-au.org/schedule/avdata.json'
     'https://2019.pycon-au.org/schedule/avdata.json'
 ).json()
 
