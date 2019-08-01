@@ -1,4 +1,5 @@
 import re
+from typing import Match
 import requests
 
 schedule = requests.get(
@@ -12,14 +13,14 @@ schedule = {item['name']: item.get('conf_url') for item in schedule['schedule']}
 TEMPLATE = ' * Talk: '
 
 
-def replace(match):
+def replace(match: Match) -> str:
     name = match.groups()[0]
     return TEMPLATE + (
         name if name[0] == '[' else '[%s](%s)' % (name, schedule[name])
     )
 
 
-def add_links(contents):
+def add_links(contents: str) -> str:
     return re.sub(
         r'^' + re.escape(TEMPLATE) + r'(.*)$',
         replace,
@@ -32,7 +33,9 @@ def main():
     filename = '2019-07-29-pyconau-2019.md'
 
     with open(filename) as fh:
-        contents = add_links(fh.read())
+        contents = fh.read()
+
+    contents = add_links(contents)
 
     with open(filename, 'w') as fh:
         fh.write(contents)
