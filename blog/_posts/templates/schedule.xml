@@ -1,0 +1,42 @@
+<schedule>
+    <conference>
+        <acronym>nluug-vj2018</acronym>
+        <title>NLUUG Spring 2018</title>
+        <subtitle/>
+        <venue>Van der Valk Hotel, Utrecht, NL</venue>
+        <start>2019-08-02</start>
+        <end>2019-08-6</end>
+        <days>5</days>
+        <timeslot_duration>01:00</timeslot_duration>
+    </conference>
+    {% for idx, (date, rooms) in enumerate(days.items()) %}
+    <day date="{{date}}" index="{{idx}}">
+        {% for room, talks in rooms %}
+        <room name="{{room}}">
+            {% for talk in talks %}
+            <event id="{{talk.conf_key}}">
+                <slug/>
+                <date>{{talk.start}}</date>
+                <start>{{fromisoformat(talk.start).time().isoformat()}}</start>
+                <duration>{{ to_time(talk.duration) }}</duration>
+                <room>{{talk.room}}</room>
+                <title>{{talk.name}}</title>
+                <subtitle/>
+                <track>{{talk.track}}</track>
+                <type>{{talk.type}}</type>
+                <language/>
+                <description/>
+                <abstract>{{talk.abstract}}</abstract>
+                <persons>
+                    {% for author in talk.authors %}
+                    <person>{{author}}</person>
+                    {% endfor %}
+                </persons>
+                <links/>
+            </event>
+            {% endfor %}
+        </room>
+        {% endfor %}
+    </day>
+    {% endfor %}
+</schedule>
