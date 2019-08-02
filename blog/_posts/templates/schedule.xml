@@ -1,8 +1,8 @@
 <schedule>
     <conference>
         <acronym>pyconau-2019</acronym>
-        <title>PyConAu 2019</title>
-        <subtitle/>
+        <title>PyCon Au 2019</title>
+        <subtitle>Extended</subtitle>
         <venue>Internal Convention Centre, Sydney, AU</venue>
         <start>2019-08-02</start>
         <end>2019-08-6</end>
@@ -17,7 +17,7 @@
             <event id="{{talk.conf_key}}">
                 <slug/>
                 <date>{{talk.start}}</date>
-                <start>{{fromisoformat(talk.start).time().isoformat()}}</start>
+                <start>{{ fromisoformat(talk.start).time().isoformat() }}</start>
                 <duration>{{ to_time(talk.duration) }}</duration>
                 <room>{{talk.room}}</room>
                 <title>{{talk.name}}</title>
