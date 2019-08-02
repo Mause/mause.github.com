@@ -32,7 +32,18 @@
                     <person>{{author}}</person>
                     {% endfor %}
                 </persons>
-                <links/>
+                <links>
+                    <link href="{{ talk.conf_url }}">
+                        Conference link
+                    </link>
+                    {% for twitter in talk.twitter_ids %}
+                        {% if twitter %}
+                            <link href="https://twitter.com/{{twitter}}">
+                                {{twitter}}
+                            </link>
+                        {% endif %}
+                    {% endfor %}
+                </links>
             </event>
             {% endfor %}
         </room>
