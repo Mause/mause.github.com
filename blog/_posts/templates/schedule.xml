@@ -16,8 +16,8 @@
             {% for talk in talks %}
             <event id="{{talk.conf_key}}">
                 <slug/>
-                <date>{{talk.start}}</date>
-                <start>{{ fromisoformat(talk.start).time().isoformat() }}</start>
+                <date>{{ talk.start.isoformat() }}</date>
+                <start>{{ talk.start.time().isoformat() }}</start>
                 <duration>{{ to_time(talk.duration) }}</duration>
                 <room>{{talk.room}}</room>
                 <title>{{talk.name}}</title>

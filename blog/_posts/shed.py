@@ -18,24 +18,19 @@ def to_time(minutes: int) -> str:
 
 @app.route('/schedule.xml')
 def schedule_xml():
-    schedule = requests.get(
-        'https://2019.pycon-au.org/schedule/avdata.json'
-    ).json()['schedule']
+    schedule = requests.get('https://2019.pycon-au.org/schedule/avdata.json').json()[
+        'schedule'
+    ]
+    schedule = [
+        dict(talk, start=datetime.fromisoformat(talk['start'])) for talk in schedule
+    ]
 
-    days = groupby(
-        schedule, lambda talk: datetime.fromisoformat(talk['start']).date()
-    )
-    days = {
-        date: groupby(talks, lambda talk: talk['room']) for date, talks in days
-    }
+    days = groupby(schedule, lambda talk: talk['start'].date())
+    days = {date: groupby(talks, lambda talk: talk['room']) for date, talks in days}
 
     return (
         render_template(
-            'schedule.xml',
-            days=days,
-            enumerate=enumerate,
-            to_time=to_time,
-            fromisoformat=datetime.fromisoformat,
+            'schedule.xml', days=days, enumerate=enumerate, to_time=to_time
         ),
         200,
         {'content-type': 'application/xml'},
