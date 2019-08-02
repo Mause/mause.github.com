@@ -39,7 +39,7 @@
                     {% for twitter in talk.twitter_ids %}
                         {% if twitter %}
                             <link href="https://twitter.com/{{twitter}}">
-                                {{twitter}}
+                                @{{twitter}}
                             </link>
                         {% endif %}
                     {% endfor %}
