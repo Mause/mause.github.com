@@ -5,8 +5,8 @@
         <subtitle>Extended</subtitle>
         <venue>Internal Convention Centre, Sydney, AU</venue>
         <start>2019-08-02</start>
-        <end>2019-08-6</end>
-        <days>5</days>
+        <end>2019-08-04</end>
+        <days>3</days>
         <timeslot_duration>01:00</timeslot_duration>
     </conference>
     {% for idx, (date, rooms) in enumerate(days.items()) %}
