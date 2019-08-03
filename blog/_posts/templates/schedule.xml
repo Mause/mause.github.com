@@ -9,8 +9,8 @@
         <days>3</days>
         <timeslot_duration>01:00</timeslot_duration>
     </conference>
-    {% for idx, (date, rooms) in enumerate(days.items()) %}
-    <day date="{{date}}" index="{{idx}}">
+    {% for date, rooms in days.items() %}
+    <day date="{{date}}">
         {% for room, talks in rooms %}
         <room name="{{room}}">
             {% for talk in talks %}

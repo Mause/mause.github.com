@@ -29,9 +29,7 @@ def schedule_xml():
     days = {date: groupby(talks, lambda talk: talk['room']) for date, talks in days}
 
     return (
-        render_template(
-            'schedule.xml', days=days, enumerate=enumerate, to_time=to_time
-        ),
+        render_template('schedule.xml', days=days, to_time=to_time),
         200,
         {'content-type': 'application/xml'},
     )
