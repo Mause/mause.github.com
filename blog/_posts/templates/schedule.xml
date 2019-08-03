@@ -1,11 +1,11 @@
 <schedule>
     <conference>
-        <acronym>pyconau-2019</acronym>
-        <title>PyCon Au 2019 X</title>
+        <acronym>pyconau-{{ start_date.year }}</acronym>
+        <title>PyCon Au {{ start_date.year }} X</title>
         <subtitle/>
         <venue>Internal Convention Centre, Sydney, AU</venue>
-        <start>2019-08-02</start>
-        <end>2019-08-04</end>
+        <start>{{ start_date.isoformat() }}</start>
+        <end>{{ end_date.isoformat() }}</end>
         <days>3</days>
         <timeslot_duration>01:00</timeslot_duration>
     </conference>
