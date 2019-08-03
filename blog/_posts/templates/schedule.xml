@@ -36,6 +36,11 @@
                     <link href="{{ talk.conf_url }}">
                         Conference link
                     </link>
+                    {% if talk.video_url %}
+                        <link href="{{ talk.video_url }}">
+                            Youtube video
+                        </link>
+                    {% endif %}
                     {% for twitter in talk.twitter_ids %}
                         {% if twitter %}
                             <link href="https://twitter.com/{{ twitter }}">
