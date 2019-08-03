@@ -10,26 +10,26 @@
         <timeslot_duration>01:00</timeslot_duration>
     </conference>
     {% for date, rooms in days.items() %}
-    <day date="{{date}}">
+    <day date="{{ date }}">
         {% for room, talks in rooms %}
-        <room name="{{room}}">
+        <room name="{{ room }}">
             {% for talk in talks %}
-            <event id="{{talk.conf_key}}">
+            <event id="{{ talk.conf_key }}">
                 <slug/>
                 <date>{{ talk.start.isoformat() }}</date>
                 <start>{{ talk.start.time().isoformat() }}</start>
                 <duration>{{ to_time(talk.duration) }}</duration>
-                <room>{{talk.room}}</room>
-                <title>{{talk.name}}</title>
+                <room>{{ talk.room }}</room>
+                <title>{{ talk.name }}</title>
                 <subtitle/>
-                <track>{{talk.track}}</track>
-                <type>{{talk.type}}</type>
+                <track>{{ talk.track }}</track>
+                <type>{{ talk.type }}</type>
                 <language/>
                 <description/>
-                <abstract>{{talk.abstract}}</abstract>
+                <abstract>{{ talk.abstract }}</abstract>
                 <persons>
                     {% for author in talk.authors %}
-                    <person>{{author}}</person>
+                    <person>{{ author }}</person>
                     {% endfor %}
                 </persons>
                 <links>
@@ -38,8 +38,8 @@
                     </link>
                     {% for twitter in talk.twitter_ids %}
                         {% if twitter %}
-                            <link href="https://twitter.com/{{twitter}}">
-                                @{{twitter}}
+                            <link href="https://twitter.com/{{ twitter }}">
+                                @{{ twitter }}
                             </link>
                         {% endif %}
                     {% endfor %}
