@@ -1,7 +1,7 @@
 import requests
 from itertools import groupby as _groupby
 from datetime import datetime, date, timedelta
-from flask import Flask, render_template, redirect
+from flask import Flask, render_template, redirect, url_for
 
 
 app = Flask(__name__)
@@ -22,8 +22,8 @@ def to_time(minutes: int) -> str:
 
 
 @app.route('/schedule.xml')
-def schedule_xml(year):
-    return redirect('schedule_year_xml', year='2019')
+def schedule_xml():
+    return redirect(url_for('schedule_year_xml', year='2019'))
 
 
 @app.route('/<year>/schedule.xml')
