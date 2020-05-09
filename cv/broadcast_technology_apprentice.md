@@ -17,7 +17,7 @@ One thing to note, however, is that at this time I possess only a Learners Permi
 
 Looking forward to speaking to you again,
 
-*Dominic May, 8/11/2013*
+*Elliana May, 8/11/2013*
 
 I can be contacted via;
 

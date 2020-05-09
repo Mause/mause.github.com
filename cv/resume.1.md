@@ -3,12 +3,12 @@ resume(1) - a series of happenings
 
 ## SYNOPSIS
 
-`dominic_may` [<optional>...] <flags>
+`elliana_may` [<var>optional</var>...] <var>flags</var>
 
 ## DESCRIPTION
 
 ## CONTACT INFORMATION
- * __Name:__ Dominic May
+ * __Name:__ Elliana May
  * __Mobile:__ [0416041357](tel:0061-416-041-357)
  * __Email:__ [me@mause.me](mailto:me+cv@mause.me)
 
