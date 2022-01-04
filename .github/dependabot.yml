@@ -5,8 +5,8 @@
 
 version: 2
 updates:
-  - package-ecosystem: "pipenv" # See documentation for possible values
-    directory: "/" # Location of package manifests
+  - package-ecosystem: "pip" # See documentation for possible values
+    directory: "blog/_posts" # Location of package manifests
     schedule:
       interval: "daily"
   - package-ecosystem: "bundler" # See documentation for possible values
