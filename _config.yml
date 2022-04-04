@@ -17,8 +17,8 @@ keep_files:  ['.git','.svn']
 timezone:    Australia/Perth
 
 future:      true
-show_drafts: nil
-highlighter: rouge
+show_drafts: false
+highlighter: coderay
 
 permalink:     date
 paginate_path: 'page:num'
@@ -41,9 +41,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  smart_quotes: [lsquo,rsquo,ldquo,rdquo]
-  enable_coderay: false
-
+  syntax_highlighter: coderay
   syntax_highlighter_opts:
     wrap: div
     line_numbers: inline
@@ -55,5 +53,6 @@ kramdown:
 plugins:
   - jekyll-gist
   - kramdown-parser-gfm
+  - kramdown-syntax-coderay
   - jekyll-seo-tag
   - jekyll-feed
