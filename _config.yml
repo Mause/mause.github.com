@@ -14,7 +14,7 @@ layouts_dir: ./_layouts
 include:     ['.htaccess']
 exclude:     []
 keep_files:  ['.git','.svn']
-timezone:    GMT+8
+timezone:    Australia/Perth
 
 future:      true
 show_drafts: nil
