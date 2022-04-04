@@ -14,7 +14,6 @@ layouts_dir: ./_layouts
 include:     ['.htaccess']
 exclude:     []
 keep_files:  ['.git','.svn']
-gems:        ['jekyll-feed', 'jekyll-seo-tag', 'jekyll-gist']
 timezone:    GMT+8
 
 future:      true
