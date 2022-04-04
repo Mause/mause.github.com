@@ -1,8 +1,0 @@
-version: '3.4'
-
-services:
-  mause.github.com:
-    image: mause.github.com
-    build: .
-    ports:
-      - 3000
