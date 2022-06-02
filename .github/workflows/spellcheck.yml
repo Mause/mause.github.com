@@ -11,4 +11,4 @@ jobs:
       name: Spellcheck
       with:
         output_file: spellcheck-output.txt
-    - use: actions/github-script@v3
+    - uses: actions/github-script@v3
