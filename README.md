@@ -1,5 +1,5 @@
-[http://mause.me](http://mause.me)
+[https://mause.me](https://mause.me)
 =================================
 
-A static homepage, generated via [Jekyll](http://jekyllrb.com)
+A static homepage, generated via [Jekyll](https://jekyllrb.com)
 
