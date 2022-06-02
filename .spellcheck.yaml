@@ -2,6 +2,7 @@ matrix:
 - name: Python Source
   aspell:
     lang: en
-    d: en_US
+    d: en_AU
   sources:
-  - pyspelling/**/*.py
+  - '**/*.md'
+  default_encoding: utf-8
