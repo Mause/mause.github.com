@@ -13,36 +13,22 @@ resume(1) - a series of happenings
  * __Email:__ [me@mause.me](mailto:me+cv@mause.me)
 
 ## EDUCATION
- * __Primary School:__ Cowaramup Primary School
-      - Tournament of Minds
-      - GATE
- * __High School:__ Margaret River Senior High School
-     - Computer Science: 2A, 2B, 3A, 3B
-     - Graduation year: 2013
  * __University:__ Curtin University of Technology
      - Computer Science Premajor - 2014
-     - Bachelor of Computing - Software Engineering Stream - 2015 - ?
+     - Bachelor of Computing - Software Engineering Stream - 2015 - ? (incomplete)
 
 ## EMPLOYMENT HISTORY
- * Brookwood Estate, Cowaramup, WA
-     - Kitchen Hand, 2010 - 2014
-     - Owners Lynn &amp; Trevor Mann; 08-97555604
  * Bankwest
-      - IT Specialist
-      - The Denovo Project (Customer Transformation)
+      - Software Engineer
+      - Home Buying Division
       - November 21st 2016 - Ongoing
- * DKB Solutions
+ * DKB Solutions (consulting work, 8 months)
       - frontend and backend development work
       - React & Relay frontend
       - Express and graphql backend, with postgres database
       - AWS hosted, making use of many services
 
-## SKILLS &AMP; QUALIFICATIONS
-### QUALIFICATIONS
- * R.S.A. Certificate
- * St Johns First Aid Cert. - Through to HLTAID003 ("Provide First Aid")
-
-### COMPUTERS
+## SKILLS
 
  * Programming/Markup languages
      - Have been working with **Python** for seven years plus (since August 2009)
@@ -59,19 +45,8 @@ resume(1) - a series of happenings
      - Experience with PC hardware (previously known as IBM compatible), limited with Apple
      - Vast generic knowledge on use of computers
 
-### ELECTRONICS
- * Basic electronics theory
- * Experience soldering through hole components
-
-## AWARDS
- * Top Career IT student for 2009
- * High Distinction for Intermediate Stream in the 2011 NCSS Challenge programming competition
- * Distinction for the Advanced Stream NCSS Challenge 2012 programming competition
- * Awarded Top Student Computer Science Stage 3 at Margaret River Senior High School for 2013
-
 ## VOLUNTEER WORK
- * Some voluntary community work with the 1st Margaret River Scout Association, member of latter for 7 years.
- * I actively volunteer at RFLAN, a Perth based gaming community event. Some activities I perform at RFLAN include;
+ * Volunteered at RFLAN from 2011 till 2019, a Perth based gaming community event. Some activities I performed at RFLAN included;
      * Setting up a large number of tables
      * Helping setup and connect networking equipment
      * Helping setup and connect power facilities
@@ -79,5 +54,5 @@ resume(1) - a series of happenings
 
 ## PERSONAL
  * Dual Australian/Swiss citizenship, with both passports
- * Currently residing in Western Australia, for the better part of the year in Perth
+ * Currently residing in Perth, Western Australia
  * Limited German/Swiss-German
