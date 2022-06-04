@@ -17,4 +17,10 @@ jobs:
         script: |
           const { readFileSync } = require('fs');
           const lines = readFileSync('spellcheck-output.txt').toString().split('\n');
-          console.log('::notice file={name},title={title}::{message}');
+          while (lines.length) {
+            const line = lines.unshift();
+            if (line === 'Misspelled words:') {
+              const filename = lines.unshift();
+              console.log(`::notice file=${filename},title=Spelling errors::{message}`);
+            }
+          }
