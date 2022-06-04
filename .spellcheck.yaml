@@ -1,0 +1,13 @@
+matrix:
+- name: Python Source
+  aspell:
+    lang: en
+    d: en_AU
+  dictionary:
+    wordlists:
+    - .github/dictionary/en-custom.txt
+    output: site/dictionary/en-custom.dic
+    encoding: utf-8
+  sources:
+  - '**/*.md'
+  default_encoding: utf-8
