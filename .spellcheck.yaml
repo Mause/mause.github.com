@@ -12,8 +12,8 @@ matrix:
   - pyspelling.filters.markdown:
       markdown_extensions:
       - markdown.extensions.extra:
-  - liquidpy:
-      liquid:
+ # - liquidpy:
+ #     liquid:
   - pyspelling.filters.html:
       comments: false
       attributes:
