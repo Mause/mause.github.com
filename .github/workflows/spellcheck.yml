@@ -37,5 +37,5 @@ jobs:
             }
           }
           for (const [filename, words] of Object.entries(files)) {
-            console.log(`::notice file=${filename},title=Spelling errors::${words.join('\n'}`);
+            console.log(`::notice file=${filename},title=Spelling errors::${words.join('\n')}`);
           }
