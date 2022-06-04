@@ -15,14 +15,19 @@ jobs:
     - uses: actions/github-script@v3
       with:
         script: |
+          const files = {};
           const { readFileSync } = require('fs');
           const lines = readFileSync('spellcheck-output.txt').toString().split('\n');
           while (lines.length > 0) {
             let line = lines.shift();
-            console.log(line);
             if (line === 'Misspelled words:') {
-              const filename = lines.shift();
-              const words = [];
+              const filename = lines.shift().split('> ')[1].split(': ')[0];
+
+              let words;
+              if (filename in files) {
+                words = files[filename];
+              } else words = files[filename] = [];
+
               const delim = lines.shift();
               while (true) {
                 line = lines.shift(); 
