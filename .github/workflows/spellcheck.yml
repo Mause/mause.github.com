@@ -13,3 +13,7 @@ jobs:
         output_file: spellcheck-output.txt
     - run: cat spellcheck-output.txt >> $GITHUB_STEP_SUMMARY
     - uses: actions/github-script@v3
+      script: |
+        import { readFileSync } from 'fs';
+        const lines = readFileSync('spellcheck-output.txt').toString().split('\n');
+        console.log('::notice file={name},title={title}::{message}');
