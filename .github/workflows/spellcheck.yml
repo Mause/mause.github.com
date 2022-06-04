@@ -24,7 +24,11 @@ jobs:
               const filename = lines.shift();
               const words = [];
               const delim = lines.shift();
-              while ((let line = lines.shift()) != delim) words.push(line);
+              while (true) {
+                line = lines.shift(); 
+                if (line === delim) break;
+                words.push(line);
+              }
               console.log(`::notice file=${filename},title=Spelling errors::${words}`);
             }
           }
