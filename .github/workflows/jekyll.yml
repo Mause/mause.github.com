@@ -17,11 +17,11 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - run: |
+    - name: Prebuild
+      run: |
        bundler
        make
-      with:
-        working-directory: cv
+      working-directory: cv
     - name: Build the site in the jekyll/builder container
       uses: actions/jekyll-build-pages@v1
       with:
