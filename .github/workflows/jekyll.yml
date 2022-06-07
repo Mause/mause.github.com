@@ -37,6 +37,7 @@ jobs:
       name: github-pages
       # attaches the deployed URL to this job on the workflow summary
       url: ${{ steps.deployment.outputs.page_url }}
+    if: github.ref == 'refs/heads/master'
     steps:
       - uses: actions/deploy-pages@v1
         id: deployment # this needs to match the ID referenced in environment.url above
