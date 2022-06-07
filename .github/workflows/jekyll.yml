@@ -8,14 +8,29 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v3
     - name: Build the site in the jekyll/builder container
-      run: |
-        docker run \
-        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+      uses: actions/jekyll-build-pages@v1
+      with:
+        source: .
+        destination: ./_site
+        future: false
+      #  build_revision: ec202e596e28b490ec528c61c8a62588afd6d3d1
+        verbose: true
     - uses: actions/upload-pages-artifact@v0
+      with:
+        path: ./_site
+        retention-days: 1
+  deploy:
+    needs: build
+    steps:
+      - uses: actions/deploy-pages@v1
+        with:
+          emit_telemetry: false
+    #token: ***
+          timeout: 600000
+          error_count: 10
+          reporting_interval: 5000
