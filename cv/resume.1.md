@@ -51,6 +51,9 @@ resume(1) - a series of happenings
      * Helping setup and connect networking equipment
      * Helping setup and connect power facilities
      * Providing technical support to fest-goers during the event
+ * Greens WA (political party)
+     * Swan Regional Group Membership Officer
+     * Pride Working Group treasurer
 
 ## PERSONAL
  * Dual Australian/Swiss citizenship, with both passports
