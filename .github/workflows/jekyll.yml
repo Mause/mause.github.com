@@ -18,12 +18,13 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - uses: ruby/setup-ruby@v1
+      id: setup-ruby
       with:
         ruby-version: '3.0'
         bundler-cache: true
     - name: Prebuild
       run: |
-       ls vendor/bundle
+       #ls vendor/bundle
        make
       working-directory: cv
     - name: Build the site in the jekyll/builder container
