@@ -32,10 +32,16 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    environment:
+      # links this workflow to the deployments page on your repository
+      name: github-pages
+      # attaches the deployed URL to this job on the workflow summary
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/deploy-pages@v1
+        id: deployment # this needs to match the ID referenced in environment.url above
         with:
-          emit_telemetry: true
+          emit_telemetry: false
           timeout: 600000
           error_count: 10
           reporting_interval: 5000
