@@ -8,6 +8,21 @@ matrix:
     - .github/dictionary/en-custom.txt
     output: site/dictionary/en-custom.dic
     encoding: utf-8
+  pipeline:
+  - pyspelling.filters.markdown:
+      markdown_extensions:
+      - markdown.extensions.extra:
+ # - liquidpy:
+ #     liquid:
+  - pyspelling.filters.html:
+      comments: false
+      attributes:
+      - alt
+      ignores:
+      - ':matches(code, pre)'
+      - code
+      - pre
+      - blockquote
   sources:
   - '**/*.md'
   default_encoding: utf-8
