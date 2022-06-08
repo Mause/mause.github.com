@@ -23,10 +23,11 @@ jobs:
         ruby-version: '3.0'
         bundler-cache: true
     - run: |
-        bundler binstubs ronn --path ~/bin
-        echo "~/bin" >> $GITHUB_PATH
+        bundler binstubs ronn --path "$HOME/bin"
+        echo "$HOME/bin" >> $GITHUB_PATH
     - name: Prebuild
       run: |
+       echo "$PATH"
        make
       working-directory: cv
     - name: Build the site in the jekyll/builder container
