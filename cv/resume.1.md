@@ -18,7 +18,7 @@ resume(1) - a series of happenings
      - Bachelor of Computing - Software Engineering Stream - 2015 - ? (incomplete)
 
 ## EMPLOYMENT HISTORY
- * Bankwest
+ * Bankwest (Western Australian bank, CBA subsidiary)
       - Software Engineer
       - Home Buying Division
       - November 21st 2016 - Ongoing
@@ -46,11 +46,11 @@ resume(1) - a series of happenings
      - Vast generic knowledge on use of computers
 
 ## VOLUNTEER WORK
- * Volunteered at RFLAN from 2011 till 2019, a Perth based gaming community event. Some activities I performed at RFLAN included;
-     * Setting up a large number of tables
+ * RFLAN:
+     * Volunteered from 2011 till 2019, a Perth based gaming community event
      * Helping setup and connect networking equipment
      * Helping setup and connect power facilities
-     * Providing technical support to fest-goers during the event
+     * Providing technical support to attendees during the event
  * Greens WA (political party)
      * Swan Regional Group Membership Officer
      * Pride Working Group treasurer
