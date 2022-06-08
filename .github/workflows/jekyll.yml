@@ -30,6 +30,7 @@ jobs:
       run: |
        make
       working-directory: cv
+    - run: rm -rf vendor 
     - name: Build the site in the jekyll/builder container
       uses: actions/jekyll-build-pages@v1
       with:
