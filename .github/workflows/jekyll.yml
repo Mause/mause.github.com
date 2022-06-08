@@ -24,7 +24,7 @@ jobs:
         bundler-cache: true
     - name: Prebuild
       run: |
-       #ls vendor/bundle
+       ls ${{ steps.ruby.outputs.ruby-prefix }}
        make
       working-directory: cv
     - name: Build the site in the jekyll/builder container
