@@ -22,10 +22,11 @@ jobs:
       with:
         ruby-version: '3.0'
         bundler-cache: true
+    - run: |
+        bundler install --binstubs
+        echo "~/bin" >> $GITHUB_PATH
     - name: Prebuild
       run: |
-       ls ../vendor/bundle
-       ls ${{ steps.ruby.outputs.ruby-prefix }}
        make
       working-directory: cv
     - name: Build the site in the jekyll/builder container
