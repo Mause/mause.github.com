@@ -23,7 +23,7 @@ jobs:
         ruby-version: '3.0'
         bundler-cache: true
     - run: |
-        bundler install --binstubs
+        bundler binstubs ronn --path ~/bin
         echo "~/bin" >> $GITHUB_PATH
     - name: Prebuild
       run: |
