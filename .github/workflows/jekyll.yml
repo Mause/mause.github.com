@@ -25,9 +25,9 @@ jobs:
     - run: |
         bundler binstubs ronn --path "$HOME/bin"
         echo "$HOME/bin" >> $GITHUB_PATH
+        pip install weasyprint
     - name: Prebuild
       run: |
-       echo "$PATH"
        make
       working-directory: cv
     - name: Build the site in the jekyll/builder container
