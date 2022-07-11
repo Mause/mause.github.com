@@ -22,6 +22,9 @@ resume(1) - a series of happenings
       - Software Engineer
       - Home Buying Division
       - November 21st 2016 - Ongoing
+ * DuckDB Labs (contracting work, ongoing)
+      - Maintaining open source database clients for Java and Python
+      - Maintaining a external wrapping library for a popular ORM framework (SQLAlchemy) for DuckDB
  * DKB Solutions (consulting work, 8 months)
       - frontend and backend development work
       - React & Relay frontend
