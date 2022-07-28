@@ -17,6 +17,21 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+
+    - uses: ruby/setup-ruby@v1
+      id: setup-ruby
+      with:
+        ruby-version: '3.0'
+        bundler-cache: true
+    - run: |
+        bundler binstubs ronn --path "$HOME/bin"
+        echo "$HOME/bin" >> $GITHUB_PATH
+        pip install weasyprint
+    - name: Prebuild
+      run: make
+      working-directory: cv
+
+    - run: rm -rf vendor 
     - name: Build the site in the jekyll/builder container
       uses: actions/jekyll-build-pages@v1
       with:
