@@ -17,6 +17,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+
     - uses: ruby/setup-ruby@v1
       id: setup-ruby
       with:
@@ -27,9 +28,9 @@ jobs:
         echo "$HOME/bin" >> $GITHUB_PATH
         pip install weasyprint
     - name: Prebuild
-      run: |
-       make
+      run: make
       working-directory: cv
+
     - run: rm -rf vendor 
     - name: Build the site in the jekyll/builder container
       uses: actions/jekyll-build-pages@v1
@@ -39,7 +40,7 @@ jobs:
         future: false
       #  build_revision: ec202e596e28b490ec528c61c8a62588afd6d3d1
         verbose: true
-    - uses: actions/upload-pages-artifact@v0
+    - uses: actions/upload-pages-artifact@v1
       with:
         path: ./_site
         retention-days: 1
