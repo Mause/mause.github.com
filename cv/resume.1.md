@@ -17,11 +17,13 @@ Current Employment
  * Bankwest (Western Australian bank, Commonwealth Bank of Australia subsidiary) | November 21st 2016 - Ongoing
       - Software Engineer
       - Home Buying Division
-      - What did you do? 
+      - What did you do?
         - NovaPrint API
       - What was the customer impact? 
       - Lots more here
       - Champion of Diversity and Inclusion
+        - Unity
+        - Wear it Purple Day Panel?
 
  * DuckDB Labs | July 2022 - Ongoing
       - Contracting work for Dutch non-profit
@@ -40,6 +42,7 @@ Current Employment
      - What did you do? 
      - What was the impact
      - Squad size
+
  * Bankwest | October 2017 - 
      - Associate Software Engineer
      - Feature driven teams
@@ -62,7 +65,7 @@ Current Employment
      - Experience and knowledge of **C** and **C++** (# years)
      - Some minor experience with **C#** (# years)
      - In recent years has been working on knowledge of Javascript (# years) 
-     - Experience with **Javascript** frameworks, e.g, ReactJS, EmberJS, and jQuery (# years)
+     - Experience with frontend frameworks, e.g, React, Angular (# years)
      - Working knowledge of **CSS** &amp; **HTML**, with styling and best practice knowledge 
      - Experience with **Version Control Systems**, such as **Git**, and **Subversion**  
      - Taken course on Object Oriented Program Design at Curtin University, focusing on its use in **Java**
@@ -70,11 +73,15 @@ Current Employment
  * Working in Enterprise Software Development
      - Agile Softare development and methodologies
      - CI/CD
+        - Github Actions
      - Testing 
      - DevOps 
-     - Cloud 
+     - Cloud
+        - Heroku
+        - Vercel
+        - AWS
      - System Design & Arhcitecture
-     - RISK mindset
+     - Risk mindset
 
  * Personal Skills
      - Conflict Management 
