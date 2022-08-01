@@ -14,7 +14,7 @@ resume(1) - a series of happenings
 
 ## EMPLOYMENT HISTORY
 Current Employment 
- * Bankwest (Western Australian bank, CBA subsidiary) | November 21st 2016 - Ongoing
+ * Bankwest (Western Australian bank, Commonweatlh Bank of Australia subsidiary) | November 21st 2016 - Ongoing
       - Software Engineer
       - Home Buying Division
       - What did you do? 
