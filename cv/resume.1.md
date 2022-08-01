@@ -23,7 +23,8 @@ Current Employment
       - Lots more here
       - Champion of Diversity and Inclusion
 
- * DuckDB Labs (contracting work, ongoing) | July 2022 - Ongoing
+ * DuckDB Labs | July 2022 - Ongoing
+      - Contracting work for Dutch non-profit
       - Maintaining open source database clients for Java and Python
       - Maintaining a external wrapping library for a popular ORM framework (SQLAlchemy) for DuckDB
 
