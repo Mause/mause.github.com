@@ -27,7 +27,7 @@ Current Employment
       - Maintaining open source database clients for Java and Python
       - Maintaining a external wrapping library for a popular ORM framework (SQLAlchemy) for DuckDB
 
- * DKB Solutions | 2018 (dates)  
+ * DKB Solutions | Jan 2019 - Aug 2019 (8 months)
       - worked for small contracting firm doing frontend and backend development
       - React & Relay frontend
       - Express and graphql backend, with postgres database
