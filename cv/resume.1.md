@@ -18,31 +18,33 @@ Current Employment
       - Software Engineer
       - Home Buying Division
       - What did you do? 
+        - NovaPrint API
       - What was the customer impact? 
       - Lots more here
-      - Champion of Diversity and Inclusion 
+      - Champion of Diversity and Inclusion
 
-* DuckDB Labs (contracting work, ongoing) | July 2022 - Ongoing
+ * DuckDB Labs (contracting work, ongoing) | July 2022 - Ongoing
       - Maintaining open source database clients for Java and Python
       - Maintaining a external wrapping library for a popular ORM framework (SQLAlchemy) for DuckDB
 
-* DKB Solutions | 2018 (dates)  
+ * DKB Solutions | 2018 (dates)  
       - worked for small contracting firm doing frontend and backend development
       - React & Relay frontend
       - Express and graphql backend, with postgres database
       - AWS hosted, making use of many services
 
  * Bankwest | November 2016 - October 2017
-     - Software Engineering Intern in Team 4
+     - Software Engineering Intern
      - Spike for Tiger team in here 
      - What did you do? 
      - What was the impact
      - Squad size
  * Bankwest | October 2017 - 
      - Associate Software Engineer
-     - Feautre driven teams
+     - Feature driven teams
      - Warren Buffet 
      - What did you do highlights
+        - NovaLendnet API
      - Impacts  
 
 ## EDUCATION
@@ -54,8 +56,10 @@ Current Employment
 
  * Programming/Markup languages
      - Extensive experience in **Python** (11 years)
-     - Extensive in Java (
-     - Experience and knowledge of **C**, some with **C++** and **C#** (# years)
+     - Extensive extension in Java
+        - Suite of 20+ Spring Boot microservices
+     - Experience and knowledge of **C** and **C++** (# years)
+     - Some minor experience with **C#** (# years)
      - In recent years has been working on knowledge of Javascript (# years) 
      - Experience with **Javascript** frameworks, e.g, ReactJS, EmberJS, and jQuery (# years)
      - Working knowledge of **CSS** &amp; **HTML**, with styling and best practice knowledge 
@@ -63,18 +67,17 @@ Current Employment
      - Taken course on Object Oriented Program Design at Curtin University, focusing on its use in **Java**
 
  * Working in Enterprise Software Development
-     - Agile Softeare development and methodologies
+     - Agile Softare development and methodologies
      - CI/CD
      - Testing 
      - DevOps 
      - Cloud 
      - System Design & Arhcitecture
-     - RISK mindest
+     - RISK mindset
 
-* Personal Skills
- - Conflict Management 
- - Empathy 
-
+ * Personal Skills
+     - Conflict Management 
+     - Empathy
  
 
 ## VOLUNTEER WORK
@@ -86,7 +89,7 @@ Current Employment
  * Greens WA (political party)
      * Swan Regional Group Membership Officer
      * Pride Working Group treasurer
-* PyConAU organising committee 
+ * PyConAU 2023 organising committee
      * more stuff here
 
 
