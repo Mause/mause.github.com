@@ -1,5 +1,5 @@
 -   name: autobit
-    link: https://github.com.com/Mause/autobit
+    link: https://github.com/Mause/autobit
     languages: Python
     description: >
         A library for easy automation of the bittorrent client via its web
