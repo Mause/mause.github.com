@@ -26,7 +26,7 @@ we cannot indent these as we normally would, as the markdown processor would the
 {% endcomment %}
 
 {% for project in site.data.projects %}
-#### [{{project.name}}:]({{project.link}}) <small>{{project.languages}}</small>
+#### [{{project.name}}:]({{project.link}}) {% for lang in project.languages %}<small>{{lang}}</small>{% if forloop.last == false %}, {% endif %}{% endfor %}
 {{project.description}}
 {% endfor %}
 
