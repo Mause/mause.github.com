@@ -1,3 +1,15 @@
+-   name: DuckDB
+    link: https://github.com/DuckDB/DuckDB
+    languages: 'C++, Python, NodeJS, Java'
+    description: >
+        DuckDB, an OLAP (OnLine Analytical Processing database) that I've been contributing to
+
+-   name: DuckDB Engine
+    link: https://github.com/Mause/duckdb_engine
+    languages: Python
+    description: >
+        Sqlalchemy driver for duckdb
+
 -   name: autobit
     link: https://github.com/Mause/autobit
     languages: Python
