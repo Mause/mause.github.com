@@ -1,6 +1,7 @@
 all: resume.1.pdf index.html
 
 resume.1.pdf: resume.1.html
+	cat resume.1.html
 	weasyprint resume.1.html resume.1.pdf
 
 resume.1.html: resume.1.md
