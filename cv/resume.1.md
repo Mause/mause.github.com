@@ -14,7 +14,15 @@ resume(1) - a series of happenings
 
 ## EMPLOYMENT HISTORY
 Current Employment 
- * Bankwest (Western Australian bank, Commonwealth Bank of Australia subsidiary) | November 21st 2016 - Ongoing
+ * Bankwest (Western Australian bank, Commonwealth Bank of Australia subsidiary) | August 2022 - Ongoing
+      - Senior Software Engineer
+
+ * DuckDB Labs | July 2022 - Ongoing
+      - Contracting work for Dutch non-profit
+      - Maintaining open source database clients for Java and Python
+      - Maintaining a external wrapping library for a popular ORM framework (SQLAlchemy) for DuckDB
+
+ * Bankwest | November 21st 2016 - August 2022
       - Software Engineer
       - Home Buying Division
       - What did you do?
@@ -24,11 +32,6 @@ Current Employment
       - Champion of Diversity and Inclusion
         - Unity
         - Wear it Purple Day Panel?
-
- * DuckDB Labs | July 2022 - Ongoing
-      - Contracting work for Dutch non-profit
-      - Maintaining open source database clients for Java and Python
-      - Maintaining a external wrapping library for a popular ORM framework (SQLAlchemy) for DuckDB
 
  * DKB Solutions | Jan 2019 - Aug 2019 (8 months)
       - worked for small contracting firm doing frontend and backend development
