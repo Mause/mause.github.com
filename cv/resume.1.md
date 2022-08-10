@@ -71,7 +71,7 @@ Current Employment
      - Taken course on Object Oriented Program Design at Curtin University, focusing on its use in **Java**
 
  * Working in Enterprise Software Development
-     - Agile Softare development and methodologies
+     - Agile Software development and methodologies
      - CI/CD
         - Github Actions
      - Testing 
