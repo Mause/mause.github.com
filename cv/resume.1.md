@@ -12,41 +12,81 @@ resume(1) - a series of happenings
  * __Mobile:__ [0416041357](tel:0061-416-041-357)
  * __Email:__ [me@mause.me](mailto:me+cv@mause.me)
 
-## EDUCATION
- * __University:__ Curtin University of Technology
-     - Computer Science Premajor - 2014
-     - Bachelor of Computing - Software Engineering Stream - 2015 - ? (incomplete)
-
 ## EMPLOYMENT HISTORY
- * Bankwest (Western Australian bank, CBA subsidiary)
+Current Employment 
+ * Bankwest (Western Australian bank, Commonwealth Bank of Australia subsidiary) | November 21st 2016 - Ongoing
       - Software Engineer
       - Home Buying Division
-      - November 21st 2016 - Ongoing
- * DuckDB Labs (contracting work, ongoing)
+      - What did you do?
+        - NovaPrint API
+      - What was the customer impact? 
+      - Lots more here
+      - Champion of Diversity and Inclusion
+        - Unity
+        - Wear it Purple Day Panel?
+
+ * DuckDB Labs | July 2022 - Ongoing
+      - Contracting work for Dutch non-profit
       - Maintaining open source database clients for Java and Python
       - Maintaining a external wrapping library for a popular ORM framework (SQLAlchemy) for DuckDB
- * DKB Solutions (consulting work, 8 months)
-      - frontend and backend development work
+
+ * DKB Solutions | Jan 2019 - Aug 2019 (8 months)
+      - worked for small contracting firm doing frontend and backend development
       - React & Relay frontend
       - Express and graphql backend, with postgres database
       - AWS hosted, making use of many services
 
+ * Bankwest | November 2016 - October 2017
+     - Software Engineering Intern
+     - Spike for Tiger team in here 
+     - What did you do? 
+     - What was the impact
+     - Squad size
+
+ * Bankwest | October 2017 - 
+     - Associate Software Engineer
+     - Feature driven teams
+     - Warren Buffet 
+     - What did you do highlights
+        - NovaLendnet API
+     - Impacts  
+
+## EDUCATION
+ * __University:__ Curtin University of Technology
+     - Computer Science Premajor - 2014
+     - Bachelor of Computing - Software Engineering Stream - 2015 - ? (incomplete)
+  
 ## SKILLS
 
  * Programming/Markup languages
-     - Have been working with **Python** for seven years plus (since August 2009)
-     - Experience and knowledge of **C**, some with **C++** and **C#**
-     - In recent years has been working on knowledge of Javascript
-     - Experience with **Javascript** frameworks, e.g, ReactJS, EmberJS, and jQuery
+     - Extensive experience in **Python** (11 years)
+     - Extensive extension in Java
+        - Suite of 20+ Spring Boot microservices
+     - Experience and knowledge of **C** and **C++** (# years)
+     - Some minor experience with **C#** (# years)
+     - In recent years has been working on knowledge of Javascript (# years) 
+     - Experience with frontend frameworks, e.g, React, Angular (# years)
      - Working knowledge of **CSS** &amp; **HTML**, with styling and best practice knowledge 
      - Experience with **Version Control Systems**, such as **Git**, and **Subversion**  
      - Taken course on Object Oriented Program Design at Curtin University, focusing on its use in **Java**
-     - Much more than can be listed here, feel free to ask
- * General
-     - Taken a course on Software Engineering at Curtin University
-     - Experience with Mac OS X, Linux, and Windows
-     - Experience with PC hardware (previously known as IBM compatible), limited with Apple
-     - Vast generic knowledge on use of computers
+
+ * Working in Enterprise Software Development
+     - Agile Software development and methodologies
+     - CI/CD
+        - Github Actions
+     - Testing 
+     - DevOps 
+     - Cloud
+        - Heroku
+        - Vercel
+        - AWS
+     - System Design & Arhcitecture
+     - Risk mindset
+
+ * Personal Skills
+     - Conflict Management 
+     - Empathy
+ 
 
 ## VOLUNTEER WORK
  * RFLAN:
@@ -57,6 +97,9 @@ resume(1) - a series of happenings
  * Greens WA (political party)
      * Swan Regional Group Membership Officer
      * Pride Working Group treasurer
+ * PyConAU 2023 organising committee
+     * more stuff here
+
 
 ## PERSONAL
  * Dual Australian/Swiss citizenship, with both passports
