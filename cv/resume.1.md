@@ -14,6 +14,8 @@ resume(1) - a series of happenings
 
 ## EMPLOYMENT HISTORY
 Current employment
+
+
  * Bankwest (Western Australian bank, Commonwealth Bank of Australia subsidiary) | August 2022 - Ongoing
       - Senior Software Engineer
 
