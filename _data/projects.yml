@@ -1,27 +1,39 @@
+-   name: DuckDB
+    link: https://github.com/DuckDB/DuckDB
+    languages: [C++, Python, NodeJS, Java]
+    description: >
+        DuckDB, an OLAP (OnLine Analytical Processing database) that I've been contributing to
+
+-   name: DuckDB Engine
+    link: https://github.com/Mause/duckdb_engine
+    languages: [Python]
+    description: >
+        Sqlalchemy driver for duckdb
+
 -   name: autobit
-    link: https://github.com.com/Mause/autobit
-    languages: Python
+    link: https://github.com/Mause/autobit
+    languages: [Python]
     description: >
         A library for easy automation of the bittorrent client via its web
         client's api
 
 -   name: Genda
     link: https://github.com/Mause/Genda
-    languages: Python
+    languages: [Python]
     description: >
         Originally created at the Perth Student Hackathon 2014, a SaaS for
         gender/pronoun selection, similiar in operation to Gravatar
 
 -   name: Sea Lang
     link: https://github.com/Mause/sea_lang
-    languages: C
+    languages: [C]
     description: >
         A simple flex+bison attempt at a toy language. Some internals are
         inspired by the CPython interpreter's internals.
 
 -   name: PyTransperth
     link: https://github.com/Mause/pytransperth
-    languages: Python
+    languages: [Python]
     description: >
         A scraper project to pull data from
         [transperths](https://transperth.wa.gov.au) various web-facing
@@ -30,33 +42,33 @@
 
 -   name: PyALP
     link: https://github.com/Mause/PyALP
-    languages: "Python (Django), HTML, CSS, Javascript"
+    languages: [Python (Django), HTML, CSS, Javascript]
     description: >
         An idiotic attempt at porting the '04 era PHP application for managing
         lan parties ALP, primarily for use at [RFLAN](http://rflan.org/).
 
 -   name: DoSH
     link: https://github.com/Mause/DoSH
-    languages: C
+    languages: [C]
     description:
         "A stupid shell written in C for the [DCPU16 platform](http://dcpu.com/)"
 
 
 -   name: Project ByTeMoRe
     link: bytemore
-    languages: "BASIC, Python"
+    languages: [BASIC, Python]
     description: A microcontroller based multimedia controller
 
 -   name: dcputoolchain-module-site
     link: http://github.com/Mause/dcputoolchain-module-site
-    languages: Python
+    languages: [Python]
     description: >
         A basic proxy for the [GitHub API](http://developer.github.com/), with
         some basic search functionality bolted on top.
 
 -   name: Tyrian
     link: https://github.com/Mause/tyrian
-    languages: "Python, LISP"
+    languages: [Python, LISP]
     description: >
         A moderately simple and largely incomplete implementation of
         [LISP](http://en.wikipedia.org/wiki/Lisp_(programming_language)) in
@@ -66,7 +78,7 @@
 
 -   name: Mausembler
     link: https://github.com/Mause/mausemblr
-    languages: Python
+    languages: [Python]
     description: >
         A failed attempt at writing an assembler for the
         [DCPU16 platform](http://dcpu.com). See below for another attempt in
@@ -74,14 +86,14 @@
 
 -   name: Jupiter
     link: https://github.com/Mause/jupiter
-    languages: "C++"
+    languages: ["C++"]
     description: >
         My second (or third, depending on who's asking) attempt at an
         assembler, still a work in progress, so we shall see how I go.
 
 -   name: tf-idf
     link: https://github.com/Mause/tf-idf
-    languages: Python
+    languages: [Python]
     description: >
         Search engine algorithm for my
         [NCSS Summer School](http://www.ncss.edu.au/summer_school/index.html)
@@ -90,7 +102,7 @@
 
 -   name: Table Select Web
     link: https://github.com/Mause/table_select_web
-    languages: "Python, Javascript"
+    languages: [Python, Javascript]
     description: >
         A table selection webapp, originally written in ad-hoc jQuery.
         Hosted on [Heroku](http://ball.mause.me)
@@ -101,7 +113,7 @@
 
 -   name: Tumblr Ember
     link: https://github.com/Mause/tumblr-ember
-    languages: Javascript
+    languages: [Javascript]
     description: >
         Essentially an experiment to see how much I had learnt from building
         Table Select Web. Standalone blog viewing is possible, but viewing a
@@ -110,7 +122,7 @@
 
 -   name: Micheal Nikulinsky's Art
     link: http://www.michealnikulinsky.com/
-    languages: Python
+    languages: [Python]
     description: >
         Thus far my single commission work, though the comissioner never got
         around to actually providing any art to be displayed on the site.
