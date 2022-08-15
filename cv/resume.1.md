@@ -13,6 +13,7 @@ resume(1) - a series of happenings
  * __Email:__ [me@mause.me](mailto:me+cv@mause.me)
 
 ## EMPLOYMENT HISTORY
+
 ### Current employment
  * Bankwest (Western Australian bank, Commonwealth Bank of Australia subsidiary) &#124; August 2022 - Ongoing
       - Senior Software Engineer
