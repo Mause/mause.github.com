@@ -14,15 +14,17 @@ resume(1) - a series of happenings
 
 ## EMPLOYMENT HISTORY
 Current employment
- * Bankwest (Western Australian bank, Commonwealth Bank of Australia subsidiary) | August 2022 - Ongoing
+
+
+ * Bankwest (Western Australian bank, Commonwealth Bank of Australia subsidiary) &#124; August 2022 - Ongoing
       - Senior Software Engineer
 
- * DuckDB Labs | July 2022 - Ongoing
+ * DuckDB Labs &#124; July 2022 - Ongoing
       - Contracting work for Dutch non-profit
       - Maintaining open source database clients for Java and Python
       - Maintaining a external wrapping library for a popular ORM framework (SQLAlchemy) for DuckDB
 
- * Bankwest | November 21st 2016 - August 2022
+ * Bankwest &#124; November 21st 2016 - August 2022
       - Software Engineer
       - Home Buying Division
       - What did you do?
@@ -33,20 +35,20 @@ Current employment
         - Unity
         - Wear it Purple Day Panel?
 
- * DKB Solutions | Jan 2019 - Aug 2019 (8 months)
+ * DKB Solutions &#124; Jan 2019 - Aug 2019 (8 months)
       - worked for small contracting firm doing frontend and backend development
       - React & Relay frontend
       - Express and graphql backend, with postgres database
       - AWS hosted, making use of many services
 
- * Bankwest | November 2016 - October 2017
+ * Bankwest &#124; November 2016 - October 2017
      - Software Engineering Intern
      - Spike for Tiger team in here 
      - What did you do? 
      - What was the impact
      - Squad size
 
- * Bankwest | October 2017 - 
+ * Bankwest &#124; October 2017 - 
      - Associate Software Engineer
      - Feature driven teams
      - Warren Buffet 
