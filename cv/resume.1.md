@@ -13,9 +13,7 @@ resume(1) - a series of happenings
  * __Email:__ [me@mause.me](mailto:me+cv@mause.me)
 
 ## EMPLOYMENT HISTORY
-Current employment
-
-
+### Current employment
  * Bankwest (Western Australian bank, Commonwealth Bank of Australia subsidiary) &#124; August 2022 - Ongoing
       - Senior Software Engineer
 
@@ -24,6 +22,7 @@ Current employment
       - Maintaining open source database clients for Java and Python
       - Maintaining a external wrapping library for a popular ORM framework (SQLAlchemy) for DuckDB
 
+### Previous employment
  * Bankwest &#124; November 21st 2016 - August 2022
       - Software Engineer
       - Home Buying Division
