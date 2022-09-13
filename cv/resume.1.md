@@ -20,7 +20,7 @@ resume(1) - a series of happenings
 
  * DuckDB Labs &#124; July 2022 - Ongoing
       - Contracting work for Dutch non-profit
-      - Maintaining open source database clients for Java and Python
+      - Maintaining open source database clients for Java, NodeJS, and Python
       - Maintaining a external wrapping library for a popular ORM framework (SQLAlchemy) for DuckDB
 
 ### Previous employment
