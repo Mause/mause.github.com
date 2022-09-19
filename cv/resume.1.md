@@ -6,11 +6,17 @@ resume(1) - a series of happenings
 `elliana_may` [<var>optional</var>...] <var>flags</var>
 
 ## DESCRIPTION
+I am a Senior Software Developer, with 6+ years of Java microservices experience, including supporting production
+applications, remediating incidents, and building bespoke DevOps tooling to support application development and BAU.
+I am passionate about building tools to help other software developers do their job better and easier, and mentoring 
+developers on how to increase their productivity and on how to solve problems in ways that help them think outside the
+box.
 
 ## CONTACT INFORMATION
  * __Name:__ Elliana May
  * __Mobile:__ [0416041357](tel:0061-416-041-357)
  * __Email:__ [me@mause.me](mailto:me+cv@mause.me)
+ * __LinkedIn:__ https://www.linkedin.com/in/ellianamay/
 
 ## EMPLOYMENT HISTORY
 
@@ -22,7 +28,7 @@ resume(1) - a series of happenings
       - Contracting work for Dutch non-profit
       - Various pieces of work on database core
       - Maintaining open source database clients for Java, NodeJS, and Python
-      - Maintaining a external wrapping library for a popular ORM framework (SQLAlchemy) for DuckDB
+      - Maintaining an external wrapping library for a popular ORM framework (SQLAlchemy) for DuckDB
 
 ### Previous employment
  * Bankwest &#124; November 21st 2016 - August 2022
@@ -59,39 +65,47 @@ resume(1) - a series of happenings
 
 ## EDUCATION
  * __University:__ Curtin University of Technology
-     - Computer Science Premajor - 2014
+     - Computer Science Pre-major - 2014
      - Bachelor of Computing - Software Engineering Stream - 2015 - ? (incomplete)
   
-## SKILLS
+## TECHNICAL SKILLS
 
  * Programming/Markup languages
-     - Extensive experience in **Python** (11 years)
-     - Extensive extension in Java
+     - Python (11+ years)
+       - FastAPI
+       - Flask
+       - Django
+     - Java (6+ years)
         - Suite of 20+ Spring Boot microservices
+        - Deployed on mix of Openstack and Pivotal Cloud Foundry infrastructure
      - Experience and knowledge of **C** and **C++** (# years)
      - Some minor experience with **C#** (# years)
-     - In recent years has been working on knowledge of Javascript (# years) 
+     - Javascript/Typescript:
+       - Many years of work in React and Angular 12+
      - Experience with frontend frameworks, e.g, React, Angular (# years)
      - Working knowledge of **CSS** &amp; **HTML**, with styling and best practice knowledge 
      - Experience with **Version Control Systems**, such as **Git**, and **Subversion**  
-     - Taken course on Object Oriented Program Design at Curtin University, focusing on its use in **Java**
+     - Taken course on Object-Oriented Program Design at Curtin University, focusing on its use in **Java**
 
  * Working in Enterprise Software Development
      - Agile Software development and methodologies
      - CI/CD
-        - Github Actions
+        - GitHub Actions
      - Testing 
      - DevOps 
      - Cloud
         - Heroku
         - Vercel
         - AWS
-     - System Design & Arhcitecture
+     - System Design & Architecture
      - Risk mindset
 
- * Personal Skills
-     - Conflict Management 
-     - Empathy
+## PERSONAL SKILLS
+  - Mentoring
+    - Mentoring of technology graduates at Bankwest within team, and external to team
+    - Extensive mentoring through "Code Orange" and "Perth Web Girls" (now known as She Codes)
+  - Conflict Management
+  - Empathy
  
 
 ## VOLUNTEER WORK
