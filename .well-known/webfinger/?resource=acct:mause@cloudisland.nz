@@ -1,0 +1,20 @@
+{
+  "subject": "acct:Mause@cloudisland.nz",
+  "aliases": ["https://cloudisland.nz/@Mause", "https://cloudisland.nz/users/Mause"],
+  "links": [
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://cloudisland.nz/@Mause"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://cloudisland.nz/users/Mause"
+    },
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe",
+      "template": "https://cloudisland.nz/authorize_interaction?uri={uri}"
+    }
+  ]
+}
