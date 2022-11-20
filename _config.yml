@@ -11,7 +11,7 @@ source:      .
 destination: ./_site
 plugins_dir: ./_plugins
 layouts_dir: ./_layouts
-include:     ['.htaccess']
+include:     [".well-known"]
 exclude:     []
 keep_files:  ['.git','.svn']
 timezone:    Australia/Perth
