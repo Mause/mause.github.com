@@ -54,7 +54,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     if: github.ref == 'refs/heads/master'
     steps:
-      - uses: actions/deploy-pages@v2
+      - uses: actions/deploy-pages@v3
         id: deployment # this needs to match the ID referenced in environment.url above
         with:
           emit_telemetry: false
