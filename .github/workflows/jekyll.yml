@@ -40,7 +40,7 @@ jobs:
         future: false
       #  build_revision: ec202e596e28b490ec528c61c8a62588afd6d3d1
         verbose: true
-    - uses: actions/upload-pages-artifact@v2
+    - uses: actions/upload-pages-artifact@v3
       with:
         path: ./_site
         retention-days: 1
