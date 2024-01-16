@@ -125,6 +125,8 @@ developers, or for a developer role working closely with DevOps engineers.
      * Pride Working Group treasurer (2023)
  * PyConAU 2023
      * Helped run the Safety team
+ * She Codes Australia (2015 - Now)
+     * Regularly mentored women to learn to code
 
 
 ## PERSONAL
