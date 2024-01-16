@@ -121,8 +121,8 @@ developers, or for a developer role working closely with DevOps engineers.
      * Helping setup and connect power facilities
      * Providing technical support to attendees during the event
  * Greens WA (political party)
-     * Swan Regional Group Membership Officer
-     * Pride Working Group treasurer
+     * Swan Regional Group Membership Officer (2023)
+     * Pride Working Group treasurer (2023)
  * PyConAU 2023 organising committee
      * more stuff here
 
