@@ -123,8 +123,8 @@ developers, or for a developer role working closely with DevOps engineers.
  * Greens WA (political party)
      * Swan Regional Group Membership Officer (2023)
      * Pride Working Group treasurer (2023)
- * PyConAU 2023 organising committee
-     * more stuff here
+ * PyConAU 2023
+     * Helped run the Safety team
 
 
 ## PERSONAL
