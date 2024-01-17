@@ -20,6 +20,7 @@ developers, or for a developer role working closely with DevOps engineers.
  * __Mobile:__ [0416041357](tel:0061-416-041-357)
  * __Email:__ [me@mause.me](mailto:me+cv@mause.me)
  * __LinkedIn:__ https://www.linkedin.com/in/ellianamay/
+ * __GitHub:__ [@Mause](https://github.com/Mause)
 
 ## EMPLOYMENT HISTORY
 
@@ -121,10 +122,12 @@ developers, or for a developer role working closely with DevOps engineers.
      * Helping setup and connect power facilities
      * Providing technical support to attendees during the event
  * Greens WA (political party)
-     * Swan Regional Group Membership Officer
-     * Pride Working Group treasurer
- * PyConAU 2023 organising committee
-     * more stuff here
+     * Swan Regional Group Membership Officer (2023)
+     * Pride Working Group treasurer (2023)
+ * PyConAU 2023
+     * Helped run the Safety team
+ * She Codes Australia (2015 - Now)
+     * Regularly mentored women to learn to code
 
 
 ## PERSONAL
