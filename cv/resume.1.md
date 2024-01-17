@@ -108,7 +108,7 @@ developers, or for a developer role working closely with DevOps engineers.
 ## PERSONAL SKILLS
   - Mentoring
     - Mentoring of technology graduates at Bankwest within team, and external to team
-    - Extensive mentoring through "Code Orange" and "Perth Web Girls" (now known as She Codes)
+    - Extensive mentoring through "Code Orange" and She Codes Australia
   - Conflict Management
   - Empathy
  
