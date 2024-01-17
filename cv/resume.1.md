@@ -20,6 +20,7 @@ developers, or for a developer role working closely with DevOps engineers.
  * __Mobile:__ [0416041357](tel:0061-416-041-357)
  * __Email:__ [me@mause.me](mailto:me+cv@mause.me)
  * __LinkedIn:__ https://www.linkedin.com/in/ellianamay/
+ * __GitHub:__ [@Mause](https://github.com/Mause)
 
 ## EMPLOYMENT HISTORY
 
