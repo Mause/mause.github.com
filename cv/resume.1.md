@@ -8,7 +8,7 @@ resume(1) - a series of happenings
 ## DESCRIPTION
 I am a Senior Software Developer, with 6+ years of Java microservices experience, including supporting production
 applications, remediating incidents, and building bespoke DevOps tooling to support application development and BAU.
-I am passionate about building tools to help other software developers do their job better and easier, and mentoring 
+I am passionate about building tools to help other software developers do their job better and easier, and mentoring
 developers on how to increase their productivity and on how to solve problems in ways that help them think outside the
 box.
 
@@ -38,11 +38,11 @@ developers, or for a developer role working closely with DevOps engineers.
  * Bankwest &#124; November 21st 2016 - August 2022
       - Software Engineer
       - Home Buying Division
-      - Spearheaded the development of several instrumental microservice APIs to allow the integration of the "Nova" system with systems elsewhere in the Bank 
+      - Spearheaded the development of several instrumental microservice APIs to allow the integration of the "Nova" system with systems elsewhere in the Bank
         - "NovaPrint API":
             - Integration point between proprietary "Thunderhead" and "ActiveDocs" document generation systems, and the distributed data in "Nova"
-      - What was the customer impact? 
-        - Customer's 
+      - What was the customer impact?
+        - Customer's
       - Champion of Diversity and Inclusion
         - TODO: Unity
         - TODO: Wear it Purple Day Panel?
@@ -57,24 +57,24 @@ developers, or for a developer role working closely with DevOps engineers.
 
  * Bankwest &#124; November 2016 - October 2017
      - Software Engineering Intern
-     - TODO: Spike for Tiger team in here 
-     - TODO: What did you do? 
+     - TODO: Spike for Tiger team in here
+     - TODO: What did you do?
      - TODO: What was the impact
      - TODO: Squad size
 
- * Bankwest &#124; October 2017 - 
+ * Bankwest &#124; October 2017 -
      - Associate Software Engineer
      - TODO: Feature driven teams
-     - TODO: Warren Buffet 
+     - TODO: Warren Buffet
      - TODO: What did you do highlights
         - TODO: NovaLendnet API
-     - TODO: Impacts  
+     - TODO: Impacts
 
 ## EDUCATION
  * __University:__ Curtin University of Technology
      - Computer Science Pre-major - 2014
      - Bachelor of Computing - Software Engineering Stream - 2015 - ? (incomplete)
-  
+
 ## TECHNICAL SKILLS
 
  * Programming/Markup languages
@@ -90,14 +90,14 @@ developers, or for a developer role working closely with DevOps engineers.
      - Javascript/Typescript:
        - Many years of work in React and Angular 12+
      - Experience with frontend frameworks, e.g, React, Angular (10 years)
-     - Experience with **Version Control Systems**, such as **Git**, and **Subversion**  
+     - Experience with **Version Control Systems**, such as **Git**, and **Subversion**
 
  * Working in Enterprise Software Development
      - Agile Software development and methodologies
      - CI/CD
         - GitHub Actions
-     - Testing 
-     - DevOps 
+     - Testing
+     - DevOps
      - Cloud
         - Heroku
         - Vercel
@@ -111,7 +111,7 @@ developers, or for a developer role working closely with DevOps engineers.
     - Extensive mentoring through "Code Orange" and She Codes Australia
   - Conflict Management
   - Empathy
- 
+
 
 ## VOLUNTEER WORK
  * RFLAN:
