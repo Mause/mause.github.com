@@ -74,7 +74,7 @@ developers, or for a developer role working closely with DevOps engineers.
 ## EDUCATION
  * __University:__ Curtin University of Technology
      - Computer Science Pre-major - 2014
-     - Bachelor of Computing - Software Engineering Stream - 2015 - ? (incomplete)
+     - Bachelor of Computing - Software Engineering Stream - 2015 - 2017 (incomplete)
 
 ## TECHNICAL SKILLS
 
