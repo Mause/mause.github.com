@@ -41,11 +41,12 @@ developers, or for a developer role working closely with DevOps engineers.
       - Spearheaded the development of several instrumental microservice APIs to allow the integration of the "Nova" system with systems elsewhere in the Bank
         - "NovaPrint API":
             - Integration point between proprietary "Thunderhead" and "ActiveDocs" document generation systems, and the distributed data in "Nova"
-      - What was the customer impact?
+      - TODO: What was the customer impact?
         - Customer's
-      - Champion of Diversity and Inclusion
-        - TODO: Unity
-        - TODO: Wear it Purple Day Panel?
+      - Champion of Diversity and Inclusion via Unity (LGBTQIA+ support group):
+        - Helped support colleagues in a variety of situations with workplace inclusion difficulties
+        - Spoke on Wear it Purple Day Panel, streamed live across the bank
+        - Partipuated in a number of initiates to help be more inclusive towards our customers
 
  * DKB Solutions &#124; Jan 2019 - Aug 2019 (8 months)
       - Worked for small contracting firm doing frontend and backend development
