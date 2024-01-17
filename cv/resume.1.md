@@ -85,14 +85,13 @@ developers, or for a developer role working closely with DevOps engineers.
      - Java (6+ years)
         - Suite of 20+ Spring Boot microservices
         - Deployed on mix of Openstack and Pivotal Cloud Foundry infrastructure
-     - Experience and knowledge of **C** and **C++** (# years)
-     - Some minor experience with **C#** (# years)
+     - Experience and knowledge of **C** and **C++** (10 years)
+     - Some minor experience with **C#** (2 years)
      - Javascript/Typescript:
        - Many years of work in React and Angular 12+
-     - Experience with frontend frameworks, e.g, React, Angular (# years)
+     - Experience with frontend frameworks, e.g, React, Angular (10 years)
      - Working knowledge of **CSS** &amp; **HTML**, with styling and best practice knowledge 
      - Experience with **Version Control Systems**, such as **Git**, and **Subversion**  
-     - Taken course on Object-Oriented Program Design at Curtin University, focusing on its use in **Java**
 
  * Working in Enterprise Software Development
      - Agile Software development and methodologies
