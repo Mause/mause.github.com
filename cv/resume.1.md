@@ -30,7 +30,7 @@ developers, or for a developer role working closely with DevOps engineers.
 
  * DuckDB Labs &#124; July 2022 - Ongoing
       - Contracting work for Dutch non-profit
-      - Various pieces of work on database core
+      - Various pieces of work on database core written in C++
       - Maintaining open source database clients for Rust, Java (JDBC), NodeJS, and Python
       - Maintaining an external wrapping library for a popular ORM framework (SQLAlchemy) for DuckDB
 
