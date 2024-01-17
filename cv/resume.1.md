@@ -90,7 +90,6 @@ developers, or for a developer role working closely with DevOps engineers.
      - Javascript/Typescript:
        - Many years of work in React and Angular 12+
      - Experience with frontend frameworks, e.g, React, Angular (10 years)
-     - Working knowledge of **CSS** &amp; **HTML**, with styling and best practice knowledge 
      - Experience with **Version Control Systems**, such as **Git**, and **Subversion**  
 
  * Working in Enterprise Software Development
