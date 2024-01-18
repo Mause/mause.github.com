@@ -124,7 +124,8 @@ developers, or for a developer role working closely with DevOps engineers.
      * Swan Regional Group Membership Officer (2023)
      * Pride Working Group treasurer (2023)
  * PyConAU 2023
-     * Helped run the Safety team
+     * Member of Safety Team - ensured all attendees felt safe attending, incuding enforcing COVID safety guidelines
+     * Helped session chair at last minute notice
  * She Codes Australia (2015 - Now)
      * Regularly mentored women to learn to code
 
