@@ -99,8 +99,7 @@ developers, or for a developer role working closely with DevOps engineers.
 ## VOLUNTEER WORK
  * RFLAN:
      * Volunteered from 2011 till 2019, a Perth based gaming community event
-     * Helping setup and connect networking equipment
-     * Helping setup and connect power facilities
+     * Helping setup and connect networking & power equipment
      * Providing technical support to attendees during the event
  * Greens WA (political party)
      * Swan Regional Group Membership Officer (2023)
