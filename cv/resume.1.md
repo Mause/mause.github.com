@@ -1,9 +1,5 @@
-resume(1) - elliana may
-==================================
-
-## SYNOPSIS
-
-`resume` - `elliana may` - `senior software engineer of 7+ years`
+resume(1) - elliana may - senior software engineer of 7+ years
+================================================================
 
 ## DESCRIPTION
 I am a Senior Software Developer, with 6+ years of Java microservices experience, including supporting production
