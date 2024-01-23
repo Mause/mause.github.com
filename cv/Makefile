@@ -6,7 +6,7 @@ resume.1.pdf: resume.1.html
 	cat resume.1.html
 	weasyprint resume.1.html resume.1.pdf
 
-FLAGS=bundle exec ronn resume.1.md --date="2024-01-16" --manual "Elliana May"
+FLAGS=bundle exec ronn resume.1.md --date=`date --iso` --manual "Elliana May"
 
 resume.1.html: resume.1.md
 	$(FLAGS) --html
