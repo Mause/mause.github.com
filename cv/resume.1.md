@@ -1,9 +1,9 @@
-resume(1) - a series of happenings
+resume(1) - elliana may
 ==================================
 
 ## SYNOPSIS
 
-`elliana_may` [<var>optional</var>...] <var>flags</var>
+`resume` - `elliana may` - `senior software engineer of 7+ years`
 
 ## DESCRIPTION
 I am a Senior Software Developer, with 6+ years of Java microservices experience, including supporting production
