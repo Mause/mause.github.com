@@ -1,7 +1,11 @@
 source 'https://rubygems.org'
 
 gem "jekyll", "~> 4.4"
-gem "logger", "~> 1.7"
+
+group :ex_standard_library do
+  gem "bigdecimal", "~> 4.0"
+  gem "logger", "~> 1.7"
+end
 
 group :jekyll_plugins do
   gem 'jekyll-gist'
