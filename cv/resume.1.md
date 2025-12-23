@@ -40,7 +40,7 @@ developers, or for a developer role working closely with DevOps engineers.
       - Champion of Diversity and Inclusion via Unity (LGBTQIA+ support group):
         - Helped support colleagues in a variety of situations with workplace inclusion difficulties
         - Spoke on Wear it Purple Day Panel, streamed live across the bank
-        - Partipuated in a number of initiates to help be more inclusive towards our customers
+        - Participated in a number of initiates to help be more inclusive towards our customers
 
  * DKB Solutions &#124; Jan 2019 - Aug 2019 (8 months)
       - Worked for small contracting firm doing frontend and backend development
@@ -105,7 +105,7 @@ developers, or for a developer role working closely with DevOps engineers.
      * Swan Regional Group Membership Officer (2023)
      * Pride Working Group treasurer (2023)
  * PyConAU 2023
-     * Member of Safety Team - ensured all attendees felt safe attending, incuding enforcing COVID safety guidelines
+     * Member of Safety Team - ensured all attendees felt safe attending, including enforcing COVID safety guidelines
      * Helped session chair at last minute notice
  * She Codes Australia (2015 - Now)
      * Regularly mentored women to learn to code
