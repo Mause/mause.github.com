@@ -9,3 +9,5 @@ group :jekyll_plugins do
   gem 'ronn-ng', '~> 0.10.1'
   gem "kramdown-syntax-coderay", "~> 1.0"
 end
+
+gem "logger", "~> 1.7"
