@@ -90,6 +90,7 @@ GEM
     webrick (1.8.2)
 
 PLATFORMS
+  arm64-linux-android
   ruby
 
 DEPENDENCIES
