@@ -37,6 +37,8 @@ developers, or for a developer role working closely with DevOps engineers.
       - Spearheaded the development of several instrumental microservice APIs to allow the integration of the "Nova" system with systems elsewhere in the Bank
         - "NovaPrint API":
             - Integration point between proprietary "Thunderhead" and "ActiveDocs" document generation systems, and the distributed data in "Nova"
+      - TODO: What was the customer impact?
+        - Customer's
       - Champion of Diversity and Inclusion via Unity (LGBTQIA+ support group):
         - Helped support colleagues in a variety of situations with workplace inclusion difficulties
         - Spoke on Wear it Purple Day Panel, streamed live across the bank
@@ -52,9 +54,18 @@ developers, or for a developer role working closely with DevOps engineers.
 
  * Bankwest &#124; November 2016 - October 2017
      - Software Engineering Intern
+     - TODO: Spike for Tiger team in here
+     - TODO: What did you do?
+     - TODO: What was the impact
+     - TODO: Squad size
 
  * Bankwest &#124; October 2017 -
      - Associate Software Engineer
+     - TODO: Feature driven teams
+     - TODO: Warren Buffet
+     - TODO: What did you do highlights
+        - TODO: NovaLendnet API
+     - TODO: Impacts
 
 ## EDUCATION
  * __University:__ Curtin University of Technology
@@ -95,6 +106,8 @@ developers, or for a developer role working closely with DevOps engineers.
   - Mentoring
     - Mentoring of technology graduates at Bankwest within team, and external to team
     - Extensive mentoring through "Code Orange" and She Codes Australia
+  - Conflict Management
+  - Empathy
 
 ## VOLUNTEER WORK
  * RFLAN:
