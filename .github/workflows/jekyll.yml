@@ -32,7 +32,6 @@ jobs:
       run: make
       working-directory: cv
 
-    - run: rm -rf vendor
     - name: Setup Pages
       id: pages
       uses: actions/configure-pages@v5
