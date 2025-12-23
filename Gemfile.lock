@@ -102,4 +102,4 @@ DEPENDENCIES
   ronn-ng (~> 0.10.1)
 
 BUNDLED WITH
-   2.1.4
+  4.0.3
