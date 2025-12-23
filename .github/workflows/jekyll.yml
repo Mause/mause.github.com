@@ -21,25 +21,25 @@ jobs:
     - uses: ruby/setup-ruby@v1
       id: setup-ruby
       with:
-        ruby-version: '3.0'
+        ruby-version: '3.4.8'
         bundler-cache: true
     - run: |
-        bundler binstubs ronn-ng --path "$HOME/bin"
+        bundle config set bin "$HOME/bin"
+        bundler binstubs ronn-ng
         echo "$HOME/bin" >> $GITHUB_PATH
         pip install weasyprint --upgrade
     - name: Prebuild
       run: make
       working-directory: cv
 
-    - run: rm -rf vendor 
-    - name: Build the site in the jekyll/builder container
-      uses: actions/jekyll-build-pages@v1
-      with:
-        source: .
-        destination: ./_site
-        future: false
-      #  build_revision: ec202e596e28b490ec528c61c8a62588afd6d3d1
-        verbose: true
+    - name: Setup Pages
+      id: pages
+      uses: actions/configure-pages@v5
+    - name: Build with Jekyll
+      # Outputs to the './_site' directory by default
+      run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+      env:
+        JEKYLL_ENV: production
     - uses: actions/upload-pages-artifact@v3
       with:
         path: ./_site
