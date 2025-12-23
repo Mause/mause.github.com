@@ -1,5 +1,12 @@
 source 'https://rubygems.org'
 
+gem "jekyll", "~> 4.4"
+
+group :ex_standard_library do
+  gem "bigdecimal", "~> 4.0"
+  gem "logger", "~> 1.7"
+end
+
 group :jekyll_plugins do
   gem 'jekyll-gist'
   gem 'kramdown'
@@ -10,7 +17,3 @@ group :jekyll_plugins do
   gem "kramdown-syntax-coderay", "~> 1.0"
 end
 
-gem "logger", "~> 1.7"
-gem "csv", "~> 3.3"
-gem "base64", "~> 0.3.0"
-gem "bigdecimal", "~> 4.0"
