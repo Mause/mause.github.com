@@ -1,7 +1,11 @@
+---
+layout: page
 title: Podcasts
-layout: default
 ---
 
-{% for podcast in data.podcasts %}
-  {{ podcast }}
+### Podcasts
+
+{% for podcast_pair in site.data.podcasts %}
+  {% assign podcast = podcast_pair[1] %}
+  {{ podcast.name }}
 {% endfor %}
