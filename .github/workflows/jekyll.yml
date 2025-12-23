@@ -32,15 +32,15 @@ jobs:
       run: make
       working-directory: cv
 
-    - run: rm -rf vendor 
-    - name: Build the site in the jekyll/builder container
-      uses: actions/jekyll-build-pages@v1
-      with:
-        source: .
-        destination: ./_site
-        future: false
-      #  build_revision: ec202e596e28b490ec528c61c8a62588afd6d3d1
-        verbose: true
+    - run: rm -rf vendor
+    - name: Setup Pages
+      id: pages
+      uses: actions/configure-pages@v5
+    - name: Build with Jekyll
+      # Outputs to the './_site' directory by default
+      run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+      env:
+        JEKYLL_ENV: production
     - uses: actions/upload-pages-artifact@v3
       with:
         path: ./_site
