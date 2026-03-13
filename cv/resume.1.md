@@ -1,4 +1,4 @@
-resume(1) - elliana may - senior software engineer of 7+ years
+resume(1) - elliana may - senior software engineer of 9+ years
 ================================================================
 
 ## DESCRIPTION
@@ -21,16 +21,21 @@ developers, or for a developer role working closely with DevOps engineers.
 ## EMPLOYMENT HISTORY
 
 ### Current employment
- * Bankwest (Western Australian bank, Commonwealth Bank of Australia subsidiary) &#124; August 2022 - Ongoing
+
+### Previous employment
+
+ * Atlassian &#124; May 2024 - March 2026
+      - P40 software engineer
+
+ * Bankwest (Western Australian bank, Commonwealth Bank of Australia subsidiary) &#124; August 2022 - February 2023
       - Senior Software Engineer
 
- * DuckDB Labs &#124; July 2022 - Ongoing
+ * DuckDB Labs &#124; July 2022 - February 2025
       - Contracting work for Dutch non-profit
       - Various pieces of work on database core written in C++
       - Maintaining open source database clients for Rust, Java (JDBC), NodeJS, and Python
       - Maintaining an external wrapping library for a popular ORM framework (SQLAlchemy) for DuckDB
 
-### Previous employment
  * Bankwest &#124; November 21st 2016 - August 2022
       - Software Engineer
       - Home Buying Division
