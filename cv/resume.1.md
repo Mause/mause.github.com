@@ -24,7 +24,7 @@ developers, or for a developer role working closely with DevOps engineers.
 
 ### Previous employment
 
- * Atlassian &#124; May 2024 - February 2026
+ * Atlassian &#124; May 2024 - March 2026
       - P40 software engineer
 
  * Bankwest (Western Australian bank, Commonwealth Bank of Australia subsidiary) &#124; August 2022 - February 2023
