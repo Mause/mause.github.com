@@ -11,7 +11,7 @@ jobs:
       name: Spellcheck
       with:
         output_file: spellcheck-output.txt
-    - uses: actions/github-script@v7
+    - uses: actions/github-script@v8
       with:
         script: |
           const files = {};
