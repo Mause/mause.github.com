@@ -15,5 +15,5 @@ group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'ronn-ng', '~> 0.10.1'
   gem "kramdown-syntax-coderay", "~> 1.0"
+  gem "jemoji", "~> 0.13.0"
 end
-
