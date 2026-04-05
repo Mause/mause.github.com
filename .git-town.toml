@@ -1,3 +1,5 @@
+#:schema https://raw.githubusercontent.com/git-town/git-town/refs/heads/main/docs/git-town.schema.json
+
 # See https://www.git-town.com/configuration-file for details
 
 [branches]
@@ -10,7 +12,8 @@ share-new-branches = "no"
 stash = true
 
 [propose]
-lineage = "cli"
+breadcrumb = "branches"
+breadcrumb-direction = "down"
 
 [ship]
 delete-tracking-branch = true

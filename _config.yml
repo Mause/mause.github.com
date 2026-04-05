@@ -56,3 +56,4 @@ plugins:
   - kramdown-syntax-coderay
   - jekyll-seo-tag
   - jekyll-feed
+  - jemoji
