@@ -11,7 +11,6 @@ I realized I had probably overcomplicated this solution; a simple shell script w
 
 Said shell script;
 
-{% gist Mause/45037a7bb5d9919b5d23 %}
 
 #### Original
 
@@ -23,4 +22,3 @@ The solution, as put forward by IRC user eXeC64 was to create a small executable
 This was solved with a quick edit of `/etc/sudoers` to allow users in the `www-data` group to run the aforementioned executable without having to enter a password.
 The code for said small executable was ridiculously simple;
 
-{% gist Mause/b6de8d32dc3b1328a85a %}

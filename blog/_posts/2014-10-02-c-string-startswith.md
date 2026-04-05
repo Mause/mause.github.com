@@ -6,7 +6,6 @@ published: true
 
 Just a nice snippet of code I found useful;
 
-{% gist b59e2fc914e4bfa7f2dc %} 
 
 It gets the position of the needle in the haystack using `strstr` (who came up
 with that name, seriously), then, as `strstr` returns a pointer to the
