@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem "jekyll", "~> 4.4"
 
 group :ex_standard_library do
-  gem "bigdecimal", "~> 4.0"
+  gem "bigdecimal", "~> 4.1"
   gem "logger", "~> 1.7"
 end
 
