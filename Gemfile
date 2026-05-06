@@ -16,4 +16,6 @@ group :jekyll_plugins do
   gem 'ronn-ng', '~> 0.10.1'
   gem "kramdown-syntax-coderay", "~> 1.0"
   gem "jemoji", "~> 0.13.0"
+  gem 'mastodon-social'
+  gem 'mastodon-api', :git => 'https://github.com/mastodon/mastodon-api.git'
 end
