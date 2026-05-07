@@ -1,7 +1,6 @@
 ---
-layout: post
+date: '2014-07-18T00:00:00Z'
 title: OpenFL, Android and SQLite3
-published: true
 ---
 
 I've been working on a little toy app for Android written in a language entitled Haxe.

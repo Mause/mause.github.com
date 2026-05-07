@@ -1,7 +1,6 @@
 ---
-layout: post
+date: '2014-03-21T00:00:00Z'
 title: Post files with requests
-published: true
 ---
 
 AKA `requests.post(files=?)`

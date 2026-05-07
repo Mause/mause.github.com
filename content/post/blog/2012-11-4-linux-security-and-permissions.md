@@ -1,7 +1,6 @@
 ---
-layout: post
+date: '2012-11-04T00:00:00Z'
 title: Linux Security and Permissions
-published: true
 ---
 
 #### Updated 4/11/2013

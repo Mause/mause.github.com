@@ -1,6 +1,6 @@
 ---
+date: '2017-08-04T00:00:00Z'
 title: PyCon Au 2017 Schedule
-published: true
 ---
 
 ## Wednesday

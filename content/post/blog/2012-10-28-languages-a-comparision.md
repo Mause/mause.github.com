@@ -1,7 +1,7 @@
 ---
-layout: post
+date: '2012-10-28T00:00:00Z'
 title: Languages; A Comparision
-published: false
+draft: true
 ---
 
 When I try to write code in C, I feel like I’m in a steel cage.

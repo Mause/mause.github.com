@@ -1,7 +1,6 @@
 ---
-layout: post
+date: '2014-05-22T00:00:00Z'
 title: Iterator and dictionary cleverness
-published: true
 ---
 
 Something I seem to come across moderately often in my travels in the land of python is having a sequence of key value pairs that need to be converted into a dictionary. It seems to be the case that such patterns are found during scraping of websites and the like.

@@ -1,7 +1,7 @@
 ---
-layout: post
+date: '2013-11-20T00:00:00Z'
 title: 0x10^C, or, DCPUToolchain
-published: false
+draft: true
 ---
 
 Cross posted at over at [my techy blog](http://mause.me/blog/2013/11/20/dcputoolchain.html)

@@ -1,0 +1,4 @@
+baseURL: https://mause.me
+disablePathToLower: true
+locale: en-us
+title: My New Hugo Project

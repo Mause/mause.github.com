@@ -1,7 +1,6 @@
 ---
-layout: post
+date: '2014-10-02T00:00:00Z'
 title: C string startswith
-published: true
 ---
 
 Just a nice snippet of code I found useful;

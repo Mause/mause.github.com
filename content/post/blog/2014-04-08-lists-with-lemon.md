@@ -1,7 +1,7 @@
 ---
-layout: post
+date: '2014-04-08T00:00:00Z'
+# published: true
 title: Parsing lists with Lemon
-published: true
 ---
 
 I was parsing some lists of, erm, labels today in [Lemon](http://www.hwaci.com/sw/lemon/) (with [Ragel](http://www.complang.org/ragel/) as the lexer), and couldn't quickly (read lazily) find a grammar for parsing lists, so voila;

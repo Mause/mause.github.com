@@ -1,6 +1,6 @@
 ---
 title: KiwiPyCon XII
-published: false
+draft: true
 ---
 
 KiwiPyCon was amazing! This post is not about KiwiPyCon. This post is about getting home from KiwiPyCon.
