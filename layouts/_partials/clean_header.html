@@ -59,11 +59,9 @@
         <link rel="stylesheet" href="/stylesheets/docs.css">
         <link rel="stylesheet" href="/stylesheets/custom.css">
 
-        {% if page.extra_css != nil %}
-        <style>
-            {% include {{page.extra_css}} %}
-        </style>
-        {% endif %}
+	{{ if .Page.Params.extra_css }}
+	<link rel="stylesheet" href="{{ .Page.Params.extra_css }}" />
+	{{ end }}
 
         <!--[if lt IE 9]>
             <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
