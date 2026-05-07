@@ -3,3 +3,4 @@ business_card
 .jekyll-cache
 .mypy_cache
 .pytest_cache
+public/
