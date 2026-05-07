@@ -1,10 +1,10 @@
-{% include header.html %}
+{{ partial "header.html" . }}
 
 <h2>{{page.title}}</h2>
 <div class="page_timestamp">Posted on {{page.date}}</div>
 
 <div class="blog-post">
-    {{content}}
+    {{ block "content" . }}{{ .Content }}{{ end }}
 </div>
 
-{% include footer.html %}
+{{ partial "footer.html" . }}
