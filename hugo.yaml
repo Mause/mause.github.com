@@ -2,8 +2,8 @@ baseURL: https://mause.me
 disablePathToLower: true
 locale: en-au
 title: Elliana May
-ignoreLogs: ['warning-goldmark-raw-html']
-disableKinds: ['taxonomy', 'term', 'section']
+ignoreLogs: ["warning-goldmark-raw-html"]
+disableKinds: ["taxonomy", "term", "section"]
 enableEmoji: true
 services:
   googleAnalytics:
