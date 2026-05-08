@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: projects-index
 title: Projects
 extra_css: css/projects_index.css
 type: page
@@ -17,17 +17,4 @@ I have dabbled in some basic Go, Clojure, and Haskell.
 Future goals are to learn more about functional programming languages, and to be comfortable in at least one.
 
 For much of these projects, more information is available on the linked GitHub pages, where applicable.
-
----
-
-{% comment %}
-projects are defined in _data/projects.yml
-
-we cannot indent these as we normally would, as the markdown processor would then consider them to be code/quote blocks
-{% endcomment %}
-
-{% for project in site.data.projects %}
-#### [{{project.name}}:]({{project.link}}) {% for lang in project.languages %}<small>{{lang}}</small>{% if forloop.last == false %}, {% endif %}{% endfor %}
-{{project.description}}
-{% endfor %}
 
