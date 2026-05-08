@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 extra_css: css/projects_index.css
+type: page
 ---
 
 ## Projects
