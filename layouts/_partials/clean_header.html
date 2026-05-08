@@ -39,6 +39,9 @@
         <meta name="msapplication-TileColor" content="#da532c">
         <meta name="msapplication-config" content="/images/browserconfig.xml">
         <meta name="theme-color" content="#ffffff">
+	{{ with .OutputFormats.Get "rss" }}
+	  {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
+	{{ end }}
     </head>
     <body>
         <!-- Primary Page Layout
