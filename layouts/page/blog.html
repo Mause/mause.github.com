@@ -1,3 +1,5 @@
+{{ partial "header.html" . }}
+
 <ul>
   {{- range site.Pages.GroupByDate "2006" -}}
     {{- range .Pages -}}
@@ -13,4 +15,4 @@
   {{- end -}}
 </ul>
 
-
+{{ partial "footer.html" . }}
