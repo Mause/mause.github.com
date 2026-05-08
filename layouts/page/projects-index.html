@@ -1,0 +1,15 @@
+{{.Content}}
+
+---
+
+{{ range hugo.Data.projects }}
+<h4>
+    <a href="{{.link}}">{{.name}}:</a>&nbsp;
+    {{ $len := (len .languages) }}
+    {{ range $index, $lang := .languages }}
+    <small>{{ . }}</small>{{ if ne (add $index 1) $len }}, {{ end }}
+    {{ end }}
+</h4>
+{{.description}}
+{{ end }}
+
