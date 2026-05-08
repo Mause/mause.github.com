@@ -5,3 +5,4 @@ title: Elliana May
 ignoreLogs: ['warning-goldmark-raw-html']
 disableKinds: ['taxonomy', 'term', 'section']
 enableEmoji: true
+googleAnalytics: "UA-31158292-1"
