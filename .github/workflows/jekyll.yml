@@ -42,9 +42,9 @@ jobs:
           ruby-version: "3.4.9"
           bundler-cache: true
       - run: |
-          bundle config set bin "$HOME/bin"
+          # bundle config set bin "$HOME/bin"
           bundler binstubs ronn-ng
-          echo "$HOME/bin" >> $GITHUB_PATH
+          # echo "$HOME/bin" >> $GITHUB_PATH
           pip install weasyprint --upgrade
       - name: Prebuild
         run: make
