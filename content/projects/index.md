@@ -1,7 +1,7 @@
 ---
 layout: projects-index
 title: Projects
-extra_css: css/projects_index.css
+extra_css: /css/projects_index.css
 type: page
 ---
 
