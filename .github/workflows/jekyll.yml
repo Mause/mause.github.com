@@ -45,7 +45,7 @@ jobs:
           pip install weasyprint --upgrade
       - name: Prebuild
         run: make
-        working-directory: cv
+        working-directory: static/cv
 
       - name: Setup Pages
         id: pages
