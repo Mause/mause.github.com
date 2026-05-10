@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 
-<h2>{{page.title}}</h2>
+<h2>{{.Title}}</h2>
 <div class="page_timestamp">Posted on {{time.Format .Site.Params.date_format .PublishDate}}</div>
 
 <div class="blog-post">
