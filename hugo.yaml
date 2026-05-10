@@ -8,3 +8,7 @@ enableEmoji: true
 services:
   googleAnalytics:
     id: "G-H76NF7QEZ6"
+module:
+  hugoVersion:
+    extended: true
+    min: "0.161.1"
