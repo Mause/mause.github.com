@@ -8,6 +8,8 @@ enableEmoji: true
 services:
   googleAnalytics:
     id: "G-H76NF7QEZ6"
+params:
+  date_format: "Jan 2, 2006"
 module:
   hugoVersion:
     extended: true

@@ -8,7 +8,7 @@
           <a href="{{- .RelPermalink -}}">
             {{- .Title -}}
           </a></strong></div>
-          <div class="date">{{ .PublishDate }}</div>
+          <div class="date">{{ time.Format .Site.Params.date_format .PublishDate }}</div>
 	  <br/>
       </li>
     {{- end -}}

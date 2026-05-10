@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 
 <h2>{{page.title}}</h2>
-<div class="page_timestamp">Posted on {{page.date}}</div>
+<div class="page_timestamp">Posted on {{time.Format .Site.Params.date_format .PublishDate}}</div>
 
 <div class="blog-post">
     {{ block "content" . }}{{ .Content }}{{ end }}
