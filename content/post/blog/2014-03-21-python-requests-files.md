@@ -1,6 +1,7 @@
 ---
 date: '2014-03-21T00:00:00Z'
 title: Post files with requests
+layout: post
 ---
 
 AKA `requests.post(files=?)`
@@ -11,7 +12,7 @@ However, trawling through the source code, it would seem that yes, yes, it does.
 
 It seems the following are possible, where ellipses indicate the inclusion of every argument of the above example;
 
-{% gist 9688766 %}
+{{< gist Mause 9688766 >}}
 
 Albeit good that these different forms are supported, ideally all forms should be documented, not just the first.
 
