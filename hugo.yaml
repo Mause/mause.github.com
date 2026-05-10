@@ -5,7 +5,11 @@ title: Elliana May
 ignoreLogs: ["warning-goldmark-raw-html"]
 disableKinds: ["taxonomy", "term", "section"]
 enableEmoji: true
+
 printUnusedTemplates: true
+printI18nWarnings: true
+printPathWarnings: true
+
 services:
   googleAnalytics:
     id: "G-H76NF7QEZ6"
