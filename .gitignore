@@ -6,3 +6,5 @@ business_card
 public/
 .idea
 .hugo_build.lock
+.vercel/
+*.env*
