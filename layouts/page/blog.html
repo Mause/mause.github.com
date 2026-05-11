@@ -3,6 +3,7 @@
 <ul>
   {{- range site.Pages.GroupByDate "2006" -}}
     {{- range .Pages -}}
+    {{ if eq .Type "post" }}
       <li>
         <div class="title"><strong>
           <a href="{{- .RelPermalink -}}">
@@ -11,6 +12,7 @@
           <div class="date">{{ time.Format .Site.Params.date_format .PublishDate }}</div>
 	  <br/>
       </li>
+    {{- end -}}
     {{- end -}}
   {{- end -}}
 </ul>
