@@ -1,4 +1,6 @@
 {{ define "main" }}
+	{{ partial "sidebar.html" . }}
+            <div class="eleven columns offset-by-one">
 
 <h2>{{.Title}}</h2>
 <div class="page_timestamp">Posted on {{time.Format .Site.Params.date_format .PublishDate}}</div>
@@ -7,4 +9,5 @@
     {{.Content}}
 </div>
 
+	    </div>
 {{ end }}

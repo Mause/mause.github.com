@@ -1,5 +1,12 @@
 {{ define "main" }}
 
+{{ partial "sidebar.html" . }}
+            <div class="eleven columns offset-by-one">
+
+		    {{ block "page" . }}
 {{.Content}}
+		    {{ end }}
+
+	    </div>
 
 {{ end }}
