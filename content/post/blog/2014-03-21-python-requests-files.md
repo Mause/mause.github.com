@@ -1,7 +1,6 @@
 ---
 date: '2014-03-21T00:00:00Z'
 title: Post files with requests
-layout: post
 ---
 
 AKA `requests.post(files=?)`
