@@ -15,6 +15,7 @@ services:
     id: "G-H76NF7QEZ6"
 params:
   date_format: "Jan 2, 2006"
+  debug: true
 module:
   hugoVersion:
     extended: true
