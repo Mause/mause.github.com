@@ -1,4 +1,4 @@
-{{ partial "header.html" . }}
+{{ define "main" }}
 
 <ul>
   {{- range site.Pages.GroupByDate "2006" -}}
@@ -17,4 +17,4 @@
   {{- end -}}
 </ul>
 
-{{ partial "footer.html" . }}
+{{ end }}

@@ -1,4 +1,4 @@
-{{ partial "header.html" . }}
+{{ define "page" }}
 
 {{.Content}}
 
@@ -15,4 +15,4 @@
 {{.description}}
 {{ end }}
 
-{{ partial "footer.html" . }}
+{{ end }}
