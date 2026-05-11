@@ -9,4 +9,8 @@
 
 	    </div>
 
+{{ if site.Params.debug }}
+  {{ partial "call-stack.html" . }}
+{{ end }}
+
 {{ end }}
