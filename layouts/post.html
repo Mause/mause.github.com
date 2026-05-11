@@ -1,10 +1,10 @@
-{{ partial "header.html" . }}
+{{ define "main" }}
 
 <h2>{{.Title}}</h2>
 <div class="page_timestamp">Posted on {{time.Format .Site.Params.date_format .PublishDate}}</div>
 
 <div class="blog-post">
-    {{ block "content" . }}{{ .Content }}{{ end }}
+    {{.Content}}
 </div>
 
-{{ partial "footer.html" . }}
+{{ end }}

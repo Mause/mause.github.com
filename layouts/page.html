@@ -1,7 +1,5 @@
-{{ partial "header.html" . }}
+{{ define "main" }}
 
-{{ block "content" . }}
-Page content goes here.
+{{.Content}}
+
 {{ end }}
-
-{{ partial "footer.html" . }}
