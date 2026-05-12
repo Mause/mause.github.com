@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+	{{ partial "google_analytics.html" . }}
+        <meta charset="utf-8">
+
+        <meta name="google-site-verification" content="slVCq4bEyOL6CZj-_4MGN0OfASbkl9g5fky10iTmIHg" />
+        <meta name="keywords" content="may,mause,mause-me">
+
+        <!-- Mobile Specific Metas
+        ================================================== -->
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<title>{{ .Title }} | {{ .Site.Title }}</title>
+       {{ partial "opengraph" . }}
+	{{ partial "twitter_cards.html" . }}
+
+        <!-- CSS
+        ================================================== -->
+        <link rel="stylesheet" href="/stylesheets/base.css">
+        <link rel="stylesheet" href="/stylesheets/skeleton.css">
+        <link rel="stylesheet" href="/stylesheets/layout.css">
+        <link rel="stylesheet" href="/stylesheets/pygments.css">
+        <link rel="stylesheet" href="/stylesheets/docs.css">
+        <link rel="stylesheet" href="/stylesheets/custom.css">
+
+	{{ if .Page.Params.extra_css }}
+	<link rel="stylesheet" href="{{ .Page.Params.extra_css }}" />
+	{{ end }}
+
+        <!-- Favicons
+        ================================================== -->
+        <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+        <link rel="manifest" href="/images/site.webmanifest">
+        <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+        <link rel="shortcut icon" href="/images/favicon.ico">
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="msapplication-config" content="/images/browserconfig.xml">
+        <meta name="theme-color" content="#ffffff">
+	{{ with .OutputFormats.Get "rss" }}
+	  {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
+	{{ end }}
+    </head>
+    <body>
+        <!-- Primary Page Layout
+        ================================================== -->
+
+        <div class="container">

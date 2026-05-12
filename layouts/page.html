@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+{{ partial "sidebar.html" . }}
+            <div class="eleven columns offset-by-one">
+
+		    {{ block "page" . }}
+{{.Content}}
+		    {{ end }}
+
+	    </div>
+
+{{ if site.Params.debug }}
+  {{ partial "call-stack.html" . }}
+{{ end }}
+
+{{ end }}

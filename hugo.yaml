@@ -1,0 +1,22 @@
+baseURL: https://mause.me
+disablePathToLower: true
+locale: en-au
+title: Elliana May
+ignoreLogs: ["warning-goldmark-raw-html"]
+disableKinds: ["taxonomy", "term", "section"]
+enableEmoji: true
+
+printUnusedTemplates: true
+printI18nWarnings: true
+printPathWarnings: true
+
+services:
+  googleAnalytics:
+    id: "G-H76NF7QEZ6"
+params:
+  date_format: "Jan 2, 2006"
+  debug: true
+module:
+  hugoVersion:
+    extended: true
+    min: "0.161.1"
