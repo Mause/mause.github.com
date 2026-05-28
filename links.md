@@ -5,6 +5,8 @@ layout: page
 
 # Links
 
- - Ash - [scylla.neocities.org](https://scylla.neocities.org)
- - Autumn - [auuu.au](https://auuu.au)
- - Hannah - [hannah-m.lgbt](https://hannah-m.lgbt)
+## Friends
+
+ - Ash :puppy: - [scylla.neocities.org](https://scylla.neocities.org)
+ - Autumn :moth: - [auuu.au](https://auuu.au)
+ - Hannah :bunny: - [hannah-m.lgbt](https://hannah-m.lgbt)
