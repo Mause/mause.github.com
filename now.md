@@ -3,11 +3,11 @@ title: Now
 layout: page
 ---
 
-<script type="module" src="./javascripts/now.js"></script>
-
 # Now
 
 This is my [now page](https://nownownow.com/about). It outlines what I'm doing now. It was last updated 16 Mar 2026.
+
+<div id="rich-status">Status: unknown</div>
 
 ---
 
@@ -20,3 +20,5 @@ If you have a lead on a possible gig, feel free to reach out (preferably remote,
 Outside of finding a new gig for myself, I am trying to make the most of the time off by playing some new games (Arc Raiders and Marathon specifically).
 
 I'm also picking up some side projects again, making good use of my brand new Thinkpad :sparkles: running Xubuntu.
+
+<script type="module" src="./javascripts/now.js"></script>
