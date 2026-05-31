@@ -3,7 +3,7 @@ title: Now
 layout: page
 ---
 
-<script type="module" src="./javascripts/now.js" />
+<script type="module" src="./javascripts/now.js"></script>
 
 # Now
 
