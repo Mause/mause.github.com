@@ -4,9 +4,9 @@ resume(1) - elliana may - senior software engineer of 9+ years
 ## DESCRIPTION
 I am a Senior Software Developer, with 6+ years of Java microservices experience, including supporting production
 applications, remediating incidents, and building bespoke DevOps tooling to support application development and BAU.
-I am passionate about building tools to help other software developers do their job better and easier, and mentoring
-developers on how to increase their productivity and on how to solve problems in ways that help them think outside the
-box.
+I am very passionate about building tools to help other software developers do their job better, faster, and easier.
+Additionally, helping and mentoring new developers on how to increase their productivity and on how to solve problems
+in ways that help them think outside the box is something I find very rewarding.
 
 I am looking for a role that would allow me to continue developing these skills, either from a DevOps role supporting
 developers, or for a developer role working closely with DevOps engineers.
