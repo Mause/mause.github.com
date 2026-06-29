@@ -7,7 +7,7 @@ connectWebSocket(
 	({discord_status, spotify}) => {
 		richStatus.textContent = `Status: ${discord_status}`
 		if (spotify) {
-			richStatus.textContent += ` | Currenly listening to ${spotify.song}, by ${spotify.artist}`;
+			richStatus.textContent += ` | Currently listening to ${spotify.song}, by ${spotify.artist}`;
 		}
 	}
 )
