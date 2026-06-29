@@ -46,7 +46,8 @@ developers, or for a developer role working closely with DevOps engineers.
             - Integration point between proprietary "Thunderhead" and "ActiveDocs" document generation systems, and the distributed data in "Nova"
       - Champion of Diversity and Inclusion via Unity (LGBTQIA+ support group):
         - Helped support colleagues in a variety of situations with workplace inclusion difficulties
-        - Spoke on Wear it Purple Day Panel, streamed live across the bank
+        - Spoke on in person Wear it Purple (2020) panel at University of Western Australia, about my experiences and the ways in which the bank supported me
+        - Spoke on Wear it Purple Day Panel (2021), streamed live across the bank
         - Participated in a number of initiates to help be more inclusive towards our customers
 
  * DKB Solutions &#124; Jan 2019 - Aug 2019 (8 months)
