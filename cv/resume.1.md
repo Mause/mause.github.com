@@ -40,6 +40,8 @@ developers, or for a developer role working closely with DevOps engineers.
       - Software Engineer
       - Home Buying Division
       - Spearheaded the development of several instrumental microservice APIs to allow the integration of the "Nova" system with systems elsewhere in the Bank
+        - "NovaLendnet API"
+            - Crucial integration between new "Nova" platform with the legacy 
         - "NovaPrint API":
             - Integration point between proprietary "Thunderhead" and "ActiveDocs" document generation systems, and the distributed data in "Nova"
       - Champion of Diversity and Inclusion via Unity (LGBTQIA+ support group):
