@@ -4,9 +4,9 @@ resume(1) - elliana may - senior software engineer of 9+ years
 ## DESCRIPTION
 I am a Senior Software Developer, with 6+ years of Java microservices experience, including supporting production
 applications, remediating incidents, and building bespoke DevOps tooling to support application development and BAU.
-I am passionate about building tools to help other software developers do their job better and easier, and mentoring
-developers on how to increase their productivity and on how to solve problems in ways that help them think outside the
-box.
+I am very passionate about building tools to help other software developers do their job better, faster, and easier.
+Additionally, helping and mentoring new developers on how to increase their productivity and on how to solve problems
+in ways that help them think outside the box is something I find very rewarding.
 
 I am looking for a role that would allow me to continue developing these skills, either from a DevOps role supporting
 developers, or for a developer role working closely with DevOps engineers.
@@ -26,6 +26,19 @@ developers, or for a developer role working closely with DevOps engineers.
 
  * Atlassian &#124; May 2024 - March 2026
       - P40 software engineer
+      - "Cloud First Migrations"
+        - Worked on building a remote control portal for configurating and initiating migrations on customer infrastructure,  and a realtime
+          monitoring system to consume events from assorted systems regarding the progress and timeline of in-flight migrations originating
+          from client owned infrastructure
+      - "FastShift Portal"
+        - Owned integration with data migration status repository, which required close collaboration with repository owner across timezones
+          and resolving many issues with dirty data
+      - "Project Merger"
+        - As part of the company wide push to reduce the microservice sprawl, worked to integrate the business logic and and relocate the 
+          database of several systems without downtime or data loss
+      - "Project Sentinel"
+        - Worked to develop a system to orchestrate and support large scale testing of Atlassian DC to Cloud migrations, including generation
+          of the terabytes of data and millions of records to facilitate such testing
 
  * Bankwest (Western Australian bank, Commonwealth Bank of Australia subsidiary) &#124; August 2022 - February 2023
       - Senior Software Engineer
@@ -40,11 +53,14 @@ developers, or for a developer role working closely with DevOps engineers.
       - Software Engineer
       - Home Buying Division
       - Spearheaded the development of several instrumental microservice APIs to allow the integration of the "Nova" system with systems elsewhere in the Bank
+        - "NovaLendnet API"
+            - Crucial integration between new "Nova" platform with the legacy 
         - "NovaPrint API":
             - Integration point between proprietary "Thunderhead" and "ActiveDocs" document generation systems, and the distributed data in "Nova"
       - Champion of Diversity and Inclusion via Unity (LGBTQIA+ support group):
         - Helped support colleagues in a variety of situations with workplace inclusion difficulties
-        - Spoke on Wear it Purple Day Panel, streamed live across the bank
+        - Spoke on in person Wear it Purple (2020) panel at University of Western Australia, about my experiences and the ways in which the bank supported me
+        - Spoke on Wear it Purple Day Panel (2021), streamed live across the bank
         - Participated in a number of initiates to help be more inclusive towards our customers
 
  * DKB Solutions &#124; Jan 2019 - Aug 2019 (8 months)
