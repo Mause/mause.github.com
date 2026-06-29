@@ -26,6 +26,15 @@ developers, or for a developer role working closely with DevOps engineers.
 
  * Atlassian &#124; May 2024 - March 2026
       - P40 software engineer
+      - "Cloud First Migrations"
+      - "FastTrack Portal"
+        - Owned integration with data migration status repository, including 
+      - "Project Merger"
+        - As part of the company wide push to reduce the microservice sprawl, worked to integrate the business logic and and relocate the 
+          database of several systems without downtime or data loss
+      - "Project Sentinel"
+        - Worked to develop a system to orchestrate and support large scale testing of Atlassian DC to Cloud migrations, including generation
+          of the terabytes of data and millions of records to facilitate such testing
 
  * Bankwest (Western Australian bank, Commonwealth Bank of Australia subsidiary) &#124; August 2022 - February 2023
       - Senior Software Engineer
