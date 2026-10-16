@@ -22,6 +22,10 @@ developers, or for a developer role working closely with DevOps engineers.
 
 ### Current employment
 
+* Maddyie Labs | July 2026 - Present
+
+  - Staff Software Engineer (Remote)
+
 ### Previous employment
 
  * Atlassian &#124; May 2024 - March 2026
