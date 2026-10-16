@@ -27,14 +27,14 @@ developers, or for a developer role working closely with DevOps engineers.
  * Atlassian &#124; May 2024 - March 2026
       - P40 software engineer
       - "Cloud First Migrations"
-        - Worked on building a remote control portal for configurating and initiating migrations on customer infrastructure,  and a realtime
+        - Worked on building a remote control portal for configuring and initiating migrations on customer infrastructure, and a realtime
           monitoring system to consume events from assorted systems regarding the progress and timeline of in-flight migrations originating
           from client owned infrastructure
       - "FastShift Portal"
         - Owned integration with data migration status repository, which required close collaboration with repository owner across timezones
           and resolving many issues with dirty data
       - "Project Merger"
-        - As part of the company wide push to reduce the microservice sprawl, worked to integrate the business logic and and relocate the 
+        - As part of the company wide push to reduce the microservice sprawl, worked to integrate the business logic and relocate the 
           database of several systems without downtime or data loss
       - "Project Sentinel"
         - Worked to develop a system to orchestrate and support large scale testing of Atlassian DC to Cloud migrations, including generation
